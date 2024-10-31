@@ -1319,3 +1319,29 @@ Procedures and principles regarding implementation of this article shall be regu
 #### Article 101 - Authorized administrative courts  
 ##### 1
 In case of application to administrative judiciary regarding implementation of this Law, where there is more than one administrative court in one place, which administrative court will hear these cases shall be determined by the Council of Judges and Prosecutors.
+#### Article 102 - Administrative fine  
+##### 1
+Unless the act requires a heavier penalty according to other laws:  
+###### a
+Foreigners who, in violation of Article 5, illegally enter or exit Turkey or attempt to do so shall be fined two thousand Turkish Liras,  
+###### b
+Those who, despite being banned from entering Turkey pursuant to first and second paragraphs of Article 9, have managed to enter Turkey shall be fined one thousand Turkish Liras,  
+###### c
+Those who do not leave Turkey within the period granted according to first paragraph of Article 56 shall be fined one thousand Turkish Liras,  
+###### ç
+Those who escape during procedures under Articles 57, 58, 60 and 68 shall be fined one thousand Turkish Liras,  
+###### d
+Carriers who do not comply with obligations stated in first and second paragraphs of Article 98, if the act does not constitute a crime, shall be fined from one thousand to ten thousand Turkish Liras,  
+###### e
+Those who do not comply with obligations stated in subparagraphs (a), (b), (c), (ç), (d) and (f) of first paragraph of Article 57/A shall be fined one thousand Turkish Liras,  
+administrative fine shall be imposed.  
+##### 2
+Persons who enable entry into the country, exit from the country, travel within the country by any vehicle or mount or on foot, accommodation, lodging of foreign persons who do not have valid travel documents, foreigner identity card issued by competent authorities of the Republic of Turkey, residence permit or valid travel permit, as well as persons who rent out their owned real estate shall be fined one thousand Turkish Liras for each foreigner detected for acts not separately defined as crime by laws.  
+##### 3
+In case of repetition of misdemeanors for which administrative fine is foreseen by real persons within a calendar year, fines shall be increased by half.  
+##### 4
+Implementation of administrative fines in this article does not prevent implementation of other administrative measures foreseen in the Law.  
+##### 5
+Administrative fines in this article shall be imposed by governorship or Directorate General or law enforcement units. Imposed fines shall be paid within thirty days from notification date.  
+##### 6
+For non-compliance with obligations stated in regulations put into effect by the Ministry under this Law, administrative fine from five hundred to ten thousand Turkish Liras may be imposed by Directorate General or governorships.
