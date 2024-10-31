@@ -1381,3 +1381,6 @@ For non-compliance with obligations stated in regulations put into effect by the
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
 #### Article 117
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+### Chapter 5 - Provisions on appointment and personnel
+#### Article 118
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
