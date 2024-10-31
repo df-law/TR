@@ -1,6 +1,6 @@
 # Law No. 6458 on Foreigners and International Protection
-## Part One - Purpose, Scope, Definitions and Non-Refoulement
-## Chapter One - Purpose, Scope and Definitions
+## Part 1 - Purpose, Scope, Definitions and Non-Refoulement
+## Chapter 1 - Purpose, Scope and Definitions
 ## Article 1 - Purpose
 ### 1
 The purpose of this Law is to regulate the principles and procedures regarding foreigners' entry into Turkey, their stay in Turkey and their exit from Turkey, as well as the scope and implementation of the protection to be provided to foreigners who request protection from Turkey.
@@ -76,8 +76,8 @@ denotes.
 ## Article 4 - Non-refoulement
 ### 1
 No one within the scope of this Law shall be returned to a place where they may be subjected to torture, inhuman or degrading punishment or treatment, or where their life or freedom would be threatened on account of their race, religion, nationality, membership of a particular social group or political opinions.
-## Part Two - Foreigners 
-## Chapter One - Entry into Turkey and Visas
+## Part 2 - Foreigners 
+## Chapter 1 - Entry into Turkey and Visas
 ## Article 5 - Entry into and exit from Turkey
 ### 1
 ## Article 6 - Document control
@@ -236,7 +236,7 @@ Make agreements on determining procedures regarding passports and visas, and whe
 In case of war or other extraordinary circumstances, impose passport records and conditions for foreigners covering part or all of the country,  
 #### c
 Take any measures that set conditions or restrictions for foreigners' entry into Turkey.
-## CHAPTER TWO - Residence
+## CHAPTER 2 - Residence
 ## Article 19 - Residence permit  
 ### 1
 Foreigners who will stay in Turkey longer than the period granted by their visa or visa exemption, or longer than ninety days, are required to obtain a residence permit.  
@@ -621,8 +621,7 @@ Residence permit issued to provide recovery and reflection period may be extende
 However, these periods shall in no way exceed three years in total.
 ### 2
 Residence permits shall be cancelled in cases where it is determined that foreigners who are strongly suspected to be or may be victims of human trafficking have reestablished connections with perpetrators on their own initiative.
-## CHAPTER THREE
-## Stateless Persons
+## CHAPTER 3- Stateless Persons
 ## Article 50 - Determination of statelessness
 ### 1
 Determination of statelessness shall be made by the Directorate General.  
@@ -651,8 +650,7 @@ Shall be exempt from reciprocity requirement sought in procedures related to for
 Are subject to provisions of Law No. 4817 in matters and procedures related to work permit,
 #### d
 May benefit from provisions of Article 18 of Law No. 5682.
-## CHAPTER FOUR
-## Deportation
+## CHAPTER 4 - Deportation
 ## Article 52 - Deportation
 ### 1
 Foreigners may be deported by deportation decision to country of origin, transit country or a third country.
