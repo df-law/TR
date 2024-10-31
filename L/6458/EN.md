@@ -1452,3 +1452,11 @@ Among those who entered service in public administrations within the scope of ge
 The number of persons appointed in this way cannot exceed seven.
 ##### 2
 The periods spent by those appointed according to this article in assistant or trainee positions shall be deemed to have been spent in assistant inspector positions in the Migration Administration Presidency; periods spent in inspector, auditor, supervisor and controller titled positions shall be deemed to have been spent in inspector positions in the Migration Administration Presidency.
+#### Article 125 - Entry into force
+##### 1
+Of this Law:  
+a) Part Five, excluding Article 122, first, second, fifth and seventh paragraphs of Article 123 and Article 124, shall enter into force on the date of publication,  
+b) Other provisions shall enter into force one year after the date of publication.
+#### Article 126 - Implementation
+##### 1
+The Council of Ministers shall implement the provisions of this Law.
