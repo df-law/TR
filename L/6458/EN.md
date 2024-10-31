@@ -1409,3 +1409,17 @@ The term «residence document» for foreigners used in other legislation shall b
 #### Article 124 - Repealed legislation
 ##### 1
 The Law on Residence and Travel of Foreigners in Turkey No. 5683 dated 15.7.1950 and Articles 4, 6, 7, 8, 9, 10, 11, 24, 25, 26, 28, 29, 32, 33, 35, 36, 38 and supplementary Article 5, first and second paragraphs of Article 5, and the second sentence of first paragraph of Article 34 of the Passport Law No. 5682 dated 15.7.1950 are hereby repealed.
+#### SUPPLEMENTARY ARTICLE 1 - Seizure of vehicles used in migrant smuggling offenses
+##### 1
+Vehicles used in the commission of migrant smuggling offenses shall be seized in accordance with the provisions of paragraph four of Article 128 of the Criminal Procedure Code No. 5271 dated 4.12.2004.
+##### 2
+A vehicle seized pursuant to paragraph one shall not be returned to its owner in case of the existence of any of the following circumstances:  
+a) Being used again in the commission of the same offense while investigation and prosecution continue,  
+b) Not being registered in Turkey,  
+c) Being caught while carrying a significant number of migrants relative to the total number of passengers,  
+ç) Having special equipment that would facilitate the commission of the offense.  
+In this case, if the owner submits collateral equal to the value of the vehicle to the Ministry of Finance within thirty days from the date of seizure, the vehicle shall be returned to the owner.  
+Otherwise, it shall be immediately liquidated by the Ministry of Finance without waiting for the outcome of investigation and prosecution.  
+In case of liquidation through sale, after covering all necessary expenses for the preservation and sale of the vehicle from the proceeds, the remaining amount shall be deposited in an escrow account to be processed according to the outcome of prosecution.
+##### 3
+The value in the application of paragraph two shall mean: for land vehicles, the comprehensive insurance value; for sea vessels, the value that forms the basis for hull and machinery insurance; for uninsured vehicles and air and railway vehicles, the market value.
