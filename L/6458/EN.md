@@ -1384,3 +1384,20 @@ For non-compliance with obligations stated in regulations put into effect by the
 ### Chapter 5 - Provisions on appointment and personnel
 #### Article 118
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 119
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 120
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+## Part 6 - Miscellaneous provisions
+#### Article 121 - Regulation
+##### 1
+Procedures and principles regarding implementation of this Law shall be determined by regulations to be issued.
+#### Article 121/A - Allocation for temporary accommodation centers
+##### 1
+For the purpose of operation and management of temporary accommodation centers within the scope of this Law, allocation for temporary accommodation centers shall be set aside in the budget of the Directorate General.  
+From these funds, which will be used by transferring to a special account by being recorded as expenditure in the Directorate General's budget, transfers may also be made to accounts of public institutions and organizations and local administrations in cases deemed appropriate by the Directorate General.  
+Public institutions and organizations and local administrations may also make transfers to the Directorate General's account to be used for the purposes specified above.  
+Amounts transferred in this way shall be tracked in special accounts without being recorded as revenue in the budgets of relevant public institutions and organizations and local administrations.  
+Expenditures from this account, limited to meeting the needs of temporary accommodation centers, are not subject to provisions of Law No. 5018 on Public Financial Management and Control and Law No. 4734 on Public Procurement; procedures and principles regarding spending, accounting, auditing of these transferred amounts and procurement shall be jointly determined by Ministry of Treasury and Finance and Directorate General.
+##### 2
+The Directorate General may procure services while performing its duties determined within the scope of this article.
