@@ -1345,3 +1345,9 @@ Implementation of administrative fines in this article does not prevent implemen
 Administrative fines in this article shall be imposed by governorship or Directorate General or law enforcement units. Imposed fines shall be paid within thirty days from notification date.  
 ##### 6
 For non-compliance with obligations stated in regulations put into effect by the Ministry under this Law, administrative fine from five hundred to ten thousand Turkish Liras may be imposed by Directorate General or governorships.
+## Part 5 - Directorate General of Migration Management
+### Chapter 1 - Establishment, duties and authority
+#### Article 103
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 104
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
