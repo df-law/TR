@@ -236,7 +236,7 @@ Make agreements on determining procedures regarding passports and visas, and whe
 In case of war or other extraordinary circumstances, impose passport records and conditions for foreigners covering part or all of the country,  
 #### c
 Take any measures that set conditions or restrictions for foreigners' entry into Turkey.
-## CHAPTER 2 - Residence
+## Chapter 2 - Residence
 ## Article 19 - Residence permit  
 ### 1
 Foreigners who will stay in Turkey longer than the period granted by their visa or visa exemption, or longer than ninety days, are required to obtain a residence permit.  
@@ -621,7 +621,7 @@ Residence permit issued to provide recovery and reflection period may be extende
 However, these periods shall in no way exceed three years in total.
 ### 2
 Residence permits shall be cancelled in cases where it is determined that foreigners who are strongly suspected to be or may be victims of human trafficking have reestablished connections with perpetrators on their own initiative.
-## CHAPTER 3- Stateless Persons
+## Chapter 3- Stateless Persons
 ## Article 50 - Determination of statelessness
 ### 1
 Determination of statelessness shall be made by the Directorate General.  
@@ -650,7 +650,7 @@ Shall be exempt from reciprocity requirement sought in procedures related to for
 Are subject to provisions of Law No. 4817 in matters and procedures related to work permit,
 #### d
 May benefit from provisions of Article 18 of Law No. 5682.
-## CHAPTER 4 - Deportation
+## Chapter 4 - Deportation
 ## Article 52 - Deportation
 ### 1
 Foreigners may be deported by deportation decision to country of origin, transit country or a third country.
@@ -842,10 +842,8 @@ Real or legal persons are obligated to pay deportation expenses of foreigners wh
 Material or cash support may be provided to irregular migrants about whom deportation decision has been taken and who want to return voluntarily to country of origin, who are deemed appropriate by Directorate General.
 ### 2
 Work regarding voluntary return of irregular migrants may be carried out in cooperation with international organizations, public institutions and organizations and civil society organizations.
-## PART THREE
-## International Protection
-## CHAPTER ONE
-## Types of International Protection, Exclusion from International Protection
+## Part 3 - International Protection
+## Chapter 1 - Types of International Protection, Exclusion from International Protection
 ## Article 61 - Refugee
 ### 1
 Following status determination procedures, refugee status shall be granted to a foreigner who as a result of events occurring in European countries and owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of their citizenship and is unable or, owing to such fear, is unwilling to avail themselves of the protection of that country; or who, not having a nationality and being outside the country of their former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it.
@@ -882,8 +880,7 @@ Person who participated in or instigated commission of crimes or acts specified 
 In addition to situations specified in subparagraph (c) of first paragraph and third and fourth paragraphs, foreigner or stateless person about whom there are serious indications of posing danger to public order or public security, and foreigner or stateless person who is not under scope of subparagraph (c) of first paragraph but has previously committed crime or crimes which would require imprisonment if committed in Turkey and has left country of origin or residence solely to avoid punishment for this crime, shall be excluded from subsidiary protection.
 ### 6
 Exclusion of applicant from international protection shall not require exclusion of family members provided that none of exclusion grounds applies to other family members.
-## CHAPTER TWO
-## General Procedures
+## Chapter 2 - General Procedures
 ## Article 65 - Application
 ### 1
 International protection applications shall be made to governorates in person.
@@ -1173,8 +1170,7 @@ If person concerned is not represented by lawyer, they themselves or their legal
 Material and cash support may be provided to applicants and international protection status holders who wish to return voluntarily.
 ### 2
 Directorate General may carry out voluntary return work in cooperation with international organizations, public institutions and organizations, civil society organizations.
-## CHAPTER THREE
-## Rights and Obligations
+## Chapter 3 - Rights and Obligations
 ## Article 88 - General principles regarding rights and obligations
 ### 1
 International protection status holders are exempt from reciprocity requirement.
@@ -1228,8 +1224,7 @@ Those who do not comply with obligations written in this Part and those given ne
 Assessment regarding restriction shall be made individually.  
 Decision shall be notified in writing to person concerned or their legal representative or lawyer.  
 If person concerned is not represented by lawyer, they themselves or their legal representative shall be informed about outcome of decision, appeal procedures and periods.
-## PART FOUR
-## Common Provisions on Foreigners and International Protection
+## Part 4 - Common Provisions on Foreigners and International Protection
 ## Article 91 - Temporary protection
 ### 1
 Temporary protection may be provided to foreigners who have been forced to leave their country, cannot return to the country they left, and have arrived at or crossed our borders in mass influx situation seeking urgent and temporary protection.
