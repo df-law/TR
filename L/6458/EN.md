@@ -1278,3 +1278,44 @@ The Directorate General may, within the country's economic and financial means, 
 Foreigners may participate in courses where the country's political structure, language, legal system, culture and history as well as their rights and obligations are explained at a basic level.  
 ##### 3
 Information and awareness activities through courses, distance learning and similar systems on topics such as accessing public and private goods and services, access to education and economic activities, social and cultural communication, receiving basic healthcare services are disseminated by the Directorate General in cooperation with public institutions and organizations as well as non-governmental organizations.
+#### Article 97 - Obligation to comply with invitation  
+##### 1
+Foreigners, applicants and international protection status holders may be invited to the relevant governorship or the Directorate General for the following reasons:  
+###### a
+Emergence of need to examine their entry into or stay in Turkey,  
+###### b
+Existence of possibility of deportation decision being taken about them,  
+###### c
+Notification of procedures related to implementation of this Law.  
+In case of non-compliance with the invitation or existence of serious suspicion that the invitation will not be complied with, foreigners may be brought by law enforcement without invitation.  
+This procedure cannot be implemented as administrative detention and the information gathering period cannot exceed four hours.
+#### Article 98 - Obligations of carriers  
+##### 1
+Carriers are obliged to:  
+###### a
+Return foreigners who are denied entry into Turkey or transit passage through Turkey for any reason, whom they have brought to border gates for entering the country or transit passage through the country, to their country of origin or a country that will definitely accept them,  
+###### b
+Ensure round trip transportation of escorts in cases where escorting of the foreigner is deemed necessary,  
+###### c
+Check documents and permits of persons they transport,  
+###### ç
+Take necessary measures to prevent transportation of inadmissible passenger,  
+###### d
+Cover expenses for food, accommodation and emergency healthcare of inadmissible passengers until their return,  
+###### e
+Make necessary notifications regarding inadmissible passengers.  
+##### 2
+The Directorate General may request from carriers bringing passengers to border gates, taking passengers from border gates and carrying passengers within Turkey, information about all passengers and crew before, during and after their movements.  
+##### 3
+Procedures and principles regarding obligations stated in first and second paragraphs shall be determined by regulation to be jointly issued by the Ministry and the Ministry of Transport, Maritime Affairs and Communications.
+#### Article 99 - Personal data  
+##### 1
+Personal data of foreigners, applicants and international protection status holders shall be collected, protected, stored and used by the Directorate General or governorates in accordance with relevant legislation and international agreements to which Turkey is a party.
+#### Article 100 - Notification  
+##### 1
+Notification procedures under this Law shall be carried out according to provisions of the Notification Law No. 7201 dated 11/2/1959.  
+##### 2
+Procedures and principles regarding implementation of this article shall be regulated by regulation taking into account that the person concerned is a foreigner and their special circumstances if any.
+#### Article 101 - Authorized administrative courts  
+##### 1
+In case of application to administrative judiciary regarding implementation of this Law, where there is more than one administrative court in one place, which administrative court will hear these cases shall be determined by the Council of Judges and Prosecutors.
