@@ -1423,3 +1423,32 @@ Otherwise, it shall be immediately liquidated by the Ministry of Finance without
 In case of liquidation through sale, after covering all necessary expenses for the preservation and sale of the vehicle from the proceeds, the remaining amount shall be deposited in an escrow account to be processed according to the outcome of prosecution.
 ##### 3
 The value in the application of paragraph two shall mean: for land vehicles, the comprehensive insurance value; for sea vessels, the value that forms the basis for hull and machinery insurance; for uninsured vehicles and air and railway vehicles, the market value.
+#### TEMPORARY ARTICLE 1 - Transitional provisions
+##### 1
+Files, records and other documents in written and electronic form, information systems, electronic projects and databases maintained by the General Directorate of Security concerning matters falling within the scope of duties of the General Directorate shall be gradually transferred to the General Directorate and relevant provincial units.  
+Regarding the transfer, a protocol shall be made between the General Directorate of Security and the General Directorate within six months from the publication date of this article and shall enter into force upon the Minister's approval.
+##### 2
+One year after the publication of this Law, movable property belonging to reception and accommodation centers and removal centers shall be deemed transferred to the General Directorate without any further procedure, and immovable property shall be deemed allocated to the General Directorate without any further procedure.  
+Operations carried out due to transfer shall be exempt from fees, and documents issued shall be exempt from stamp duty.  
+The Minister is authorized to resolve issues that may arise regarding the transfer of movable property and allocation of immovable property and similar matters in the implementation of this Law.
+##### 3
+The appropriation need for the General Directorate's expenditures for fiscal year 2013 shall be met according to subparagraph (ç) of first paragraph of Article 6 of the Central Government Budget Law for Year 2013 No. 6363 dated 20.12.2012.  
+Until 31.12.2014, appointments not exceeding fifty percent of positions established for the Directorate General of Migration Management may be made without being subject to the limitations in Law No. 6363.
+##### 4
+Until the date when the provincial organization of the General Directorate is completed according to the principles specified in this Law, duties and services being carried out shall continue to be performed by units or personnel that previously performed these duties and services.  
+The General Directorate may employ personnel working in the said units at the date when organization in relevant places is completed according to the mentioned article for up to three years from the transfer date without being subject to the numerical limitation specified in the second paragraph of Article 118.
+##### 5
+The General Directorate may employ personnel who have served for at least two years in the Foreigners Border Asylum Department of the General Directorate of Security and relevant branches of provincial security directorates to work in the central organization according to the mentioned article for three years from the publication date of this article without being subject to the numerical limitation specified in the second paragraph of Article 118.
+##### 6
+Foreigners who apply in writing to governorates within one year from the effective date of Part Two of this Law shall benefit from rights granted to them regarding residence permits in this Law.
+##### 7
+For those who were granted status according to the Regulation on Procedures and Principles to be Applied to Individual Foreigners Seeking Asylum in Turkey or Requesting Residence Permit from Turkey to Seek Asylum in Another Country and to Foreigners Coming to Our Borders for Mass Asylum Purposes and to Possible Population Movements, put into effect by Council of Ministers Decision No. 94/6169 dated 14.9.1994, before the effective date of Part Three of this Law, actions shall be taken according to their status specified in this Law, and procedures of applicants shall be concluded according to this Law.  
+From the publication date of this Law until the effective date of Part Three, residence permit fee shall not be collected from those granted status and applicants according to the mentioned Regulation.
+##### 8
+Until regulations regarding the implementation of this Law enter into force, provisions of existing regulations that do not conflict with this Law shall continue to be applied.
+#### TEMPORARY ARTICLE 2 - Transfer appointment to inspector positions
+##### 1
+Among those who entered service in public administrations within the scope of general and special budget through special competitive examination and who have served for at least five years, including periods in assistant or trainee positions, in inspector, auditor, supervisor and controller positions after qualifying examination following a specific training program, those who succeed in written and/or oral examination may be transferred to inspector positions in the Migration Administration Presidency suitable to their status within one year from the effective date of this article.  
+The number of persons appointed in this way cannot exceed seven.
+##### 2
+The periods spent by those appointed according to this article in assistant or trainee positions shall be deemed to have been spent in assistant inspector positions in the Migration Administration Presidency; periods spent in inspector, auditor, supervisor and controller titled positions shall be deemed to have been spent in inspector positions in the Migration Administration Presidency.
