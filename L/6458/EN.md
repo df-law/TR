@@ -1400,3 +1400,12 @@ Amounts transferred in this way shall be tracked in special accounts without bei
 Expenditures from this account, limited to meeting the needs of temporary accommodation centers, are not subject to provisions of Law No. 5018 on Public Financial Management and Control and Law No. 4734 on Public Procurement; procedures and principles regarding spending, accounting, auditing of these transferred amounts and procurement shall be jointly determined by Ministry of Treasury and Finance and Directorate General.
 ##### 2
 The Directorate General may procure services while performing its duties determined within the scope of this article.
+#### Article 122 - Referenced provisions
+##### 1
+References made in other legislation to the Law on Residence and Travel of Foreigners in Turkey No. 5683 dated 15.7.1950 shall be deemed to have been made to this Law.  
+The term «residence document» for foreigners used in other legislation shall be understood as «residence permit» in this Law.
+#### Article 123
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 124 - Repealed legislation
+##### 1
+The Law on Residence and Travel of Foreigners in Turkey No. 5683 dated 15.7.1950 and Articles 4, 6, 7, 8, 9, 10, 11, 24, 25, 26, 28, 29, 32, 33, 35, 36, 38 and supplementary Article 5, first and second paragraphs of Article 5, and the second sentence of first paragraph of Article 34 of the Passport Law No. 5682 dated 15.7.1950 are hereby repealed.
