@@ -1351,3 +1351,21 @@ For non-compliance with obligations stated in regulations put into effect by the
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
 #### Article 104
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+### Chapter 2 - Migration Policy Board
+#### Article 105
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+### Chapter 3 - Central, Provincial and Overseas Organization, Service Units
+#### Article 106
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 107
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 108
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 109
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 110
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 111
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
+#### Article 112
+*Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
