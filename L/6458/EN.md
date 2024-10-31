@@ -12,65 +12,65 @@ The provisions of international agreements to which Turkey is a party and specia
 ## Article 3 - Definitions
 ### 1
 In the implementation of this Law:
-#### a
+###### a
 Family members: the spouse, minor child and dependent adult child of the applicant or the person who has international protection status,
-#### b
+###### b
 European countries: member states of the Council of Europe and other countries to be determined by the President,
-#### c
+###### c
 Minister: Minister of Interior,
-#### ç
+###### ç
 Ministry: Ministry of Interior,
-#### d
+###### d
 Applicant: a person who has made an international protection request and for whom a final decision has not yet been made,
-#### e
+###### e
 Child: a person who has not yet reached the age of eighteen and is not considered an adult,
-#### f
+###### f
 Sponsor: Turkish citizen or legally resident foreigner who covers the expenses of foreigners coming to Turkey for family unification purposes and who is referenced by those requesting residence permits,
-#### g
+###### g
 Director General: Director General of the Directorate of Migration Management,
-#### ğ
+###### ğ
 Directorate General: Directorate General of Migration Management,
-#### h
+###### h
 Entry and exit control: control procedures at border gates,
-#### ı
+###### ı
 Migration: regular migration denoting foreigners' legal entry into, stay in and exit from Turkey, irregular migration denoting foreigners' illegal entry into, stay in, exit from and work in Turkey without permission, and international protection,
-#### i
+###### i
 Residential address: the place registered in the address registration system in Turkey,
-#### j
+###### j
 Residence permit: the permit issued for staying in Turkey,
-#### k
+###### k
 Consulate: consulates general, consulates or consular sections of embassies of the Republic of Turkey,
-#### l
+###### l
 Person with special needs: among applicants and international protection status holders: unaccompanied minors, disabled persons, elderly people, pregnant women, single parents with children or persons who have been subjected to torture, sexual assault or other serious psychological, physical or sexual violence,
-#### m
+###### m
 Unaccompanied minor: a child who arrives in Turkey or remains unaccompanied by an adult responsible for them by law or custom after entry into Turkey, unless they are effectively taken into the care of a responsible person,
-#### n
+###### n
 Travel document: document that substitutes for a passport,
-#### o
+###### o
 Border gate: border crossing point designated by Presidential decision for entry into and exit from Turkey,
-#### ö
+###### ö
 Final decision: decision made by the Directorate General if no administrative appeal is filed and no judicial review is sought, or a decision that cannot be appealed in case of judicial review, regarding the application of an applicant or the status of a person who has international protection status,
-#### p
+###### p
 Convention: the Convention Relating to the Status of Refugees dated 28/7/1951, amended by the 1967 Protocol,
-#### r
+###### r
 International protection: refugee, conditional refugee or subsidiary protection status,
-#### s
+###### s
 Country of citizenship: the country of which the foreigner is a citizen, or each country in cases where the foreigner has multiple citizenships,
-#### ş
+###### ş
 Stateless person: a person who is not considered a citizen by any state and is considered a foreigner,
-#### t
+###### t
 Visa: permission that grants the right to stay in Turkey for up to ninety days or for transit passage,
-#### u
+###### u
 Visa exemption: arrangement that removes the requirement to obtain a visa,
-#### ü
+###### ü
 Foreigner: a person who does not have citizenship bonds with the Republic of Turkey,
-#### v
+###### v
 Foreigner identification number: identification number issued to foreigners pursuant to the Population Services Law No. 5490 dated 25/4/2006,
-#### y
+###### y
 Authorized intermediary institution: institution or organization whose qualifications and framework of duties are determined by regulation and which is authorized by the Directorate General,
-#### z
+###### z
 Inadmissible passenger: a person who arrives at border gates to enter or transit through the country but is not permitted entry or transit passage due to not meeting the requirements in the legislation,
-#### aa
+###### aa
 Carrier: natural or legal person owners of land, air, sea and railway vehicles carrying foreign passengers, or commercial operators of land, air, sea and railway transportation,
 denotes.
 ## Article 4 - Non-refoulement
@@ -96,11 +96,11 @@ Procedures and principles regarding comprehensive control shall be regulated by 
 ## Article 7 - Foreigners who will not be allowed to enter Turkey
 ### 1
 The following foreigners shall be considered inadmissible passengers and shall not be allowed to enter Turkey and shall be refused entry:
-#### a
+###### a
 Those who do not have a passport, document substituting for passport, visa or residence or work permit, and those whose documents or permits are found to have been obtained fraudulently or are found to be counterfeit
-#### b
+###### b
 Those who do not have a passport or document substituting for passport valid for at least sixty days beyond the expiration of their visa, visa exemption period or residence permit
-#### c
+###### c
 Subject to the provisions of the second paragraph of Article 15, foreigners listed in the first paragraph of Article 15, even if they fall within the scope of visa exemption
 ### 2
 Actions related to this article shall be notified to the foreigners who are refused entry. The notification shall also include how foreigners can effectively exercise their rights to appeal against the decision and other legal rights and obligations in this process.
@@ -155,19 +155,19 @@ Procedures and principles regarding visa types and procedures shall be regulated
 ## Article 12 - Visa exemption  
 ### 1
 The following foreigners shall not be required to have a visa to enter Turkey:  
-#### a
+###### a
 Citizens of countries exempted from visa requirements through agreements to which the Republic of Turkey is a party or by Presidential decision  
-#### b
+###### b
 Those who have valid residence permits or work permits as of the date they will enter Turkey  
-#### c
+###### c
 Holders of special stamped passports for foreigners issued and not expired pursuant to Article 18 of the Passport Law No. 5682 dated 15/7/1950  
-#### ç
+###### ç
 Those who are determined to fall within the scope of Article 28 of the Turkish Citizenship Law No. 5901 dated 29/5/2009  
 ### 2
 The following foreigners may not be required to have a visa to enter Turkey:  
-#### a
+###### a
 Persons from vehicles forced to use Turkish air and sea ports due to force majeure circumstances who will disembark in the port city  
-#### b
+###### b
 Persons arriving at seaports who intend to visit the port city or neighboring provinces for tourism purposes, provided that their stay does not exceed seventy-two hours
 ## Article 13 - Visas issued at border gates  
 ### 1
@@ -187,42 +187,42 @@ Foreigners who will be required to have airport transit visas shall be jointly d
 ## Article 15 - Foreigners who will not be issued a visa  
 ### 1
 Visa shall not be issued to the following foreigners:  
-#### a
+###### a
 Those who do not have a passport or document substituting for passport valid for at least sixty days longer than the requested visa period  
-#### b
+###### b
 Those who are banned from entering Turkey  
-#### c
+###### c
 Those who are considered objectionable in terms of public order or public security  
-#### ç
+###### ç
 Those who carry diseases that are qualified as a threat to public health  
-#### d
+###### d
 Those who are accused of or convicted for crimes that constitute grounds for extradition of criminals according to agreements to which the Republic of Turkey is a party  
-#### e
+###### e
 Those who do not have valid health insurance covering their period of stay  
-#### f
+###### f
 Those who cannot justify their purpose of entry into, transit through or stay in Turkey with valid reasons  
-#### g
+###### g
 Those who do not have sufficient and regular financial means for their period of stay  
-#### ğ
+###### ğ
 Those who do not agree to pay debts arising from visa violations or previous residence permits, or debts that need to be collected according to Law No. 6183 dated 21/7/1953 on Collection Procedure of Public Receivables, or who do not agree to pay debts and penalties pursued according to Turkish Criminal Code No. 5237 dated 26/9/2004  
 ### 2
 Despite falling under this article, visa may be issued with the Minister's approval to those whose visa issuance is deemed beneficial.
 ## Article 16 - Cancellation of visa  
 ### 1
 Visas shall be cancelled by visa-issuing authorities or governorates in the following cases:  
-#### a
+###### a
 Detection that it has been subject to forgery,  
-#### b
+###### b
 Discovery of erasure, scraping or alteration,  
-#### c
+###### c
 Prohibition of visa holder's entry into Turkey,  
-#### ç
+###### ç
 Presence of strong suspicion that the foreigner may commit a crime,  
-#### d
+###### d
 If the passport or document substituting for passport is fraudulent or has expired,  
-#### e
+###### e
 Use of visa or visa exemption outside its purpose,  
-#### f
+###### f
 Discovery that conditions or documents on which the visa was based are invalid.
 ## Article 17 - Notification of visa procedures  
 ### 1
@@ -230,11 +230,11 @@ Procedures regarding visa refusal or visa cancellation shall be notified to the 
 ## Article 18 - Authority of the President in visa and passport procedures  
 ### 1
 The President is authorized to:  
-#### a
+###### a
 Make agreements on determining procedures regarding passports and visas, and when deemed necessary, unilaterally lift visa requirements for citizens of certain states, introduce visa facilitation including exemption from visa fees, and determine visa periods,  
-#### b
+###### b
 In case of war or other extraordinary circumstances, impose passport records and conditions for foreigners covering part or all of the country,  
-#### c
+###### c
 Take any measures that set conditions or restrictions for foreigners' entry into Turkey.
 ## Chapter 2 - Residence
 ## Article 19 - Residence permit  
@@ -244,21 +244,21 @@ A residence permit becomes invalid if not started to be used within six months.
 ## Article 20 - Exemption from residence permit  
 ### 1
 The following foreigners shall be exempted from residence permit:  
-#### a
+###### a
 Those arriving with visa or visa exemption for up to ninety days, during their visa or visa exemption period  
-#### b
+###### b
 Holders of Stateless Person Identity Card  
-#### c
+###### c
 Diplomatic and consular officers on duty in Turkey  
-#### ç
+###### ç
 Family members of diplomatic and consular officers on duty in Turkey who are reported by the Ministry of Foreign Affairs  
-#### d
+###### d
 Those working in representations of international organizations in Turkey whose status is determined by agreements  
-#### e
+###### e
 Those exempted from residence permit through agreements to which the Republic of Turkey is a party  
-#### f
+###### f
 Those falling within the scope of Article 28 of Law No. 5901  
-#### g
+###### g
 Document holders falling within the scope of first paragraphs of Articles 76 and 83  
 ### 2
 Foreigners specified in subparagraphs (c), (ç), (d) and (e) of the first paragraph shall be issued a document whose form and content are jointly determined by the Ministry and the Ministry of Foreign Affairs.  
@@ -285,27 +285,27 @@ Has the authority to record the share to be received as special revenue in the g
 ## Article 22 - Residence permit applications that can be made within Turkey
 ### 1
 Residence permit applications may be made to governorates as an exception in the following cases:
-#### a
+###### a
 In decisions or requests of judicial or administrative authorities
-#### b
+###### b
 In cases where it is not reasonable or possible for the foreigner to leave Turkey
-#### c
+###### c
 For long-term residence permits
-#### ç
+###### ç
 For student residence permits
-#### d
+###### d
 For humanitarian residence permits
-#### e
+###### e
 For human trafficking victim residence permits
-#### f
+###### f
 When transitioning from family residence permit to short-term residence permit
-#### g
+###### g
 For applications made by parents who have residence permits in Turkey for their children born in Turkey
-#### ğ
+###### ğ
 For applications to obtain a new residence permit suitable for the new purpose of stay due to termination or change of the grounds on which the current residence permit was issued
-#### h
+###### h
 For residence permit applications made under the second paragraph of Article 20
-#### ı
+###### ı
 For transitions to short-term residence permit for those who have completed higher education in Turkey
 ## Article 23 - Issuance and format of residence permits  
 ### 1
@@ -356,48 +356,48 @@ Procedures and principles regarding transitions between residence permits shall 
 ## Article 30 - Types of residence permits
 ### 1
 Types of residence permits are as follows:
-#### a
+###### a
 Short-term residence permit
-#### b
+###### b
 Family residence permit
-#### c
+###### c
 Student residence permit
-#### ç
+###### ç
 Long-term residence permit
-#### d
+###### d
 Humanitarian residence permit
-#### e
+###### e
 Human trafficking victim residence permit
 ## Article 31 - Short-term residence permit
 ### 1
 Short-term residence permit may be granted to the following foreigners:
-#### a
+###### a
 Those who will come for scientific research purposes
-#### b
+###### b
 Those who own immovable property in Turkey
-#### c
+###### c
 Those who will establish business connections or business
-#### ç
+###### ç
 Those who will participate in on-the-job training programs
-#### d
+###### d
 Those who will come for educational or similar purposes within the framework of agreements to which the Republic of Turkey is a party or student exchange programs
-#### e
+###### e
 Those who will stay for tourism purposes
-#### f
+###### f
 Those who will receive treatment provided they do not carry diseases qualified as a threat to public health
-#### g
+###### g
 Those who must stay in Turkey based on request or decision of judicial or administrative authorities
-#### ğ
+###### ğ
 Those transitioning from family residence permit to short-term residence permit
-#### h
+###### h
 Those who will attend Turkish language learning courses
-#### ı
+###### ı
 Those who will participate in education, research, internship and courses in Turkey through public institutions
-#### i
+###### i
 Those who apply within six months from graduation date after completing higher education in Turkey
-#### j
+###### j
 Those who do not work in Turkey but will make investments in scope and amount to be determined by the President, and their foreign spouse, their minor or dependent foreign children and their spouse's minor or dependent foreign children
-#### k
+###### k
 Citizens of the Turkish Republic of Northern Cyprus
 ### 2
 Short-term residence permit, excluding subparagraphs (j) and (k) of the first paragraph, may be issued for maximum two-year periods each time.
@@ -410,37 +410,37 @@ Residence permits issued under subparagraphs (j) and (k) of first paragraph may 
 ## Article 32 - Conditions for short-term residence permit
 ### 1
 The following conditions are required for issuance of short-term residence permits:
-#### a
+###### a
 To make a request by claiming one or more of the grounds listed in the first paragraph of Article 31 and submit information and documents related to this request
-#### b
+###### b
 Not to fall within the scope of Article 7
-#### c
+###### c
 To have accommodation conditions complying with general health and safety standards
-#### ç
+###### ç
 To submit, if requested, a document showing criminal record issued by competent authorities of the country of citizenship or legal residence
-#### d
+###### d
 To provide address information where they will stay in Turkey
 ## Article 33 - Rejection, cancellation or non-extension of short-term residence permit
 ### 1
 In the following cases, short-term residence permit shall not be issued, if issued shall be cancelled, expired ones shall not be extended:
-#### a
+###### a
 Failure to fulfill or cessation of one or more conditions required in Article 32
-#### b
+###### b
 Determination that residence permit is used outside its purpose of issuance
-#### c
+###### c
 Staying abroad for more than one hundred and twenty days in total within the last year
-#### ç
+###### ç
 Having a valid deportation or entry ban decision to Turkey
 ### 2
 Procedures and principles regarding cancellation of residence permit in terms of duration of stay abroad shall be regulated by regulation.
 ## Article 34 - Family residence permit
 ### 1
 Family residence permit may be issued for up to three years each time to:
-#### a
+###### a
 Foreign spouse,
-#### b
+###### b
 Minor foreign child of the applicant or spouse,
-#### c
+###### c
 Dependent foreign child of the applicant or spouse,
 of Turkish citizens, those falling under Article 28 of Law No. 5901, or foreigners having one of the residence permits, as well as refugees and subsidiary protection status holders.  
 However, the duration of family residence permit shall in no way exceed the duration of the sponsor's residence permit.
@@ -461,44 +461,44 @@ In case of death of sponsor, short-term residence permit may be issued to those 
 ## Article 35 - Conditions for family residence permit
 ### 1
 The following conditions are required from sponsor in family residence permit applications:
-#### a
+###### a
 To have monthly income not less than minimum wage in total and not less than one third of minimum wage per family member
-#### b
+###### b
 To have accommodation conditions complying with general health and safety standards according to family population and have health insurance covering all family members
-#### c
+###### c
 To document with criminal record that as of application date, not been convicted of any crimes against family order within five years
-#### ç
+###### ç
 To have been staying in Turkey with residence permit for at least one year
-#### d
+###### d
 To be registered in address registration system
 ### 2
 Subparagraph (ç) of first paragraph shall not apply to those having residence permit for scientific research or work permit, those falling under Article 28 of Law No. 5901, or foreigners married to Turkish citizens.
 ### 3
 The following conditions are required from foreigners who will apply for family residence permit to stay with sponsor in Turkey:
-#### a
+###### a
 To submit information and documents showing that they fall under first paragraph of Article 34
-#### b
+###### b
 To demonstrate that they live or intend to live together with persons specified in first paragraph of Article 34
-#### c
+###### c
 Not to have entered into marriage for purpose of obtaining family residence permit
-#### ç
+###### ç
 To be eighteen years old for each spouse
-#### d
+###### d
 Not to fall within scope of Article 7
 ### 4
 For refugees and subsidiary protection status holders in Turkey, conditions specified in first paragraph of this article may not be sought.
 ## Article 36 - Rejection, cancellation or non-extension of family residence permit application
 ### 1
 In the following cases, family residence permit shall not be issued, if issued shall be cancelled, expired ones shall not be extended:
-#### a
+###### a
 Failure to meet or cessation of conditions required in first and third paragraphs of Article 35
-#### b
+###### b
 Not being issued short-term residence permit after cessation of conditions for obtaining family residence permit
-#### c
+###### c
 Having a valid deportation or entry ban decision to Turkey
-#### ç
+###### ç
 Determination that family residence permit is used outside its purpose of issuance
-#### d
+###### d
 Staying abroad for more than one hundred and eighty days in total within the last year
 ### 2
 Procedures and principles regarding cancellation of residence permit in terms of duration of stay abroad shall be regulated by regulation.
@@ -524,22 +524,22 @@ Residence permit may be issued during the study period to foreigners who will st
 ## Article 39 - Conditions for student residence permit
 ### 1
 The following conditions are required for student residence permit:
-#### a
+###### a
 To submit information and documents under Article 38
-#### b
+###### b
 Not to fall within scope of Article 7
-#### c
+###### c
 To provide address information where they will stay in Turkey
 ## Article 40 - Rejection, cancellation or non-extension of student residence permit request
 ### 1
 In the following cases, student residence permit shall not be issued, if issued shall be cancelled, shall not be extended:
-#### a
+###### a
 Failure to meet or cessation of conditions required in Article 39
-#### b
+###### b
 Emergence of evidence that education cannot be continued
-#### c
+###### c
 Determination that student residence permit is used outside its purpose of issuance
-#### ç
+###### ç
 Having a valid deportation decision or entry ban to Turkey
 ## Article 41 - Students' right to work
 ### 1
@@ -555,28 +555,28 @@ Refugees, conditional refugees and subsidiary protection status holders as well 
 ## Article 43 - Conditions for long-term residence permit
 ### 1
 The following conditions are required for transition to long-term residence permit:
-#### a
+###### a
 To have stayed in Turkey continuously for at least eight years with residence permit
-#### b
+###### b
 Not to have received social assistance within last three years
-#### c
+###### c
 To have sufficient and regular income source to maintain themselves or their family if any
-#### ç
+###### ç
 To have valid health insurance
-#### d
+###### d
 Not to constitute threat to public order or public security
 ### 2
 For foreigners who are deemed appropriate to be issued long-term residence permit due to meeting conditions determined by the Ministry, conditions other than subparagraph (d) of first paragraph shall not be sought.
 ## Article 44 - Rights provided by long-term residence permit
 ### 1
 Foreigners with long-term residence permit shall benefit from rights granted to Turkish citizens, excluding:
-#### a
+###### a
 Obligation to perform military service,
-#### b
+###### b
 Right to vote and be elected,
-#### c
+###### c
 Right to enter public service,
-#### ç
+###### ç
 Right to import vehicles with exemption,
 subject to preserving acquired rights regarding social security and being subject to provisions of relevant legislation in exercising these rights, excluding provisions in special laws.
 ### 2
@@ -584,28 +584,28 @@ The President is authorized to impose partial or complete restrictions on rights
 ## Article 45 - Cancellation of long-term residence permit
 ### 1
 Long-term residence permits shall be cancelled in cases:
-#### a
+###### a
 When the foreigner constitutes serious threat to public order or public security,
-#### b
+###### b
 When staying outside Turkey for more than one year continuously for a reason other than health, education and mandatory public service in their country.
 ### 2
 Procedures and principles regarding applications by foreigners whose long-term residence permit was cancelled under subparagraph (b) of first paragraph to obtain this permit again and their finalization shall be determined by regulation.
 ## Article 46 - Humanitarian residence permit
 ### 1
 In the following cases, humanitarian residence permit may be issued and extended by governorates with approval of Directorate General, without seeking conditions required for issuance of other residence permits, limited to periods determined by the Ministry:
-#### a
+###### a
 When best interest of child is concerned
-#### b
+###### b
 When foreigners who have deportation or entry ban decision taken about them cannot be removed from Turkey or their departure from Turkey is not considered reasonable or possible
-#### c
+###### c
 When deportation decision is not taken about foreigner pursuant to Article 55
-#### ç
+###### ç
 When judicial remedy is sought against actions carried out pursuant to Articles 53, 72 and 77
-#### d
+###### d
 During continuation of procedures for returning applicant to first asylum country or safe third country
-#### e
+###### e
 When foreigners who need to be permitted entry into Turkey and stay in Turkey due to emergency reasons or for protection of country's interests and in terms of public order and public security do not have possibility to obtain one of other residence permits due to circumstances preventing issuance of residence permit
-#### f
+###### f
 In extraordinary situations
 ## Article 47 - Cancellation or non-extension of humanitarian residence permit
 ### 1
@@ -640,15 +640,15 @@ Procedures and principles regarding determination of statelessness situations an
 ## Article 51 - Rights and guarantees granted to stateless persons
 ### 1
 Persons holding Stateless Person Identity Document:
-#### a
+###### a
 May apply to obtain one of the residence permits in this Law,
-#### b
+###### b
 Shall not be deported as long as they do not constitute serious threat to public order or public security,
-#### c
+###### c
 Shall be exempt from reciprocity requirement sought in procedures related to foreigners,
-#### ç
+###### ç
 Are subject to provisions of Law No. 4817 in matters and procedures related to work permit,
-#### d
+###### d
 May benefit from provisions of Article 18 of Law No. 5682.
 ## Chapter 4 - Deportation
 ## Article 52 - Deportation
@@ -669,48 +669,48 @@ Subject to foreigner's consent, the foreigner shall not be deported during appea
 ## Article 54 - Persons about whom deportation decision shall be taken
 ### 1
 Deportation decision shall be taken about following foreigners:
-#### a
+###### a
 Those who are evaluated to require deportation under Article 59 of Law No. 5237
-#### b
+###### b
 Those who are leaders, members, supporters of terrorist organizations or leaders, members, supporters of criminal organizations acting for profit
-#### c
+###### c
 Those who use false information and forged documents in procedures for entry to Turkey, visa and residence permits
-#### ç
+###### ç
 Those who maintain their living through illegitimate means during their stay in Turkey
-#### d
+###### d
 Those who pose a threat to public order or public security or public health
-#### e
+###### e
 Those who exceed visa or visa exemption period by more than ten days or whose visa is cancelled
-#### f
+###### f
 Those whose residence permits are cancelled
-#### g
+###### g
 Those who have residence permit but violate residence permit period by more than ten days from its expiration without acceptable justification
-#### ğ
+###### ğ
 Those who are determined to be working without work permit
-#### h
+###### h
 Those who violate or attempt to violate provisions of legal entry to Turkey or legal exit from Turkey
-#### ı
+###### ı
 Those who are determined to have come to Turkey despite having entry ban
-#### i
+###### i
 Those whose international protection application is rejected, who are excluded from international protection, whose application is considered inadmissible, who withdraw application, whose application is considered withdrawn, whose international protection status has ended or been cancelled, and who do not have right to stay in Turkey according to other provisions of this Law after final decision given about them
-#### j
+###### j
 Those whose residence permit extension applications are rejected and who do not leave Turkey within ten days
-#### k
+###### k
 Those who are evaluated to be associated with terrorist organizations defined by international institutions and organizations
 ### 2
 Deportation decision may be taken at any stage of international protection procedures about persons who are evaluated to fall under subparagraphs (b), (d) and (k) of first paragraph of this article and who are international protection applicants or international protection status holders.
 ## Article 55 - Persons about whom deportation decision shall not be taken
 ### 1
 Even if they fall within scope of Article 54, deportation decision shall not be taken about following foreigners:
-#### a
+###### a
 Those about whom there are serious indications that they would be subjected to death penalty, torture, inhuman or degrading punishment or treatment in country to which they would be deported
-#### b
+###### b
 Those whose travel is considered risky due to serious health problems, age and pregnancy
-#### c
+###### c
 Those who are undergoing treatment for life-threatening diseases and have no possibility of treatment in country to which they would be deported
-#### ç
+###### ç
 Victims of human trafficking benefiting from victim support process
-#### d
+###### d
 Victims of psychological, physical or sexual violence until their treatment is completed
 ### 2
 Evaluations under first paragraph shall be made separately for each person.  
@@ -757,19 +757,19 @@ Data obtained as result of examination cannot be used for other purposes.
 ## Article 57/A - Obligations alternative to administrative detention
 ### 1
 Following obligations alternative to administrative detention may be imposed on foreigners listed in second paragraph of Article 57 or foreigners whose administrative detention is terminated:
-#### a
+###### a
 Residing at specific address
-#### b
+###### b
 Notification
-#### c
+###### c
 Family-based return
-#### ç
+###### ç
 Return counseling
-#### d
+###### d
 Voluntary participation in public benefit services
-#### e
+###### e
 Guarantee
-#### f
+###### f
 Electronic monitoring
 ### 2
 In case one or more obligations from first paragraph are imposed on foreigner, this period cannot exceed twenty-four months.
@@ -800,15 +800,15 @@ Procedures and principles regarding establishment, management, operation, transf
 ## Article 59 - Services to be provided in removal centers
 ### 1
 In removal centers:
-#### a
+###### a
 Emergency and basic health services whose costs cannot be covered by foreigner shall be provided free of charge,
-#### b
+###### b
 Foreigner shall be provided opportunity to access and meet with relatives, notary, legal representative and lawyer, and also access to telephone services,
-#### c
+###### c
 Foreigner shall be provided opportunity to meet with visitors, consular official of country of citizenship, United Nations High Commissioner for Refugees official,
-#### ç
+###### ç
 Best interests of children shall be considered, families shall be accommodated in separate places,
-#### d
+###### d
 Necessary measures shall be taken by Ministry of National Education regarding children's benefiting from education and training.
 ### 2
 Representatives of relevant civil society organizations with expertise in migration field may visit removal centers with permission of Directorate General.
@@ -819,17 +819,17 @@ Foreigners in removal centers shall be taken to border gates by law enforcement 
 Foreigners who will be deported without need for transfer to removal centers shall be taken to border gates by law enforcement units under coordination of territorial organization of Directorate General.
 ### 3
 Travel expenses of foreigners to be deported shall be covered by themselves. Following provisions shall apply regarding coverage of travel expenses:
-#### a
+###### a
 If foreigner's existing money is sufficient to cover all deportation travel expenses, deportation travel expenses shall be covered from foreigner's existing money and remaining amount shall be left to them.
-#### b
+###### b
 If foreigner has no money, all travel expenses shall be covered by Directorate General.
-#### c
+###### c
 If foreigner's existing money is not sufficient to cover all travel expenses:
 ##### 1
 Travel expenses shall be covered by Directorate General and amount of foreigner's existing money sufficient to cover basic needs of foreigners to be deported, determined by Directorate General at beginning of each fiscal year, shall be left to them and remaining part shall be recorded as revenue to Treasury in return for travel expenses.
 ##### 2
 If foreigner's existing money is below amount sufficient to cover basic needs, all travel expenses shall be covered by Directorate General and existing money shall be left to them.
-#### ç
+###### ç
 Until expenses are reimbursed, foreigners may be denied entry to Turkey.
 ### 4
 Directorate General may cooperate with international organizations, relevant country authorities and civil society organizations regarding deportation procedures.
@@ -854,21 +854,21 @@ Conditional refugee shall be allowed to stay in Turkey until resettled to a thir
 ## Article 63 - Subsidiary protection
 ### 1
 Following status determination procedures, subsidiary protection status shall be granted to a foreigner or stateless person who cannot be qualified as refugee or conditional refugee but who would, if returned to country of origin or country of residence, face:
-#### a
+###### a
 Death penalty sentence or execution of death penalty,
-#### b
+###### b
 Torture, inhuman or degrading punishment or treatment,
-#### c
+###### c
 Serious threat to their person due to indiscriminate violence in situations of international or internal armed conflict,
 and therefore is unable or, owing to such threat, unwilling to avail themselves of the protection of country of origin or country of residence.
 ## Article 64 - Exclusion from international protection
 ### 1
 Applicant shall be excluded from international protection if:
-#### a
+###### a
 Currently receiving protection or assistance from organs or agencies of United Nations other than United Nations High Commissioner for Refugees,
-#### b
+###### b
 Recognized by authorities of country of residence as having rights and obligations related to citizenship of that country,
-#### c
+###### c
 There are serious reasons for considering that they have committed crimes specified in paragraph (F) of Article 1 of Convention.
 ### 2
 When protection or assistance mentioned in subparagraph (a) of first paragraph has ceased for any reason, such persons shall be entitled to protection provided by this Law if their position has not been definitively settled in accordance with relevant UN General Assembly resolutions.
@@ -899,12 +899,12 @@ Receipt and assessment of applications shall not prevent implementation of other
 ## Article 66 - Unaccompanied children
 ### 1
 Following provisions shall apply to unaccompanied children applying for international protection:
-#### a
+###### a
 Best interest of child shall be primary consideration in all procedures related to unaccompanied children.  
 From moment application is received, provisions of Child Protection Law No. 5395 dated 3/7/2005 shall apply.
-#### b
+###### b
 Foreigners whose physical appearance does not match their declared age shall undergo age determination in health institutions by Ministry's direction and those determined to be under eighteen years old shall be handed over to provincial directorates of Ministry of Family, Labor and Social Services.
-#### c
+###### c
 Taking into account opinion of unaccompanied child, Ministry of Family, Labor and Social Services shall place them in suitable accommodation facilities or with adult relatives or foster family.
 ## Article 67 - Persons with special needs
 ### 1
@@ -917,13 +917,13 @@ Applicants shall not be placed under administrative detention solely for having 
 ### 2
 Placing applicants under administrative detention is an exceptional measure.  
 Applicant may be placed under administrative detention only in following cases:
-#### a
+###### a
 If there are serious doubts about accuracy of identity or citizenship information, for purpose of establishing this information
-#### b
+###### b
 For purpose of preventing illegal entry into country at border gates
-#### c
+###### c
 If elements constituting basis of their application cannot be determined without administrative detention
-#### ç
+###### ç
 If they pose serious threat to public order or public security
 ### 3
 Need for administrative detention shall be assessed individually.  
@@ -981,13 +981,13 @@ Applicant is obliged to register in address registration system and notify resid
 ## Article 72 - Inadmissible application 
 ### 1
 Decision shall be made that application is inadmissible if applicant:
-#### a
+###### a
 Has renewed same application without presenting different grounds,
-#### b
+###### b
 After giving consent for application to be made on their behalf, has made separate application at any stage without showing justified reason or without presenting different grounds after rejection of application,
-#### c
+###### c
 Has come from country falling under Article 73,
-#### ç
+###### ç
 Has come from country falling under Article 74.
 ### 2
 If circumstances specified in first paragraph emerge at any stage of assessment, assessment shall be suspended.
@@ -1008,13 +1008,13 @@ This situation shall be notified to person concerned.
 If person concerned is not accepted by country designated as safe third country, procedures regarding application shall be continued.
 ### 2
 Countries meeting following conditions shall be qualified as safe third country:
-#### a
+###### a
 Life or freedom of persons is not threatened on account of their race, religion, nationality, membership of a particular social group or political opinions
-#### b
+###### b
 Principle of non-refoulement to countries where persons would be subjected to torture, inhuman or degrading punishment or treatment is being applied
-#### c
+###### c
 Person has possibility to request refugee status and obtain protection in accordance with Convention if recognized as refugee
-#### ç
+###### ç
 Person does not face risk of serious harm
 ### 3
 Whether a country is safe third country for applicant shall be assessed separately for each applicant, including connections between that person and country that make reasonable sending applicant to relevant third country.
@@ -1031,17 +1031,17 @@ Identity document is not subject to any fees and substitutes for residence permi
 ## Article 77 - Withdrawal of application or considering it withdrawn
 ### 1
 Application shall be considered withdrawn and assessment shall be suspended if applicant:
-#### a
+###### a
 Declares in writing withdrawal of application,
-#### b
+###### b
 Fails to appear for interview three times consecutively without excuse,
-#### c
+###### c
 Escapes from place of administrative detention,
-#### ç
+###### ç
 Fails to fulfill notification obligation three times consecutively without excuse, does not go to determined residence place or leaves residence place without permission,
-#### d
+###### d
 Objects to collection of personal data,
-#### e
+###### e
 Does not comply with obligations in registration and interview.
 ## Article 78 - Decision
 ### 1
@@ -1064,19 +1064,19 @@ If person concerned is not represented by lawyer, they themselves or their legal
 ## Article 79 - Accelerated assessment
 ### 1
 Application shall be assessed in accelerated manner if applicant:
-#### a
+###### a
 Has not mentioned any issues requiring international protection while presenting grounds during application,
-#### b
+###### b
 Has misled authorities by using false documents or providing misleading information and documents, or by not providing information and documents that could negatively affect decision,
-#### c
+###### c
 Has destroyed or disposed of identity or travel documents maliciously to make determination of identity or citizenship difficult,
-#### ç
+###### ç
 Is under administrative detention for deportation,
-#### d
+###### d
 Has applied solely to delay or prevent implementation of decision that would lead to their removal from Turkey,
-#### e
+###### e
 Poses danger to public order or public security or has been previously deported from Turkey for these reasons,
-#### f
+###### f
 Has made new application after previous application was considered withdrawn.
 ### 2
 Interview shall be conducted with applicant whose application is assessed in accelerated manner within maximum three days from application date.  
@@ -1088,20 +1088,20 @@ Applications of unaccompanied children cannot be assessed in accelerated manner.
 ## Article 80 - Administrative appeal and judicial remedy
 ### 1
 Following provisions shall apply when administrative appeal and judicial remedy are sought against decisions taken pursuant to provisions in this Part:
-#### a
+###### a
 Person concerned or their legal representative or lawyer may appeal to International Protection Assessment Commission within ten days from notification of decision.  
 However, only judicial remedy may be sought against decisions given according to Articles 68, 72 and 79.
-#### b
+###### b
 Decision taken as result of administrative appeal shall be notified to person concerned or their legal representative or lawyer.  
 In case of negative decision, if person concerned is not represented by lawyer, they themselves or their legal representative shall be informed about outcome of decision, appeal procedures and periods.
-#### c
+###### c
 Ministry may regulate administrative appeal procedures against decisions.
-#### ç
+###### ç
 Except for judicial remedy regulated in Article 68, against decisions taken under Articles 72 and 79, person concerned or their legal representative or lawyer may apply to competent administrative court within fifteen days from notification of decision, and against other administrative decisions and actions within thirty days from notification of decision.
-#### d
+###### d
 Applications to court under Articles 72 and 79 shall be concluded within fifteen days.  
 Court's decision on this matter is final.
-#### e
+###### e
 Person concerned shall be allowed to stay in country until appeal or judicial process is concluded.
 ## Article 81 - Legal services and counseling
 ### 1
@@ -1130,19 +1130,19 @@ Travel document requests of conditional refugees and subsidiary protection statu
 ## Article 85 - End of international protection status
 ### 1
 International protection status holder's status shall end if person:
-#### a
+###### a
 Voluntarily re-avails themselves of protection of country of citizenship,
-#### b
+###### b
 Voluntarily re-acquires lost citizenship,
-#### c
+###### c
 Has acquired new citizenship and enjoys protection of country of new citizenship,
-#### ç
+###### ç
 Has voluntarily returned to country they left or outside which they remained due to fear of persecution,
-#### d
+###### d
 May avail themselves of protection of country of citizenship as circumstances on which status was granted have ceased to exist,
-#### e
+###### e
 Being stateless, may return to country of former habitual residence as circumstances on which status was granted have ceased to exist,
-#### f
+###### f
 Subject to provisions of Article 84: voluntarily leaves Turkey, benefits from protection of third country, is accepted to third country for humanitarian reasons or within resettlement, exits to third country or dies.
 ### 2
 In examining paragraphs (d) and (e) of first paragraph, it shall be considered whether circumstances on which status was granted have ceased to exist or have changed significantly and persistently.
@@ -1158,9 +1158,9 @@ If person concerned is not represented by lawyer, they themselves or their legal
 ## Article 86 - Cancellation of international protection status
 ### 1
 Status shall be cancelled for persons granted international protection status who:
-#### a
+###### a
 Have caused status to be granted by using false documents, fraud, deception or by not declaring facts,
-#### b
+###### b
 After being granted status, are understood to have been subject to exclusion under Article 64.
 ### 2
 Cancellation decision containing material grounds and legal bases shall be notified to person concerned or their legal representative or lawyer.  
@@ -1183,41 +1183,41 @@ Applicant or international protection status holder and family members shall ben
 Those in need among applicants or international protection status holders may be provided access to social assistance and services.
 ### 3
 Among applicants or international protection status holders:
-#### a
+###### a
 Those who do not have any health insurance and do not have ability to pay shall be subject to provisions of Social Insurance and General Health Insurance Law No. 5510 dated 31/5/2006 for one year from international protection application registration.  
 One year time limit shall not be sought for those with special needs and those whose insurance registration continuation is deemed appropriate by Ministry.  
 Appropriation shall be allocated to Directorate General budget for payment of premiums of persons who will benefit from general health insurance.  
 Complete premium or certain ratio may be requested from those whose premiums are paid by Directorate General according to their ability to pay.  
 Foreigners given negative decision by administration regarding their application shall be removed from general health insurance coverage.
-#### b
+###### b
 Those who are later understood to have health insurance or ability to pay or to have made application solely for purpose of receiving medical treatment shall be reported to Social Security Institution within maximum ten days for termination of their general health insurance, and treatment and medicine expenses shall be recovered from them.
 ### 4
 Regarding access to labor market:
-#### a
+###### a
 Applicant or conditional refugee may apply for work permit six months after international protection application date.
-#### b
+###### b
 Refugee or subsidiary protection status holder may work dependently or independently from date of status acquisition.  
 Provisions in other legislation regarding jobs and professions in which foreigners cannot work are reserved.  
 Identity document to be issued to refugee or subsidiary protection status holder shall also substitute for work permit and this situation shall be written on identity document.
-#### c
+###### c
 Access to labor market of refugee and subsidiary protection status holder may be restricted for specific period to certain sectors, professions, lines of business or geographical areas when required by conditions in labor market, developments in working life and sectoral and economic conditions regarding employment.  
 However, these restrictions shall not apply to refugee and subsidiary protection status holders who have resided in Turkey for three years or are married to Turkish citizen or have Turkish citizen child.
-#### ç
+###### ç
 Procedures and principles regarding working of applicant or international protection status holders shall be determined by Ministry of Labor and Social Security after receiving opinion of Ministry.
 ### 5
 Except for those listed in Articles 72 and 79, applicant who is determined to be in need may be provided pocket money according to procedures and principles to be determined by Ministry after receiving appropriate opinion of Ministry of Finance.
 ## Article 90 - Obligations
 ### 1
 Applicant or international protection status holder shall, in addition to obligations written in this Part:
-#### a
+###### a
 Report current information about working status within thirty days,
-#### b
+###### b
 Report income, movable and immovable assets within thirty days,
-#### c
+###### c
 Report changes in address, identity and marital status within twenty business days,
-#### ç
+###### ç
 Pay back fully or partially costs in case it is determined that they have unfairly benefited from provided services, assistance and other opportunities,
-#### d
+###### d
 Fulfill what is requested from them by Directorate General within framework of this Part.
 ### 2
 Those who do not comply with obligations written in this Part and those given negative decision regarding their applications and international protection status may be restricted in terms of benefiting from rights other than education and basic health rights.  
