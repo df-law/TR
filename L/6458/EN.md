@@ -1369,7 +1369,6 @@ For non-compliance with obligations stated in regulations put into effect by the
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
 #### Article 112
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
-*Отменена: Декрет № 703 от 02.07.2018, ст. 71*
 ### Chapter 4 - Permanent boards and commissions and temporary commissions
 #### Article 113
 *Repealed: Decree Law No. 703 dated 02.07.2018, Article 71*
