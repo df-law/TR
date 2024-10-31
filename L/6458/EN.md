@@ -1224,7 +1224,7 @@ Those who do not comply with obligations written in this Part and those given ne
 Assessment regarding restriction shall be made individually.  
 Decision shall be notified in writing to person concerned or their legal representative or lawyer.  
 If person concerned is not represented by lawyer, they themselves or their legal representative shall be informed about outcome of decision, appeal procedures and periods.
-## Part 4 - Common Provisions on Foreigners and International Protection
+### Chapter 4 - Common Provisions on Foreigners and International Protection
 #### Article 91 - Temporary protection
 ##### 1
 Temporary protection may be provided to foreigners who have been forced to leave their country, cannot return to the country they left, and have arrived at or crossed our borders in mass influx situation seeking urgent and temporary protection.
@@ -1270,3 +1270,11 @@ To the extent possible, the unity of families staying in the centers shall be pr
 Representatives of relevant non-governmental organizations with expertise in migration may visit reception and accommodation centers with permission from the Directorate General.  
 ##### 9
 Procedures and principles regarding establishment, management and operation of reception and accommodation centers shall be regulated by regulation.
+## Part 4 - Common provisions on foreigners and international protection  
+#### Article 96 - Integration  
+##### 1
+The Directorate General may, within the country's economic and financial means, plan integration activities utilizing recommendations and contributions from public institutions and organizations, local authorities, non-governmental organizations, universities and international organizations, in order to facilitate mutual integration of foreigners, applicants or international protection status holders with society in our country and provide them with knowledge and skills that will enable them to act independently without third party mediation in all areas of social life in our country, in their resettlement country or in their country upon return.  
+##### 2
+Foreigners may participate in courses where the country's political structure, language, legal system, culture and history as well as their rights and obligations are explained at a basic level.  
+##### 3
+Information and awareness activities through courses, distance learning and similar systems on topics such as accessing public and private goods and services, access to education and economic activities, social and cultural communication, receiving basic healthcare services are disseminated by the Directorate General in cooperation with public institutions and organizations as well as non-governmental organizations.
