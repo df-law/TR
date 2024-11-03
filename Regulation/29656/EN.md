@@ -137,3 +137,18 @@ During entry into Turkey, it shall be checked whether the foreigner falls within
 In implementing this article, those who need to undergo comprehensive control may be detained for up to four hours.  
 During this period, the foreigner may either return to their country at any time or, without being limited to the four-hour period, wait for the completion of procedures related to admission to the country.  
 Procedures and principles regarding comprehensive control shall be regulated by regulation.
+#### Article 7 - Foreigners who will not be allowed to enter Turkey
+##### 1
+The following foreigners shall be considered inadmissible passengers.  
+They shall not be allowed to enter Turkey and shall be refused entry:  
+###### a
+Those who do not have a passport, document substituting for passport, visa or residence or work permit, and those whose documents or permits are found to have been obtained fraudulently or are found to be counterfeit.  
+###### b
+Those who do not have a passport or document substituting for passport valid for at least sixty days beyond the expiration of their visa, visa exemption period or residence permit.  
+###### c
+Subject to the provisions of the second paragraph of Article 15, foreigners listed in the first paragraph of Article 15, even if they fall within the scope of visa exemption.  
+##### 2
+Actions related to this article shall be notified to the foreigners who are refused entry.  
+The notification shall also include how foreigners can effectively exercise their rights to appeal against the decision and other legal rights and obligations in this process.  
+##### 3
+Foreigners falling under this article shall wait in designated areas at border gates until their procedures are completed.
