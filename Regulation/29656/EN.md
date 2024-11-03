@@ -152,3 +152,73 @@ Actions related to this article shall be notified to the foreigners who are refu
 The notification shall also include how foreigners can effectively exercise their rights to appeal against the decision and other legal rights and obligations in this process.  
 ##### 3
 Foreigners falling under this article shall wait in designated areas at border gates until their procedures are completed.
+#### Article 8 - Entry ban to Turkey and the requirement of prior permission
+##### 1
+The Directorate General may issue an entry ban decision for foreigners whose presence in Turkey is deemed objectionable in terms of public order, public security, or public health; if a deportation decision has been made against a foreigner while they are in Turkey, the Directorate General or the governorships may decide on the entry ban.  
+##### 2
+Procedures related to the entry ban are as follows:  
+###### a
+The start date of the entry ban for foreigners to be deported is the date of their exit from the country.  
+###### b
+For foreigners who have exceeded the duration of their visa, visa exemption, work permit, or residence permit by more than **10 days** and applied to the governorships to exit Turkey before a deportation decision is made or before being notified of this decision, the duration of the entry ban to Turkey shall not exceed **1 year**, provided that all fines and related penalties arising from the visa, visa exemption, or residence permit violation are paid, unless there are other grounds for the entry ban.  
+###### c
+For foreigners who have exceeded the duration of their visa, visa exemption, work permit, or residence permit by more than **10 days** and who come to the border gate on their own to exit without a deportation decision being made, an entry ban decision may not be issued due to visa or residence violation, unless there are other grounds for an entry ban.  
+###### ç
+Necessary data entry is made to track the collection of travel expenses, partially or fully covered by the Directorate General, for foreigners deported at the Directorate General's expense.  
+###### d
+Foreigners who do not pay the travel expenses covered by the Directorate General may be denied entry into the country.  
+###### e
+The entry ban is issued for a maximum period of **5 years**.  
+After **5 years**, if there is a serious threat to public order or security, the previously imposed five-year entry ban may be extended for another **10 years**, either at once or in stages.  
+However, the duration of the entry ban cannot exceed **15 years** for the same reason.  
+###### f
+The Directorate General may lift the entry ban before the period expires if deemed necessary or allow the foreigner to enter Turkey for a specified period while retaining the entry ban.  
+##### 3
+Due to public order or public security reasons, the entry of certain foreigners may be subject to prior permission based on the request of the relevant public institutions or directly by the Directorate General.  
+Foreigners subject to the prior permission requirement, as seen in the system, are not allowed to enter the country without the positive opinion of the Directorate General.
+#### Article 9 - Notification of the entry ban and prior permission requirement
+##### 1
+Notification regarding the entry ban and prior permission requirement:  
+###### a
+If foreigners who are subject to an entry ban or prior permission requirement apply to consulates for a visa, residence permit, or work permit, notification is carried out by consulate officers,  
+###### b
+If the foreigner is in Turkey, notification is carried out by the governorship,  
+###### c
+For foreigners with an entry ban decision, notification is carried out by the law enforcement unit responsible for entry-exit procedures at border gates upon their exit from Turkey.
+#### Article 10 - Visa requirement and principles
+##### 1
+Subject to the provisions on visa exemption, foreigners intending to stay in Turkey for up to **90 days** arrive with a visa appropriate to their purpose, obtained from consulates in the country of which they are citizens or where they are legally residing. The duration of stay granted by the visa or visa exemption cannot exceed **90 days** in every **180-day** period.  
+##### 2
+The following categories of foreigners are exempt from this requirement:  
+###### a
+Foreigners who have a valid residence or work permit in Turkey.  
+###### b
+Persons covered under Article **28** of the Turkish Citizenship Law numbered **5901**, dated **29/5/2009**.  
+###### c
+Foreigners exempted from residence permit requirements under bilateral or multilateral agreements to which Turkey is a party.  
+###### ç
+Diplomatic and consular officials assigned in Turkey, as well as their spouses and dependent children, limited to family members reported by the Ministry of Foreign Affairs.  
+###### d
+Persons working in representations of international organizations in Turkey, whose status is defined by agreements.  
+###### e
+Persons holding an "identity document for stateless persons" issued under the first paragraph of Article **50** of the Law.  
+###### f
+Persons possessing a valid "registration certificate," "identity document of the international protection applicant," or "identity document of the person granted international protection status" within the framework of an international protection application.  
+###### g
+Persons temporarily protected under Article **91** of the Law.  
+###### ğ
+Drivers and their assistants entering Turkey with multiple-entry visas for transportation purposes.  
+###### h
+Migrants admitted to Turkey under the Settlement Law.  
+##### 3
+Possession of a visa by a foreigner does not prevent the application of provisions of the Law regarding persons who are not allowed entry to Turkey. If it is determined that the foreigner is among those who are prohibited from entering Turkey, entry is not permitted.  
+##### 4
+Visas are issued for use within a maximum period of **10 years**. Visas not used within **6 months** from the date of issuance become invalid.  
+##### 5
+Foreigners with a residence permit who enter the country on a visa may use the duration of stay granted by the visa if it exceeds the duration of their residence permit. Those arriving under a visa exemption agreement may also stay until the end of the exemption period if their residence permit duration is shorter.  
+##### 6
+If, due to force majeure circumstances such as weather conditions, accidents, technical failures in vehicles, or health issues, a foreigner must enter through an unplanned border gate, they may be permitted entry with their existing visa.  
+##### 7
+The application of these provisions shall be subject to the provisions of bilateral or multilateral agreements to which Turkey is a party, as well as the principle of reciprocity.  
+##### 8
+The Ministry and the Ministry of Foreign Affairs, while carrying out visa and passport procedures, shall, if necessary, consult relevant public institutions and organizations and jointly submit a proposal to the Council of Ministers.
