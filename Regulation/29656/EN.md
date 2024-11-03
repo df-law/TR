@@ -124,3 +124,16 @@ During the investigation, information and documents may be requested from the fo
 ##### 1
 Entry into and exit from Turkey shall be carried out at border gates with a valid passport or documents substituting for passport.  
 The Ministry shall take necessary measures to ensure that this general regulation is not implemented in a way that would prevent persons from applying for international protection at border gates.
+#### Article 6 - Document control
+##### 1
+A foreigner must present their passport or document(s) substituting for passport to officials during entry into and exit from Turkey.  
+##### 2
+Document checks related to border crossings may also be carried out on vehicles while in transit.  
+##### 3
+Foreigners using transit areas of airports may be subject to control by authorized authorities.  
+##### 4
+During entry into Turkey, it shall be checked whether the foreigner falls within the scope of Article 7.  
+##### 5
+In implementing this article, those who need to undergo comprehensive control may be detained for up to four hours.  
+During this period, the foreigner may either return to their country at any time or, without being limited to the four-hour period, wait for the completion of procedures related to admission to the country.  
+Procedures and principles regarding comprehensive control shall be regulated by regulation.
