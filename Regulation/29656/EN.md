@@ -225,3 +225,25 @@ If, due to force majeure circumstances such as weather conditions, accidents, te
 The application of these provisions shall be subject to the provisions of bilateral or multilateral agreements to which Turkey is a party, as well as the principle of reciprocity.  
 ##### 8
 The Ministry and the Ministry of Foreign Affairs, while carrying out visa and passport procedures, shall, if necessary, consult relevant public institutions and organizations and jointly submit a proposal to the Council of Ministers.
+#### Article 11 - Types of visas and their purpose
+##### 1
+The types of visas are as follows:  
+###### a
+Tourism visa: granted to foreigners wishing to come to Turkey for tourism or official visits, business meetings, conferences, seminars, meetings, festivals, fairs, exhibitions, sports events, and cultural or artistic activities.  
+###### b
+Transit visa: a transit visa is granted to foreigners wishing to pass through Turkey within a specified time after entering through any border gate; the transit period restarts at each entry through the border gate within the visa's validity period.  
+###### c
+Airport transit visa: issued to foreigners wishing to pass through the air border gate without entering Turkey.  
+###### ç
+Education visa: issued to foreigners wishing to come to Turkey for education, study, internship, courses, student exchange programs, or Turkish language courses.  
+###### d
+Work visa: issued to foreigners covered under Article **55** of the Implementation Regulation of the Law on Work Permits for Foreigners, published in the Official Gazette dated **29/8/2003** and numbered **25214**, as well as to foreigners who are not covered by this regulation but wish to come to Turkey for work purposes.  
+###### e
+Official duty visa: issued to foreigners appointed for official duties or assigned as diplomatic couriers.  
+###### f
+Other visas: granted to foreigners coming to Turkey for purposes other than those listed in paragraphs (a), (b), (c), (ç), (d), (e), such as archaeological excavations, research, film or documentary shooting, treatment, accompaniment, family reunification, humanitarian aid, and transportation.  
+##### 2
+The purpose of the foreigner's visit is specified on the visa.  
+##### 3
+The provisions regarding the free migrant visa, which is issued in accordance with the first paragraph of Article **5** of the Settlement Law numbered **5543**, are applied by the Ministry and the Ministry of Foreign Affairs with consideration of their specific conditions.
+
