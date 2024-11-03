@@ -187,7 +187,8 @@ If the foreigner is in Turkey, notification is carried out by the governorship,
 For foreigners with an entry ban decision, notification is carried out by the law enforcement unit responsible for entry-exit procedures at border gates upon their exit from Turkey.
 #### Article 10 - Visa requirement and principles
 ##### 1
-Subject to the provisions on visa exemption, foreigners intending to stay in Turkey for up to **90 days** arrive with a visa appropriate to their purpose, obtained from consulates in the country of which they are citizens or where they are legally residing. The duration of stay granted by the visa or visa exemption cannot exceed **90 days** in every **180-day** period.  
+Subject to the provisions on visa exemption, foreigners intending to stay in Turkey for up to **90 days** arrive with a visa appropriate to their purpose, obtained from consulates in the country of which they are citizens or where they are legally residing.  
+The duration of stay granted by the visa or visa exemption cannot exceed **90 days** in every **180-day** period.  
 ##### 2
 The following categories of foreigners are exempt from this requirement:  
 ###### a
