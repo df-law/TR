@@ -211,9 +211,11 @@ Drivers and their assistants entering Turkey with multiple-entry visas for trans
 ###### h
 Migrants admitted to Turkey under the Settlement Law.  
 ##### 3
-Possession of a visa by a foreigner does not prevent the application of provisions of the Law regarding persons who are not allowed entry to Turkey. If it is determined that the foreigner is among those who are prohibited from entering Turkey, entry is not permitted.  
+Possession of a visa by a foreigner does not prevent the application of provisions of the Law regarding persons who are not allowed entry to Turkey.   
+If it is determined that the foreigner is among those who are prohibited from entering Turkey, entry is not permitted.  
 ##### 4
-Visas are issued for use within a maximum period of **10 years**. Visas not used within **6 months** from the date of issuance become invalid.  
+Visas are issued for use within a maximum period of **10 years**.  
+Visas not used within **6 months** from the date of issuance become invalid.  
 ##### 5
 Foreigners with a residence permit who enter the country on a visa may use the duration of stay granted by the visa if it exceeds the duration of their residence permit. Those arriving under a visa exemption agreement may also stay until the end of the exemption period if their residence permit duration is shorter.  
 ##### 6
