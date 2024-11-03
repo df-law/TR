@@ -1,6 +1,6 @@
 # Regulation on Implementation of the Law on Foreigners and International Protection
-## Part one - General Provisions
-### Chapter one - Purpose, Scope, Legal Basis and Definitions
+## Part 1 - General Provisions
+### Chapter 1 - Purpose, Scope, Legal Basis and Definitions
 #### Article 1 - Purpose and scope
 ##### 1
 The purpose of this Regulation is to regulate the principles and procedures regarding foreigners' entry into Turkey, their stay in Turkey and exit from Turkey, as well as the scope and implementation of protection to be provided to foreigners who request protection from Turkey.  
@@ -103,3 +103,18 @@ Foreigner: a person who does not have citizenship bonds with the Republic of Tur
 ###### mm
 Foreigner identification number: identification number issued to foreigners pursuant to Population Services Law No. 5490 dated 25/4/2006,  
 denotes.
+### Chapter 2 - Non-refoulement
+#### Article 4 - Non-refoulement
+##### 1
+The principle of non-refoulement applies to all foreigners within the scope of the Law.  
+##### 2
+Before foreigners who do not have the right to stay in Turkey are deported or sent from the country, the governorship shall ex officio investigate whether:  
+###### a
+They would be subjected to torture, inhuman or degrading punishment or treatment in the place where they would be deported or sent.  
+###### b
+Their life or freedom would be threatened on account of their race, religion, nationality, membership of a particular social group or political opinions.  
+##### 3
+A foreigner may not be deported or sent to a country where it is determined through investigation that they would face dangers.  
+These persons shall be processed according to other provisions of the Law regarding international protection, residence or deportation, and the Directorate General shall be immediately informed.  
+##### 4
+During the investigation, information and documents may be requested from the foreigner as well as country of origin information may be utilized.
