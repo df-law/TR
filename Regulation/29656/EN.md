@@ -118,3 +118,9 @@ A foreigner may not be deported or sent to a country where it is determined thro
 These persons shall be processed according to other provisions of the Law regarding international protection, residence or deportation, and the Directorate General shall be immediately informed.  
 ##### 4
 During the investigation, information and documents may be requested from the foreigner as well as country of origin information may be utilized.
+## Part 2 - Foreigners
+### Chapter 1 - Entry into Turkey and Visas
+#### Article 5 - Entry into and exit from Turkey
+##### 1
+Entry into and exit from Turkey shall be carried out at border gates with a valid passport or documents substituting for passport.  
+The Ministry shall take necessary measures to ensure that this general regulation is not implemented in a way that would prevent persons from applying for international protection at border gates.
