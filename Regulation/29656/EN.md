@@ -1874,3 +1874,27 @@ The Directorate General may cooperate with relevant public institutions and orga
 The Directorate General may assign personnel in relevant countries for collecting country of origin information.  
 ##### 6
 The Directorate General shall take necessary measures to update country of origin information.
+#### Article 116 - Principle of confidentiality
+##### 1
+All information and documents of applicants and international protection status holders are confidential.  
+The level of confidentiality shall be determined within the scope of relevant legislation based on the content of procedures to be carried out.  
+##### 2
+Information and documents shall be kept in archive areas specially designated by the Directorate General or provincial directorate and shall be processed by authorized personnel.  
+##### 3
+During the evaluation process of international protection applications, the applicant's or international protection status holder's information shall not be shared with any institution of their country of origin.  
+##### 4
+In any communication that may be established with authorities of countries of origin regarding those whose international protection applications have been rejected and whose return procedures to their countries of origin have been initiated, no information or documents shall be shared that would endanger the applicant, their dependents or family members still living in the country of origin.  
+##### 5
+Personal data approved by the Directorate General within the scope of procedures carried out under this Regulation may be shared with countries other than the country of origin, relevant public institutions and organizations, universities, international organizations, non-governmental organizations and third parties.  
+##### 6
+Documents in the personal file of foreigners under this Regulation may be examined and copies may be obtained by the person themselves, their legal representative or lawyer who presents power of attorney.  
+Information and documents related to national security, protection of public order and public security, and prevention of crimes shall not be examined or provided.  
+Which information and documents cannot be examined and provided shall be determined according to procedures and principles to be established by the Directorate General.  
+##### 7
+Public officials and other officers responsible for implementing this Regulation may not disclose any confidential information, documents and personal secrets obtained during their duties to anyone other than those authorized, or use them for their own benefit or the benefit of third parties.  
+##### 8
+In sharing information regarding children, the principle of the best interests of the child shall be observed.
+#### Article 117 - Access to personal file
+##### 1
+When a copy of documents in the personal file of an applicant or international protection status holder is requested in writing, it shall be delivered with a receipt to the person themselves, their legal representative or lawyer who presents power of attorney, according to procedures and principles to be determined by the Directorate General.  
+The receipt shall also include warnings that the provided document copies may only be used for defense purposes in administrative appeal or judicial proceedings, and that their provision or disclosure to third parties will result in legal liability.
