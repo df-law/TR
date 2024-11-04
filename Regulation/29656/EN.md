@@ -1748,3 +1748,19 @@ Against administrative decisions taken other than decisions on administrative de
 ##### 3
 Appealing to the international protection assessment commission does not prevent the relevant person's right to apply to the competent administrative court and does not stop the period for filing a lawsuit.  
 However, if it is understood that the person appealing to the Commission has also applied to the competent administrative court, the commission stops examining the application made.
+### Chapter 6 - Rights and Obligations
+#### Article 102 - Information and interpretation services
+##### 1
+Applicants and status holders shall be informed about rights and obligations, sanctions for non-compliance with obligations or non-cooperation with authorities, and appeal procedures.  
+The procedures and principles for providing information shall be determined by the Directorate General.  
+##### 2
+If it is determined that the required level of communication cannot be achieved without an interpreter during application, registration, interview and other procedures deemed necessary by the administration, interpretation services shall be provided free of charge.  
+##### 3
+If the applicant submits documents supporting their application in a language other than Turkish, copies of these documents translated by authorized persons shall be requested.  
+If the applicant cannot provide translations of these documents, the administration may utilize the capabilities of public institutions and organizations as well as international organizations, including cooperation with non-governmental organizations.  
+##### 4
+At all stages of international protection procedures, notifications to the applicant shall be made in the language of their country of citizenship or in another language they can understand.  
+##### 5
+Interpretation services provided at all stages of international protection procedures may be provided by the Directorate General or provincial directorate through their own personnel or through procurement of services.  
+##### 6
+Regarding interpretation services, the administration may cooperate with public institutions and organizations, non-governmental organizations and international organizations.
