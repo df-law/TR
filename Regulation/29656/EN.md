@@ -2070,3 +2070,11 @@ Those who do not prepare monitoring reports or do not implement decisions are re
 #### Article 133 - Secretariat and support services
 ##### 1
 The Council's secretariat and support services are carried out by the Directorate General.
+## Part 5 - Directorate General Councils and Commissions and Various Provisions
+### Chapter 1 - Formation of Permanent Councils and Commissions and Temporary Commissions
+#### Article 134 - Permanent councils and commissions
+##### 1
+Permanent councils and commissions operating within the Directorate General are: Migration Advisory Council, International Protection Assessment Commission and Coordination Council for Combating Irregular Migration.
+#### Article 135 - Temporary commissions
+##### 1
+The Directorate General may establish temporary commissions to conduct studies and contribute to its activities regarding matters within its area of duty.
