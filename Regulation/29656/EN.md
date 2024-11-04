@@ -283,5 +283,50 @@ Holders of Passports for Foreigners issued under Article **18** of the Passport 
 Persons covered under Article **28** of the Turkish Citizenship Law.  
 ###### e
 Holders of a Migrant Certificate in accordance with Law numbered **5543**.
-
-
+#### Article 14 - Foreigners exempt from the visa requirement in exceptional cases
+##### 1
+Foreigners on vehicles forced to use Turkish air and sea ports due to force majeure circumstances, such as weather conditions, accidents, technical failures in vehicles, or health issues, may be permitted entry into the country by the governorships, limited to the port city and valid for the duration of the force majeure, without a visa requirement.  
+The permit, allowing a stay of up to **15 days**, ends once the force majeure circumstances are resolved.  
+##### 2
+Of the foreigners on vehicles forced to use Turkish air and sea ports due to a passenger's health issues, only the ill passenger and their accompanying person are considered within the scope of the first paragraph.  
+Foreigners who are prohibited from entering Turkey are not considered within the scope of the first paragraph, except in cases of health issues.  
+##### 3
+Foreigners arriving by sea vessels with the intention of visiting the port city or nearby provinces for tourism purposes may be granted a visa-free entry permit, not exceeding **72 hours**, at the sea border gates by the governorships.  
+To ensure necessary measures regarding public order or public security, relevant law enforcement units are informed about such entries.  
+##### 4
+The procedures and principles related to the visa-free entry permit within the scope of the third paragraph are as follows:  
+###### a
+Foreigners’ passports are not confiscated upon entry into the country.  
+However, the passports of those deemed likely to engage in irregular migration by the law enforcement unit responsible for entry and exit control at the port are confiscated until their departure, and a Port City Entry Permit is issued to them.  
+###### b
+Exits are made from the same port.  
+If foreigners wish to exit from a port or border gate other than the entry port, a transit visa fee is collected, and exit is permitted.  
+###### c
+Foreigners who exceed the **72-hour** period are processed for unauthorized stay in Turkey.  
+###### ç
+Passports of foreigners deemed likely to engage in irregular migration and who do not return to retrieve their passport after the **72-hour** period are sent to the provincial directorates.  
+###### d
+The agency or carrier guarantees the timely departure of foreigners permitted entry to the country.  
+##### 5
+Records of foreigners allowed entry under this article are kept in a manner compatible with the system used by law enforcement units at the border gates.
+#### Article 15 - Visas issued at border gates
+##### 1
+Except for foreigners prohibited from entering Turkey, foreigners arriving at border gates without a visa may be granted a visa in the exceptional cases listed below, provided they document their circumstances and that they will depart from Turkey within the specified time:  
+###### a
+The absence of a consulate in the country where the foreigner is legally located or the inability to complete visa procedures through the consulate.  
+###### b
+Force majeure circumstances, such as illness, death, or accident involving the foreigner or their spouse or close relatives in Turkey.  
+###### c
+Notification from relevant authorities that the foreigner’s health condition poses a risk if they are returned.  
+###### ç
+The foreigner's arrival for participation in national and international scientific, economic, cultural, and commercial activities.  
+###### d
+The need for commercial ship crew members arriving at sea ports to continue to their country or another country or to join another ship at the same port.  
+###### e
+Notification from public institutions and organizations that a visa is required for the foreigner at the border gate.  
+##### 2
+Due to force majeure, the requirement for health insurance may not be applied when issuing visas at border gates.  
+##### 3
+Unless a different period is specified by the President, visas are issued for a maximum stay of **15 days** in cases listed under (a), (b), (c), (ç), and (e) of the first paragraph, and for a maximum of **5 days** in cases listed under (d).  
+##### 4
+Foreigners subject to (d) of the first paragraph must have sufficient funds and a return ticket, and their timely exit from the country must be guaranteed by maritime agencies to obtain a border visa.
