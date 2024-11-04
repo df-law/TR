@@ -595,3 +595,79 @@ Foreigners holding a humanitarian residence permit or a residence permit for vic
 Refugees, conditional refugees, holders of secondary protection status, holders of humanitarian residence permits, and those under temporary protection are not granted the right to transition to a long-term residence permit.  
 ##### 9
 To ensure effective control over changes in residence permits, cooperation is established with relevant institutions and organizations.
+#### Article 27 - Types of residence permits
+##### 1
+The types of residence permits include:  
+###### a
+Short-term residence permit, issued for a maximum period of **1 year** each time.  
+###### b
+Family residence permit, issued for a maximum period of **2 years** each time.  
+###### c
+Student residence permit, issued according to the duration of study.  
+###### ç
+Long-term residence permit, issued without any time limit.  
+###### d
+Humanitarian residence permit, issued for a maximum period of **1 year** each time.  
+###### e
+Residence permit for victims of human trafficking, initially issued for **30 days** and subsequently renewable for periods of up to **6 months** each time, with a total duration not to exceed **3 years**.
+#### Article 28 - Short-term residence permit
+##### 1
+The short-term residence permit is issued for a maximum period of **1 year** each time.  
+When determining the duration of the residence permit, the foreigner’s request, justification, and other related factors are taken into consideration.  
+##### 2
+In applications for a short-term residence permit for scientific research:  
+###### a
+If scientific research requires permission, a permit from the relevant institution or organization is requested; if not, a statement regarding the research subject is required.  
+###### b
+For research other than archaeological and surface studies, the foreigner’s request, approved duration, and granted permission are forwarded by the institution or organization to the provincial directorate with the foreigner’s information.  
+Reports prepared as a result of the research are submitted to the relevant institution or organization by the foreigner.  
+###### c
+Foreigners arriving for archaeological excavations and surface studies are required to have a visa appropriate to their purpose.  
+###### ç
+Information and documents related to the research subject and plan may be requested when necessary.  
+###### d
+Requests from foreigners with another type of residence permit who will participate in archaeological and surface research are sent to the Ministry along with the opinions of the relevant institutions.  
+##### 3
+In applications for residence permits submitted by foreigners with immovable property, the property must be a residence and used for this purpose.  
+In cases where family members hold shared or joint ownership rights to the residence, they may also apply for a residence permit under this provision.  
+For family members who do not hold shared or joint ownership rights, the property may only serve as proof of financial means.  
+##### 4
+For residence permit applications submitted for business connections or establishing a business for a period longer than **3 months**, an invitation letter or similar documents from the persons or companies with whom contact will be established may be requested.  
+##### 5
+Residence permits granted for participation in in-service training programs are issued for the program duration based on information and documents regarding the content, duration, and location of the training provided by the institution offering the in-service training.  
+##### 6
+For those who will receive residence permits for education or similar purposes under bilateral or multilateral international agreements or student exchange programs, information or documents from the relevant institution may be required.  
+The residence permit duration cannot exceed the duration of the education or similar purpose.  
+For students arriving under student exchange programs, the health insurance requirements are regulated by the provisions of the eighth paragraph of Article **35**.  
+##### 7
+For applications for residence permits for tourism purposes, the foreigner’s declaration regarding travel details, such as where, when, and for how long they will stay in the country, is evaluated.  
+The foreigner may be asked to provide information or documents relating to the travel plan or the purpose of stay.  
+##### 8
+For foreign teachers in schools within embassies or consulates in Turkey, staff of foreign cultural institutions, and religious personnel assigned to religious institutions, a residence permit for work is granted separately with a separate work and residence permit fee charged in accordance with subparagraph (g) of the first paragraph of Article **31** of the Law.  
+##### 9
+For foreign journalists in Turkey who are exempt from the scope of the Law on Work Permits for Foreigners numbered **4817**, a residence permit is issued in accordance with subparagraph (g) of the first paragraph of Article **31** of the Law, for a period not exceeding the validity of the press card issued by the Directorate General of Press and Information.  
+##### 10
+Residence permit requests not specified as short-term residence permit applications above are considered as requests for tourism purposes.  
+##### 11
+For foreigners who do not have any diseases that are considered a threat to public health and who have come to Turkey solely for treatment, acceptance into a public or private hospital is required.  
+Foreigners who document that they have paid all their treatment expenses are exempt from the requirement of health insurance.  
+Residence permits are issued in accordance with the duration of the treatment.  
+For foreigners whose accommodation, food, or health expenses are covered by the relevant public institutions and organizations, confirmation of financial means and valid health insurance are not required.  
+Information or documents related to the foreigner’s treatment may be requested from the relevant hospital or public institution, if necessary.  
+##### 12
+The duration of residence permits issued upon the request or decision of judicial or administrative authorities is determined based on the specified period in the decision or request, and may not require valid health insurance or proof of financial means.  
+##### 13
+Residence permits issued for the purpose of learning Turkish may be granted to a foreigner enrolled in an institution authorized to provide Turkish language courses no more than twice.  
+If the course duration is less than **1 year**, the residence permit duration cannot exceed the course duration.  
+The institution providing the Turkish course must be licensed by the Ministry of Education.  
+The institution is required to notify the provincial directorate of the foreigner’s start and attendance in the course.  
+##### 14
+For those participating in education, research, internships, or courses in Turkey through public institutions, the duration of the residence permit cannot exceed **1 year**.  
+Foreigners whose accommodation, food, or health expenses are covered by relevant public institutions are not required to prove financial means or have valid health insurance.  
+Information and documents may be requested from the institutions.  
+##### 15
+For military personnel present in Turkey for educational purposes under bilateral or multilateral agreements, the necessary procedures are carried out in accordance with the special provisions in the agreements.  
+If family residence permits cannot be issued to their dependents, a short-term residence permit may be issued.  
+##### 16
+Graduates who have completed their higher education in Turkey may be granted a one-time residence permit for a maximum period of **1 year** if they apply within **6 months** from the date of graduation.  
+In addition to considering the reasons provided by the applicant, the opinions of relevant institutions and organizations may also be evaluated when granting this permit.
