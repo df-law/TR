@@ -330,3 +330,37 @@ Due to force majeure, the requirement for health insurance may not be applied wh
 Unless a different period is specified by the President, visas are issued for a maximum stay of **15 days** in cases listed under (a), (b), (c), (ç), and (e) of the first paragraph, and for a maximum of **5 days** in cases listed under (d).  
 ##### 4
 Foreigners subject to (d) of the first paragraph must have sufficient funds and a return ticket, and their timely exit from the country must be guaranteed by maritime agencies to obtain a border visa.
+#### Article 16 - Airport transit visas
+##### 1
+Consulates finalize airport transit visa applications directly.  
+##### 2
+The validity period of airport transit visas is a maximum of **6 months** from the date of issuance.  
+##### 3
+Except for potential flight delays, the planned time between arrival in Turkey and departure from Turkey cannot exceed **24 hours**.  
+##### 4
+This visa does not grant the right to enter the country.  
+However, in urgent and extraordinary cases, the provision regarding visas issued at border gates, within the framework of Article **13** of the Law, applies to the foreigner's entry into the country.  
+##### 5
+The following conditions are required for the issuance of an airport transit visa:  
+###### a
+Possession of a valid passport or passport-equivalent document.  
+###### b
+Having a reservation or ticket for flights enabling arrival in Turkey and transit through it.  
+###### c
+Possession of a visa or a document that allows entry without a visa if a visa is required for the destination country.  
+##### 6
+Under normal conditions, the airport transit visa is valid only for the airport through which the transit is permitted.  
+##### 7
+A visa is issued in accordance with this article for third-country nationals and their accompanying persons to be deported via Turkey.  
+##### 8
+The principles of the airport transit visa application and the list of countries whose nationals are required to obtain an airport transit visa are jointly determined by the Ministry and the Ministry of Foreign Affairs.
+#### Article 17 - Foreigners who are not granted a visa
+##### 1
+Subject to the provision of the second paragraph of Article **15** of the Law regarding foreigners who are not granted a visa, a visa is not issued to the foreigners specified in the first paragraph of the same article.  
+##### 2
+When determining diseases considered a threat to public health, it is taken into account whether the disease is one of those specified in the Public Health Law numbered **1593** dated **24/4/1930**, as well as whether it is a contagious or parasitic disease with epidemic potential as defined by the World Health Organization's Health Regulations.  
+##### 3
+In the evaluation within the framework of paragraph (g) of the first paragraph of Article **15** of the Law, factors such as the sponsor’s contribution, bank statements, cash, traveler’s checks, and salary slips may be considered.
+#### Article 18 - Notification of visa procedures
+##### 1
+Decisions on visa refusal and cancellation are notified to the foreigner.
