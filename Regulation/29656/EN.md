@@ -1290,6 +1290,34 @@ If the risk of escape and disappearance, which formed the basis for the foreign 
 If the foreign national applies for voluntary repatriation assistance.  
 ##### 3  
 The provisions of subsections (b) and (d) of the first paragraph of Article 54 of the Law remain applicable when implementing the procedures specified in the second paragraph.
+#### Article 62 - Implementation of the Deportation Decision  
+##### 1  
+The implementation of the deportation decision is carried out by law enforcement units under the coordination of the provincial directorate or the deportation center directorate.  
+##### 2  
+Assignments related to the issuance of deportation or administrative detention decisions, transportation of foreign nationals to deportation centers or border gates, and execution of the deportation procedure are made by the governor’s office.  
+##### 3  
+The following procedures are applied when transporting foreign nationals to border gates:  
+###### a  
+All expenses related to the transportation of foreign nationals to border gates are covered by the provincial directorates.  
+###### b  
+After a risk assessment conducted by the relevant law enforcement unit, the number of law enforcement officers required for the transfer is determined.  
+For this purpose, deportation centers or provincial directorates inform the relevant law enforcement unit in advance about the foreign nationals subject to transfer.  
+###### c  
+If necessary, personnel from the provincial directorate may also be assigned to assist in the transfer of deportees.  
+###### ç  
+Law enforcement officers assigned to transfer take all necessary precautions to ensure security and prevent escape or disappearance of foreign nationals during transport to the border gates.  
+##### 4  
+Individuals who are considered at risk when traveling alone are provided with an escort for the duration of their journey.  
+For this purpose, the governor’s office may assign law enforcement personnel to escort the foreign national to the destination country.  
+#### Article 63 - Requests for Voluntary Return by Deportees  
+##### 1  
+Foreign nationals under an administrative detention order who request voluntary return to their country or a third country may be sent directly to their country or chosen third country, provided there are no obstacles to their travel, without being transferred to deportation centers and without adhering to the period specified in Article 53 of the Law.  
+##### 2  
+Foreign nationals in deportation centers who request voluntary return are taken to the border gate by general law enforcement under the coordination of the provincial directorate.  
+Their deportation and administrative detention orders are terminated upon arrival at the border gate, and their departure is recorded as "return on a voluntary basis" or "voluntary departure."  
+#### Article 64 - Deportation Procedures for Foreign Nationals Admitted to Turkey Under Readmission Agreements  
+##### 1  
+The procedures and principles related to the deportation of foreign nationals admitted to Turkey under readmission agreements are determined separately by the Ministry.
 
 
 
