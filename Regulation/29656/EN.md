@@ -1809,3 +1809,41 @@ Applicants or international protection status holders who do not have any health
 Whether applicants or international protection status holders fall within the scope of the first paragraph shall be determined by governorates according to the procedure in the first paragraph of Article 106.  
 ##### 3
 The procedures and principles regarding the initiation, termination or cancellation of general health insurance of applicants or international protection status holders shall be determined by the Directorate General in cooperation with the Social Security Institution.
+#### Article 108 - Work  
+##### 1
+Applicants or persons who have international protection status may work in Turkey within the framework of paragraph four of Article 89 of the Law.  
+##### 2
+Access to the labor market for applicants or persons who have international protection status shall be provided according to procedures and principles determined by the Ministry of Labor and Social Security after obtaining the opinion of the Ministry.
+#### Article 109 - Pocket money  
+##### 1
+According to paragraph five of Article 89 of the Law, the neediness status of persons regarding pocket money to be given by governorates shall be determined by governorates according to the procedure in paragraph one of Article 106.  
+##### 2
+Pocket money to be given to those in need may be provided by governorates within the framework of procedures and principles to be determined by the Ministry after obtaining the approval of the Ministry of Finance.
+#### Article 110 - Residence of applicants and international protection status holders and notification obligation  
+##### 1
+The Directorate General may determine the places where applicants will be accommodated and the provinces where they will reside during application or registration procedures, taking into account public order or public security, person's request, special situation, health and education status, kinship relations, culture, personal circumstances, capacity of provinces.  
+The Directorate General may make necessary changes when required.  
+##### 2
+Provinces where conditional refugees and subsidiary protection status holders will reside may be determined by the Directorate General or they may choose from among provinces to be determined by the Directorate General.  
+In cases where the Directorate General has not determined a mandatory residence province, they may reside in preferred provinces.  
+##### 3
+Applicants and refugees, conditional refugees and subsidiary protection status holders are obliged to register in the address registration system and notify their residence address and address changes to the provincial directorate within maximum twenty working days.  
+##### 4
+Applicants, conditional refugees and subsidiary protection status holders may be required to reside in a specific province due to public order and public security reasons, as well as to notify according to determined periods and procedures.  
+##### 5
+Applicants may request changes in their province of residence due to kinship, health or other reasons, and these requests shall be evaluated by the Directorate General or, when authorized, by the provincial directorate.  
+##### 6
+The provisions of this article may also be applied to those who are granted refugee status.
+#### Article 111 - Other obligations  
+##### 1
+Applicants or international protection status holders are obliged to comply with those specified in paragraph one of Article 90 of the Law and additional matters notified to them by the Directorate General or provincial directorate.  
+##### 2
+Those who unfairly obtain assistance and services specified in part three of the Law, as stated in subparagraph (ç) of paragraph one of Article 90 of the Law, are obliged to repay the full amount of assistance and service provided or the amount they can pay.  
+##### 3
+No restrictions shall be imposed on benefiting from education and basic health rights for those who do not fulfill the obligations specified in paragraph one of Article 90 of the Law.  
+Before restricting other rights, necessary notification regarding their obligations shall be made by the provincial directorate.  
+If the violation of said obligations continues, the Directorate General or governorates according to procedures and principles to be determined shall make a decision to restrict the rights of applicants or international protection status holders, except for education and basic health rights.  
+##### 4
+For applicants and international protection status holders who have been given negative decisions by the Directorate General or governorate regarding their applications or statuses, restrictions may be imposed on benefiting from rights other than education and basic health rights.  
+##### 5
+Assessment regarding restrictions shall be made individually and the decision shall be notified to the person concerned.
