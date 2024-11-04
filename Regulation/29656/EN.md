@@ -560,3 +560,38 @@ Those held in deportation centers.
 If a visa or residence permit violation occurred before falling within the scope of the first paragraph, the period of violation is processed under general provisions, and residence permits, if any, are canceled.  
 ##### 3
 Residence permit requests from foreigners listed in this article are not considered, and the procedures and principles for issuing foreign identification numbers are determined by the Directorate General.
+#### Article 25 - Recognition of a work permit as a residence permit
+##### 1
+Work permits issued by the Ministry of Labor and Social Security or by public institutions and organizations authorized to issue work permits under their own legislation are considered valid residence permits for their duration.  
+These foreigners, as well as those holding a Work Permit Exemption Certificate, are not required to obtain a separate residence permit document if they pay the residence permit fee.  
+Applicants for international protection are exempt from this fee.  
+##### 2
+Foreigners applying for the issuance or extension of a work permit must not be among those prohibited from entering Turkey.  
+Institutions authorized to issue work permits may grant a work permit only after obtaining a positive opinion from the Directorate General on this matter.  
+##### 3
+The expiration date of the work permit also marks the expiration date of the residence permit.  
+Foreigners who do not extend their work permit duration or obtain a residence permit suitable for their new status after the expiration of their work permit are considered to have violated the residence permit conditions.  
+##### 4
+The duration of work permits and Work Permit Exemption Certificates is included in the total residence permit duration.  
+##### 5
+Public institutions and organizations issuing work permits share updated information regarding work permits with the Directorate General.  
+#### Article 26 - Transition between residence permits
+##### 1
+Foreigners who hold one type of residence permit and wish to continue staying in Turkey after the reason for issuing that permit has ended must apply to the relevant governorship for a new residence permit appropriate to their new purpose of stay within **10 days** from the end of the initial reason.  
+These foreigners are issued a residence permit application document.  
+##### 2
+The existing residence permit of a foreigner applying for transition under the first paragraph ends on the date when the reason for issuance ceases.  
+##### 3
+A foreigner holding one type of residence permit, who also has a new reason for residence, may continue to stay under the current residence permit or apply to the governorship for a new residence permit without waiting for the **60-day** period specified in the fifth paragraph of Article **21**.  
+##### 4
+If a foreigner holding a student residence permit becomes eligible for a family residence permit, they are granted a family residence permit and continue to benefit from the rights provided by the student residence permit as long as they meet the student permit conditions.  
+##### 5
+If a foreigner holding a family residence permit becomes eligible for a student residence permit, the family residence permit remains valid, and the foreigner also benefits from the rights provided by the student residence permit.  
+##### 6
+If a foreigner holding a work permit becomes eligible for a student residence permit, the work permit remains valid, and the foreigner also benefits from the rights provided by the student residence permit.  
+##### 7
+Foreigners holding a humanitarian residence permit or a residence permit for victims of human trafficking may benefit from the rights provided by the student residence permit without transitioning to a student residence permit if they become eligible for it.  
+##### 8
+Refugees, conditional refugees, holders of secondary protection status, holders of humanitarian residence permits, and those under temporary protection are not granted the right to transition to a long-term residence permit.  
+##### 9
+To ensure effective control over changes in residence permits, cooperation is established with relevant institutions and organizations.
