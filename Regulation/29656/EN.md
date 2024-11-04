@@ -1127,6 +1127,66 @@ Law enforcement personnel are requested to ensure the detention of the foreigner
 The costs of food and other needs of foreigners detained by law enforcement under paragraphs 2 and 3 are covered by the provincial directorate.  
 ##### 5
 Deportation decisions may also be made for foreigners identified as subject to deportation in absentia.
+#### Article 54 - Issuance of deportation decisions
+##### 1
+Deportation decisions are made individually for each foreigner.  
+##### 2
+The evaluation for the decision is conducted by the provincial directorate.  
+The coordination regarding where the evaluation will take place is managed by the provincial directorate.  
+Accordingly:  
+###### a
+Within the Provincial Directorate,  
+###### b
+At deportation centers,  
+###### c
+At another location deemed appropriate by the Provincial Directorate,  
+evaluations may be conducted.  
+##### 3
+If there is a deportation center in the province where the foreigner was apprehended, the foreigner is transferred to the deportation center by law enforcement after notification of the center’s capacity status from the provincial directorate.  
+Deportation and related decisions are made at the deportation center.  
+##### 4
+The governorate may take additional security measures as necessary within its jurisdiction.  
+For foreigners apprehended within the areas of duty of the Coast Guard Command, Land Forces Command, and the General Directorate of Customs Enforcement, transportation to the evaluation location is carried out by the law enforcement units designated by the administrative authority.  
+##### 5
+If one of the conditions listed in Article 54 of the Law applies to a foreigner, only one deportation decision is made per incident.  
+If the foreigner who is subject to a deportation decision is transferred to another province, no additional deportation decision is issued by the receiving province for the same reason.  
+The original deportation decision is used to continue the deportation process.  
+##### 6
+A deportation decision is issued for irregular migrants who voluntarily apply to the provincial directorates to go to a third country or return to their country of origin before their status has been assessed by the competent authorities.  
+Those deemed not to pose a threat to general security are placed at an appropriate address in accordance with Article 57(4) of the Law, and deportation procedures are followed from there.
+#### Article 55 - Assignment of general law enforcement personnel
+##### 1
+After the general law enforcement agency notifies the provincial directorate of foreigners it considers or determines to be subject to deportation, the provincial directorate contacts the law enforcement agency within its jurisdiction to request personnel for deportation and transfer procedures.  
+The provincial directorate may also request assignments from other general law enforcement units, taking into account the responsibility of the agency that conducted the apprehension or the relevant jurisdiction.  
+##### 2
+To minimize risks that may arise during the deportation process of foreigners, requests from provincial directorates for escort personnel to accompany the transfer or deportation are given priority and addressed by the relevant law enforcement units.  
+##### 3
+For deportation or transfer operations, the governorate assigns a sufficient number of general law enforcement personnel to accompany foreigners to deportation centers, border gates, or from one deportation center to another as necessary.  
+Governorates may also assign general law enforcement personnel regardless of jurisdiction if required.  
+The escort of foreigners to locations such as consulates, hospitals, or courts is ensured by law enforcement.  
+##### 4
+Assigned general law enforcement personnel take all necessary measures, in addition to security precautions, to prevent foreigners from escaping or going missing during transport.  
+##### 5
+For foreigners in deportation centers or those who are subject to deportation and administrative detention decisions but are taken directly to healthcare facilities for treatment without being placed in a deportation center:  
+###### a
+For those whose inpatient treatment is documented with a medical report, the termination of administrative detention is assessed by the governorates, except in cases that pose a general security risk.  
+###### b
+If it is decided to continue administrative detention, the foreigner’s situation is reported to the law enforcement unit by the provincial directorate.  
+The law enforcement units assess the risk of the foreigner’s escape or disappearance and determine and implement the necessary security measures.  
+##### 6
+The closest general law enforcement units handle the procedures specified in this article for foreigners captured by the Land Forces Command or the Coast Guard Command.  
+##### 7
+For foreigners captured by customs enforcement units, the operations outlined in this article are carried out by the relevant general law enforcement units, taking into account jurisdictional responsibilities.  
+##### 8
+To ensure specialization, each January, the general law enforcement units in each province, with the governorate’s approval, designate a list of personnel to be assigned to deportation transfers, excluding those assigned temporarily to provincial directorates. This list is sent to the provincial directorates.  
+##### 9
+The approval for domestic assignments of law enforcement personnel for deportation procedures is obtained from the provincial directorate, while the approval for assignments abroad is obtained by the law enforcement unit.  
+##### 10
+Domestic and international travel expenses for law enforcement personnel assigned to accompany deportation operations are covered by the provincial directorate.  
+##### 11
+The governorates take all necessary measures for determining and appointing the general law enforcement personnel required for deportation operations, with respect to public order or security.  
+Any disputes related to the designation of law enforcement personnel are resolved by the governorates.  
+If deemed necessary by the governorates, law enforcement units may be assigned regardless of jurisdiction.
 
 
 
