@@ -1551,6 +1551,66 @@ Prior to the interview, the interviewer informs the interpreter and other person
 The interview is conducted in an interview room equipped with the necessary technical equipment to ensure the interview proceeds without interruption.  
 ##### 2  
 All measures are taken to ensure the privacy and security of the interview room so that the applicant can express themselves in the best possible manner.
-
+### Chapter 2 - Interview
+#### Article 85 - Points requiring attention before the interview
+##### 1
+The interviewing officer informs the applicant about the following matters before the interview:  
+###### a
+The role of the officer and other officials participating in the interview.  
+###### b
+The process regarding their application.  
+###### c
+The purpose of the interview.  
+###### ç
+The importance of providing accurate information regarding their claims and requests.  
+###### d
+The obligation to submit any available documents.  
+###### e
+That the interview may be audio and/or video recorded.  
+###### f
+That their statements and all types of information and documents will be kept confidential and will not be shared with authorities of the country of origin, their family members and third parties without their consent.  
+###### g
+Other matters to be determined by the Directorate General.  
+##### 2
+Communication with the applicant is conducted taking into account their special circumstances and the culture of their country of origin or previous residence, avoiding behavior and attitudes that may prevent the applicant from providing information.  
+##### 3
+For interviews with persons with special needs, their special circumstances are taken into consideration.  
+##### 4
+If the interview is audio or video recorded, a report is prepared at the end of the interview and a copy is given to the person interviewed.
+#### Article 86 - Interview
+##### 1
+An interview is conducted with the international protection applicant to make an effective and fair decision regarding their request, taking into account country of origin information, claims made during registration, verification of these claims and research on other necessary matters.  
+##### 2
+If during the interview communication cannot be established between the applicant and the interviewing officer or interpreter for any reason, this situation is recorded in a report and the interview is postponed to be conducted on another date.  
+Necessary measures are taken before the planned interview to resolve the issues that prevented communication during the first interview.  
+##### 3
+At the end of the interview, the interview form is read to the applicant and any corrections, explanations and additional information they will provide are recorded in the interview form.  
+##### 4
+The interview form is signed by all those present at the interview.
+#### Article 87 - Inability to conduct the interview
+##### 1
+If the first interview cannot be conducted for reasons originating from the administration or the applicant, a new interview date is determined.  
+The interview is conducted on the determined date.  
+##### 2
+There must be at least ten days between interview dates.
+#### Article 88 - Conducting additional interviews
+##### 1
+When needed, more than one interview may be conducted with the applicant.  
+The rules applicable to the first interview also apply to additional interviews.  
+##### 2
+There is no time limitation between the date of the first interview and the date of the additional interview.
+#### Article 89 - Interview report
+##### 1
+An interview report is prepared after the completion of the interview.  
+##### 2
+The interviewing officer indicates their opinions and assessments in the interview report.  
+##### 3
+In case an additional interview is conducted, the report of the previous interview is updated if one exists.  
+If a report of the previously conducted interview was not prepared, a new interview report is prepared.
+#### Article 90 - International protection applicant identity document
+##### 1
+Except for persons falling under Articles 72 and 79 of the Law and their family members, applicants who have completed their interview and family members who came with them, if any, are issued an International Protection Applicant Identity Document by the Directorate General or, if authorized, by the provincial directorate, containing the foreigner identification number, not subject to any fees, whose form and content are determined by the Directorate General and which is valid until cancelled.  
+##### 2
+This document provides the applicant the right to stay in Turkey without obtaining a residence permit during its validity period.
 
 
