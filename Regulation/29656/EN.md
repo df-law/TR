@@ -1630,5 +1630,20 @@ If foreigners with search records are found to be in another province, after con
 The foreigner shall be transferred to their province of residence either by their own means or, if deemed necessary, under the escort of assigned law enforcement officers.  
 ##### 6
 Regarding those who do not go to their designated provinces of residence or who leave these provinces contrary to the rules determined by governorships after arrival, restrictions may be imposed on benefiting from rights, except for education and basic healthcare rights.
+### Chapter 3 - International Protection Decisions and Administrative Detention
+#### Article 92 - General principles
+##### 1
+Decisions on international protection applications shall be made by the Directorate General or, if authorized, by the governorship within maximum six months from the date the application is registered.  
+If a decision cannot be made within this period, the applicant shall be informed.  
+##### 2
+Before making a decision, detailed research and examination shall be conducted by reviewing the applicant's registration and interview forms, interview report, country of origin information and all documents and information related to the applicant.  
+If needed, additional interviews may be conducted with the person and additional information or documents may be requested.  
+##### 3
+Decisions shall be made individually.  
+Subject to decisions on exclusion from international protection, applications made on behalf of a family shall be evaluated as a whole and the decision made shall cover all family members.  
+##### 4
+A deportation decision may also be made regarding applicants or persons with international protection status who pose a danger to public order and public security.  
+##### 5
+Decisions made under international protection shall be notified to the foreigner or their legal representative or lawyer, specifying the appeal procedures and periods.
 
 
