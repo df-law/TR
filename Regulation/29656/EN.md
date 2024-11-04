@@ -1645,5 +1645,58 @@ Subject to decisions on exclusion from international protection, applications ma
 A deportation decision may also be made regarding applicants or persons with international protection status who pose a danger to public order and public security.  
 ##### 5
 Decisions made under international protection shall be notified to the foreigner or their legal representative or lawyer, specifying the appeal procedures and periods.
-
-
+#### Article 93 - Identity document for international protection status holder
+##### 1
+Persons granted international protection status shall be issued an International Protection Status Holder Identity Document by the Directorate General or, if authorized, by the provincial directorate, containing a foreigner identification number, not subject to any fees, whose form and content are determined by the Directorate General, and valid until cancelled.  
+##### 2
+This document grants the status holder the right to stay in Turkey during its validity period without obtaining a residence permit.  
+##### 3
+The international protection applicant identity document mentioned in Article 90 and the international protection status holder identity document mentioned in this article may also be issued as a single identity document containing a foreigner identification number, not subject to any fees, whose form and content are determined by the Directorate General.  
+This identity document may be issued by the Directorate General or, if authorized, by the provincial directorate.
+#### Article 94 - Resettlement to a third country and permission to exit our country
+##### 1
+The procedures for resettlement of foreigners under international protection to a third country shall be carried out under the coordination of the Directorate General.  
+Cooperation with public institutions and organizations, international organizations and civil society organizations may be conducted in third country resettlement procedures.  
+##### 2
+Permission to exit to a third country shall be granted by the Directorate General or, if authorized, by governorships.
+#### Article 95 - Administrative appeal and judicial process
+##### 1
+When administrative appeal or judicial review is sought against international protection procedures established by the administration, applicants shall be allowed to stay in Turkey until the process is concluded.  
+Filing an appeal or seeking judicial review does not prevent the imposition of residence and notification obligations.  
+##### 2
+When judicial review is sought against actions taken under Articles 72 and 77 of the Law, humanitarian residence permit may be granted.
+#### Article 96 - Administrative detention of applicants
+##### 1
+Administrative detention of applicants is an exceptional procedure.  
+The governorship may determine other procedures instead of administrative detention.  
+If these measures are insufficient, applicants may be taken under administrative detention in cases specified in paragraph two of Article 68 of the Law.  
+##### 2
+The necessity of administrative detention shall be evaluated individually.  
+##### 3
+The person taken under administrative detention or their legal representative or lawyer shall be notified of the grounds for administrative detention and the duration of detention.  
+They shall be informed about the outcome of the decision and appeal procedures.  
+##### 4
+The administrative detention decision shall be taken by governorships upon instruction of the Directorate General or ex officio in accordance with the procedures and principles specified in Article 68 of the Law.  
+The administrative detention decision shall be terminated in the same procedure or upon decision of the criminal judge of peace.  
+The court decision regarding termination of administrative detention shall be immediately notified to the Directorate General.  
+##### 5
+The applicant whose administrative detention is terminated may be required to fulfill other obligations in addition to residence and notification obligations.  
+##### 6
+The person taken under administrative detention or their legal representative or lawyer may apply to the criminal judge of peace at the place where the administrative detention decision was taken or where the foreigner is held under administrative detention.  
+The application does not suspend administrative detention.  
+If the petition is submitted to the administration, the petition shall be immediately forwarded to the competent criminal judge of peace.  
+The criminal judge of peace shall conclude the examination within five days.  
+The decision of the criminal judge of peace is final.  
+The person taken under administrative detention or their legal representative or lawyer may reapply to the criminal judge of peace claiming that administrative detention conditions have been eliminated or changed.  
+##### 7
+If a foreigner under administrative detention in a removal center for deportation applies for international protection, international protection procedures shall continue to be carried out within the duration of the administrative detention decision taken under Article 57 of the Law without taking a new administrative detention decision under Article 68 of the Law, unless otherwise decided by the Directorate General.
+### Chapter 4 - Cessation and Cancellation of International Protection Status
+#### Article 97 - Cessation of status
+##### 1
+In cases specified in the first paragraph of Article 85 of the Law, international protection status shall cease.  
+The foreigner or their lawyer or legal representative shall be informed about this decision and shall be given the opportunity to present information and documents orally or in writing within a reasonable time.  
+##### 2
+The decision on cessation of international protection status under Article 85 of the Law shall be taken by the Directorate General or, if authorized, by governorships and shall be notified to the foreigner or their lawyer or legal representative.  
+##### 3
+The decision on cessation of status shall be made individually.  
+However, the status of family members who were granted status based on the same grounds shall be terminated by the same decision.
