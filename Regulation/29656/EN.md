@@ -524,3 +524,39 @@ During the rejection of the residence permit application, the non-extension or c
 A document not subject to fees and providing the right to stay in Turkey for **one month** is issued to the foreigner in this situation.  
 At the end of the one-month period, the governorship conducts a re-evaluation, and if it is determined that the foreigner's situation requiring their stay in the country continues, the validity of the document may be extended monthly.  
 In this case, the foreigner is charged a fee for the stay in accordance with the provisions of the Fees Law.
+#### Article 23 - Issuance and extension of residence permit duration  
+##### 1
+The issuance and extension of residence permit duration are carried out as follows:  
+###### a
+The residence permit is issued for a period **60 days** shorter than the validity period of the passport or passport-substitute document.  
+###### b
+The type of permit is specified on the residence permit document.  
+###### c
+A separate residence permit document is issued for each foreigner.  
+For this document, a valuable paper fee determined by the Ministry of Finance is charged in accordance with the Law on Valuable Papers numbered **210** dated **21/2/1963**.  
+###### ç
+The residence permit starts from the date the visa or visa exemption period ends or, upon request, from the date of application.  
+###### d
+The extended residence permit duration begins from the date the previous permit expires.  
+###### e
+Except for long-term residence permits, other residence permits are issued for a limited period and extended in accordance with the principles set forth in Article **24** of the Law.  
+###### f
+A new residence permit document is issued each time the residence permit duration is extended.  
+###### g
+Residence permit extension applications may also be submitted electronically.  
+The procedures and principles for receiving applications are determined by the Directorate General.
+#### Article 24 - Status of persons detained and imprisoned, and foreigners under administrative detention
+##### 1
+The following foreigners are not considered to have violated visa or residence permit conditions after the initiation of proceedings against them:  
+###### a
+Those under arrest.  
+###### b
+Those detained or imprisoned as convicts.  
+###### c
+Those under administrative detention.  
+###### ç
+Those held in deportation centers.  
+##### 2
+If a visa or residence permit violation occurred before falling within the scope of the first paragraph, the period of violation is processed under general provisions, and residence permits, if any, are canceled.  
+##### 3
+Residence permit requests from foreigners listed in this article are not considered, and the procedures and principles for issuing foreign identification numbers are determined by the Directorate General.
