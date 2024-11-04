@@ -671,3 +671,58 @@ If family residence permits cannot be issued to their dependents, a short-term r
 ##### 16
 Graduates who have completed their higher education in Turkey may be granted a one-time residence permit for a maximum period of **1 year** if they apply within **6 months** from the date of graduation.  
 In addition to considering the reasons provided by the applicant, the opinions of relevant institutions and organizations may also be evaluated when granting this permit.
+#### Article 29 - Refusal, cancellation, or non-extension of short-term residence permits
+##### 1
+A short-term residence permit is not issued, is canceled if issued, or is not extended in the following cases:  
+###### a
+Non-fulfillment or termination of one or more of the conditions required under Article **32** of the Law.  
+###### b
+Determination that the residence permit is used for purposes other than those for which it was issued.  
+###### c
+Remaining outside the country for more than **120 days** within the last year, except for mandatory public service, duty, education, or health reasons.  
+###### ç
+Having a valid deportation decision or entry ban to Turkey.  
+##### 2
+The decision to refuse, cancel, or not extend the residence permit is communicated to the foreigner, their legal representative, or attorney.
+#### Article 30 - Family residence permit
+##### 1
+A family residence permit may be issued based on the following sponsors:  
+###### a
+Turkish citizens.  
+###### b
+Persons who have lost Turkish citizenship by obtaining permission to renounce citizenship under Article **28** of the Turkish Citizenship Law.  
+###### c
+Foreigners holding one of the residence permits regulated by the Law and residing in Turkey with a residence permit for at least **1 year**.  
+###### ç
+Persons with an identification document accepted as a residence permit under the Law, excluding applicants for international protection, conditional refugees, and those under temporary protection.  
+###### d
+Refugees and holders of secondary protection status.  
+##### 2
+Foreigners eligible for a family residence permit include:  
+###### a
+The foreign spouse of the sponsor.  
+###### b
+The minor foreign child or adopted child of the sponsor or their spouse.  
+###### c
+The dependent adult child of the sponsor or their spouse.  
+##### 3
+If the sponsor is married to more than one spouse according to the laws of their country, only one of the spouses is granted a family residence permit.  
+However, children under **18** from the sponsor’s other spouses, as well as dependent children over **18**, may also be granted a family residence permit.  
+##### 4
+For applications for a family residence permit for children located outside Turkey, the consent of the parent with joint custody is required.  
+##### 5
+Family residence permits provide the right to education in primary and secondary schools without requiring a student residence permit until **18 years** of age.  
+Foreigners who reach **18** and are not dependent on their legal representative are required to obtain a student residence permit if they continue their education.  
+However, foreigners who remain dependent on their legal representative retain their family residence permit and continue to enjoy the rights provided by the student residence permit.  
+The determination of foreigners aged **18** and above who are dependent on the sponsor or their spouse is based on the provisions of the Social Insurance and General Health Insurance Law numbered **5510** dated **31/5/2006**.  
+##### 6
+Foreigners aged **18** and over who have resided in Turkey with a family residence permit for at least **3 years** may, upon request, convert their permit to a short-term residence permit or apply for another type of residence permit for which they meet the requirements.  
+##### 7
+In the event of divorce, a foreign spouse who was married to a Turkish citizen may be granted a short-term residence permit if they have resided with a family residence permit for at least **3 years**.  
+The foreign spouse also has the right to apply for another type of residence permit for which they meet the requirements.  
+##### 8
+A foreign spouse who is a victim of domestic violence may be granted a short-term residence permit without the **3-year** requirement, provided they present a court decision confirming they were a victim of such violence.  
+##### 9
+In the event of the sponsor's death, the family residence permit issued based on the sponsor is valid until the end of its duration.  
+A short-term residence permit may be granted without a time condition.  
+At the end of this period, the foreigner’s request for a residence permit is evaluated according to general provisions.
