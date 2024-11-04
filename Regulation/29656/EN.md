@@ -1551,7 +1551,6 @@ Prior to the interview, the interviewer informs the interpreter and other person
 The interview is conducted in an interview room equipped with the necessary technical equipment to ensure the interview proceeds without interruption.  
 ##### 2  
 All measures are taken to ensure the privacy and security of the interview room so that the applicant can express themselves in the best possible manner.
-### Chapter 2 - Interview
 #### Article 85 - Points requiring attention before the interview
 ##### 1
 The interviewing officer informs the applicant about the following matters before the interview:  
@@ -1711,3 +1710,41 @@ The decision on cancellation of international protection status under Article 86
 ##### 4
 Cancellation decisions shall be made individually.  
 However, the status of family members who were granted status based on the same grounds shall be cancelled by the same decision.
+### Chapter 5 - Administrative Appeal and Judicial Procedure
+#### Article 99 - Appeal to the international protection assessment commission
+##### 1
+Except for decisions on administrative detention, inadmissible applications and accelerated assessment, administrative decisions related to international protection applications may be appealed to the International Protection Assessment Commission within ten days from the notification of the decision.  
+##### 2
+Appeals shall be forwarded to the Commission by the provincial directorate together with the information and documents to be submitted.
+#### Article 100 - Decisions and nature of the commission
+##### 1
+When evaluating appeals, the Commission also considers the following matters:  
+###### a
+Examines the administration's decision in terms of procedure and merits.  
+###### b
+May request information from the Directorate General, the representative of the Directorate General or the provincial directorate.  
+###### c
+May communicate with the appellant or their legal representative or lawyer directly or through the provincial directorate.  
+##### 2
+At the end of its assessment, the Commission makes a decision in one of two ways:  
+###### a
+May reject the applicant's appeal.  
+###### b
+May request the administration to review its decision in terms of procedure or merits.  
+##### 3
+The Commission shall make its decision within fifteen days at the latest from the date the appeal reaches it.  
+This period may be extended by a maximum of five days.  
+##### 4
+The Commission's decision shall be notified to the foreigner or their lawyer or legal representative.  
+##### 5
+The new examination to be conducted upon the Commission's request for review of the administration's decision in terms of procedure or merits shall be carried out by a person different from the official who reviewed the application at the first stage.
+#### Article 101 - Application to the administrative court
+##### 1
+Against decisions on inadmissible applications and accelerated assessment, the applicant or their lawyer or legal representative may apply to the competent administrative court within fifteen days from the notification of the decision.  
+Applications to the court shall be concluded within fifteen days.  
+The court's decision on this matter is final.  
+##### 2
+Against administrative decisions taken other than decisions on administrative detention, inadmissible applications and accelerated assessment, an application may be made to the administrative court within thirty days from the notification of the decision.  
+##### 3
+Appealing to the international protection assessment commission does not prevent the relevant person's right to apply to the competent administrative court and does not stop the period for filing a lawsuit.  
+However, if it is understood that the person appealing to the Commission has also applied to the competent administrative court, the commission stops examining the application made.
