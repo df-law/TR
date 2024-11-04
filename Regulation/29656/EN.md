@@ -1236,6 +1236,60 @@ If a record indicating that the foreigner was invited to leave is found during e
 For other entry bans imposed for different reasons, procedures are followed in accordance with the specific regulation related to that record.  
 ##### 11
 Foreigners who meet all the conditions of the leave invitation but are found to be without a passport when apprehended are also allowed to benefit from the leave invitation process.
+#### Article 59 - Administrative Detention for Deportation  
+##### 1  
+When deciding on administrative detention for deportation, opinions may be obtained from security units to identify foreign nationals who pose a threat to public order or public safety, and from relevant units of the Ministry of Health to identify foreign nationals who pose a threat to public health.  
+##### 2  
+Foreign nationals whose residence permits have been denied or canceled are subject to administrative detention if it is determined that they used false or forged documents or pose a threat to public order, public safety, or public health.  
+##### 3  
+The petition challenging the deportation decision filed by a foreign national under administrative detention is immediately submitted to the competent administrative court, and the petition challenging the detention decision is submitted to the competent criminal judge.  
+##### 4  
+The administrative detention is not suspended solely by filing an appeal with the administrative court against the deportation decision.  
+The authority halts the deportation procedure once it learns that legal action has been initiated against the deportation decision.  
+##### 5  
+The deportation decision, administrative detention decision, extension of the administrative detention period, results of regular monthly assessments, justifications for actions, and notification forms are submitted to the criminal judge within the specified time.  
+The mere fact of applying to the criminal judge against the administrative detention does not halt the deportation process.  
+##### 6  
+The administrative detention period, based on a deportation decision made in the absence of the foreign national, starts from the moment they are apprehended.  
+##### 7  
+For foreign nationals who cannot be deported within the administrative detention periods stipulated in Article 57 of the Law, the administrative detention is immediately terminated with the establishment of certain administrative obligations.
+#### Article 60 - Foreign Nationals Subject to Legal Proceedings  
+##### 1  
+For foreign nationals who have been subject to legal proceedings due to involvement in a crime:  
+###### a  
+If processed based on documents by the prosecutor,  
+###### b  
+If interrogated by the prosecutor's office,  
+###### c  
+If released due to a decision not to prosecute,  
+###### ç  
+If released by the court to be tried without detention,  
+the investigation into their stay in the country is conducted by law enforcement without transferring them to the provincial directorate.  
+##### 2  
+Those with the right to lawful stay in the country are notified by law enforcement to utilize this period, and the provincial directorate is informed.  
+##### 3  
+Those without the right to lawful stay are referred to the provincial directorate for further evaluation under the provisions of the Law.  
+##### 4  
+Foreign nationals released by judicial authorities under judicial control or with a ban on departure are monitored and controlled under judicial control provisions by relevant law enforcement units, considering their area of responsibility.  
+##### 5  
+If the departure ban for the foreign nationals in question is lifted, the necessary procedures are carried out by the provincial directorate in accordance with the provisions of the Law.  
+##### 6  
+Unless the judicial control decision includes a departure ban, it does not constitute an obstacle to the foreign national's departure; however, the judicial authority issuing the control order is informed before initiating deportation procedures.
+#### Article 61 - Review of Administrative Detention Decision  
+##### 1  
+Administrative detention is reviewed monthly to determine whether it is necessary to continue it.  
+##### 2  
+Continuation of administrative detention may not be deemed necessary in the following cases:  
+###### a  
+If it is anticipated that the deportation decision cannot be executed within six months from the time the foreign national was detained.  
+###### b  
+If there are serious indications that the foreign national under administrative detention falls within the scope of those exempt from the deportation decision.  
+###### c  
+If the risk of escape and disappearance, which formed the basis for the foreign national's administrative detention decision, is eliminated.  
+###### ç  
+If the foreign national applies for voluntary repatriation assistance.  
+##### 3  
+The provisions of subsections (b) and (d) of the first paragraph of Article 54 of the Law remain applicable when implementing the procedures specified in the second paragraph.
 
 
 
