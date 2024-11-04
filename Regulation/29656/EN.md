@@ -1484,6 +1484,34 @@ Whether a country is a safe third country for the applicant is assessed individu
 ##### 4  
 If it is determined that the applicant came from a safe third country, their application is considered inadmissible, and procedures are initiated for their return to the safe third country.  
 If it is not possible to send them to the safe third country, the procedures for their international protection application continue.
+#### Article 78 - Exclusion from international protection  
+##### 1  
+The applicant is excluded from international protection in the cases specified in the first paragraph of Article 64 of the Law.
+#### Article 79 - Withdrawal of the application or deemed withdrawal  
+##### 1  
+Applications of those covered under the first paragraph of Article 77 of the Law are considered withdrawn by the decision of the governor’s office, and the evaluation is halted with the corresponding entry in the institutional software system.  
+##### 2  
+The decision regarding the application being deemed withdrawn is communicated to the foreign national.  
+##### 3  
+For applicants who submit a written declaration to withdraw their application, the final decision is not awaited for those wishing to return voluntarily.  
+##### 4  
+If individuals whose applications are deemed withdrawn and who fall under subparagraph (a) of the first paragraph of Article 77 do not leave Turkey within the given period, and those covered under subparagraphs (b), (c), (ç), (d), and (e) of the same paragraph do not have the right to remain in Turkey under other provisions of the Law after the final adverse decision on their application withdrawal, they are deported.  
+However, a deportation decision is not issued for individuals whose applications are deemed withdrawn if this decision has not been communicated to them.  
+##### 5  
+New applications for international protection submitted after withdrawal or deemed withdrawal of the application are subject to accelerated assessment.  
+##### 6  
+The General Directorate may impose an entry ban on individuals whose international protection applications are deemed withdrawn or whose applications have been rejected, or it may delegate this authority to the governor’s office.
+#### Article 80 - Accelerated assessment  
+##### 1  
+In cases specified in the first paragraph of Article 79 of the Law, applications for international protection are assessed in an accelerated manner.  
+##### 2  
+Accelerated assessment does not prevent a detailed examination of the application within the framework of international protection provisions.  
+##### 3  
+Applicants for whom it is determined that the assessment will take longer than the period specified in the second paragraph of Article 79 of the Law may be removed from accelerated assessment.  
+##### 4  
+The decision to conduct an accelerated assessment of international protection applications, regardless of the place and manner of application, is made by the provincial directorate.  
+##### 5  
+At any stage of the evaluation, an international protection application may be included in the accelerated assessment by the decision of the General Directorate or the
 
 
 
