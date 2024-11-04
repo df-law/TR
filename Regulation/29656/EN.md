@@ -1462,6 +1462,28 @@ There is no risk of the applicant being sent from this country to another where 
 The third country is a party to the Convention, and its practices are also in line with the provisions of the Convention.  
 ###### ç  
 The adequate and effective protection provided by the third country will continue until a permanent solution is found for the applicant.
+#### Article 77 - Safe third country  
+##### 1  
+For a country to be considered a safe third country for the applicant, the following conditions must be met:  
+###### a  
+Compliance with the conditions specified in the second paragraph of Article 74 of the Law.  
+###### b  
+Existence of a connection between the individual and the country, as specified in the third paragraph of Article 74 of the Law.  
+##### 2  
+To assess the existence of the reasonable connection mentioned in Article 74 of the Law, one of the following conditions must be met:  
+###### a  
+The applicant has family members residing in the safe third country.  
+###### b  
+The applicant has previously stayed in the safe third country for an extended period for purposes such as work, study, or residence.  
+###### c  
+The applicant has strong cultural ties with the safe third country, such as basic knowledge of its language.  
+###### ç  
+The applicant entered the safe third country not only for transit but with the intention to stay.  
+##### 3  
+Whether a country is a safe third country for the applicant is assessed individually for each applicant.  
+##### 4  
+If it is determined that the applicant came from a safe third country, their application is considered inadmissible, and procedures are initiated for their return to the safe third country.  
+If it is not possible to send them to the safe third country, the procedures for their international protection application continue.
 
 
 
