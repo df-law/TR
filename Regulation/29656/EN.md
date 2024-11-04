@@ -1764,3 +1764,48 @@ At all stages of international protection procedures, notifications to the appli
 Interpretation services provided at all stages of international protection procedures may be provided by the Directorate General or provincial directorate through their own personnel or through procurement of services.  
 ##### 6
 Regarding interpretation services, the administration may cooperate with public institutions and organizations, non-governmental organizations and international organizations.
+#### Article 103 - Information on legal aid and counseling services
+##### 1
+Applicants and persons who have international protection status shall be informed in writing about the rights and services regulated in Article 81 of the Law and about their access to and use of these.
+#### Article 104 - Travel documents  
+##### 1
+The form, duration and content of the travel document to be issued to refugees under the Convention shall be determined by the Ministry in accordance with the Convention and shall be issued by the Directorate General or, when authorized, by the governorate.  
+##### 2
+Requests for travel documents from conditional refugees and subsidiary protection status holders shall be evaluated within the framework of Article 18 of the Passport Law No. 5682.
+#### Article 105 - Education and training  
+##### 1
+Applicants or persons who have international protection status and their family members may benefit from educational services in primary and secondary education institutions by presenting documents showing their status.  
+##### 2
+Registration procedures for primary and secondary education institutions and other matters shall be carried out within the framework of Ministry of National Education legislation.  
+##### 3
+Applicants or international protection status holders who have obtained the right to study in Turkey at associate degree, undergraduate, graduate or doctoral level within the framework of general provisions regarding foreign students may study with their documents showing their status, without requiring a separate student residence permit.
+#### Article 106 - Access to social assistance and services  
+##### 1
+The determination of those in need among applicants or international protection status holders and their access to social assistance and services shall be determined by governorates according to the following criteria:  
+###### a
+Housing opportunity.  
+###### b
+Regular income status.  
+###### c
+Number of dependent family members.  
+###### ç
+Movable and immovable assets in Turkey or in their country.  
+###### d
+Whether they receive assistance from relatives in Turkey or in their country.  
+###### e
+Whether they receive assistance from public institutions and organizations as well as other foundations, associations and private organizations.  
+###### f
+Whether they have health insurance.  
+###### g
+Whether they have any disability or illness.  
+###### ğ
+Other matters to be determined by the administration.  
+##### 2
+Social assistance and service support that may be provided to those in need shall be provided according to procedures and principles determined by the Ministry and the Ministry of Family and Social Policy.
+#### Article 107 - Health  
+##### 1
+Applicants or international protection status holders who do not have any health insurance and do not have the ability to pay shall be subject to the provisions of the Social Insurance and General Health Insurance Law.  
+##### 2
+Whether applicants or international protection status holders fall within the scope of the first paragraph shall be determined by governorates according to the procedure in the first paragraph of Article 106.  
+##### 3
+The procedures and principles regarding the initiation, termination or cancellation of general health insurance of applicants or international protection status holders shall be determined by the Directorate General in cooperation with the Social Security Institution.
