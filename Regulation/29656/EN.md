@@ -1700,3 +1700,14 @@ The decision on cessation of international protection status under Article 85 of
 ##### 3
 The decision on cessation of status shall be made individually.  
 However, the status of family members who were granted status based on the same grounds shall be terminated by the same decision.
+#### Article 98 - Cancellation of status
+##### 1
+In cases specified in the first paragraph of Article 86 of the Law, international protection status shall be cancelled.  
+The foreigner or their lawyer or legal representative shall be informed about this decision and shall be given the opportunity to present information and documents orally or in writing within a reasonable time.  
+##### 2
+If the notification mentioned in the first paragraph cannot be made according to the contact or address information in the records, the cancellation decision may be taken in absentia.  
+##### 3
+The decision on cancellation of international protection status under Article 86 of the Law shall be taken by the Directorate General or, if authorized, by governorships and shall be notified to the foreigner or their lawyer or legal representative.  
+##### 4
+Cancellation decisions shall be made individually.  
+However, the status of family members who were granted status based on the same grounds shall be cancelled by the same decision.
