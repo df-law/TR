@@ -1967,3 +1967,44 @@ In cases where legal representative and child are in different countries, the pe
 When the best interest of the child is in question, the administration shall initiate and decide on procedures within the scope of the Law regarding the child without any consent, request or application.  
 ###### d
 Matters related to international protection are reserved in provisions concerning children.  
+#### Article 123 - Unaccompanied children
+##### 1
+The provisions of Child Protection Law No. 5395 and related legislation shall apply to children who arrive in Turkey without an adult responsible for them by law or custom, or who remain unaccompanied after entering Turkey.  
+##### 2
+In all procedures related to unaccompanied children, the following matters shall be considered with regard to the best interests of the child:  
+###### a
+The unaccompanied child shall be immediately taken under protection by the Ministry of Family and Social Policies and placed by the Ministry of Family and Social Policies in suitable accommodation facilities or with adult relatives or a foster family.  
+###### b
+A comprehensive age assessment including physical and psychological evaluation shall be conducted by governorships for applicants and irregular migrants whose age cannot be proven by document and who are suspected to be over eighteen years old.  
+###### c
+Foreigners who will undergo age assessment shall be informed about the purpose and process of the procedure.  
+If doubts regarding the foreigner's age cannot be resolved after the assessment procedure, they shall be considered a child.  
+###### ç
+The applicant or irregular migrant for whom age assessment is requested shall be accommodated in an authorized public institution or another place deemed appropriate by this institution until a final report is issued about them.  
+###### d
+Those who have completed sixteen years of age may be accommodated in removal centers if they are irregular migrants when special conditions are met; if they are applicants or international protection status holders, they may also be accommodated in reception and accommodation centers.  
+###### e
+To the extent possible, siblings shall be kept together considering children's interests, ages and maturity levels.  
+Changes in accommodation places shall not be made unless necessary.  
+###### f
+Interviews with children shall be conducted in the most suitable environments for them.  
+Psychologist, child development specialist, social worker, parent or legal representative determined by the administration may be present during interviews with children.  
+Said specialists shall be requested from relevant institutions.  
+###### g
+All interviews shall be conducted by qualified personnel who have sufficient knowledge about children's psychological, emotional and physical development.  
+###### ğ
+At the decision stage, it shall be considered that the child may not have been able to clearly express all their requests.  
+###### h
+The interviewing officer may also benefit from the opinions of the specialist who participated in children's interview while preparing the interview report.  
+###### ı
+For those who are determined to be eighteen years of age and over according to the age assessment report obtained from a fully equipped state hospital or Forensic Medicine Institution, procedures applicable to adult irregular migrants or applicants shall apply.
+#### Article 124 - Collection and storage of personal data
+##### 1
+Personal data of foreigners within the scope of the Law such as fingerprints, palm prints, retina, voice scans, photographs shall be collected, protected, stored, used and shared by the Directorate General or provincial directorate according to procedures and principles determined by the Directorate General.  
+##### 2
+Collected personal data shall be stored by recording in the system dedicated to this purpose together with the foreigner's identification information, indicating when and by whom they were collected.  
+##### 3
+Fingerprints shall not be taken from heads of state or government and high-level government officials applying for visas, members of official delegations invited to Turkey and their accompanying spouses and children, and children under twelve years of age applying for visa or residence permits.
+#### Article 125 - Removal centers and reception and accommodation centers
+##### 1
+Procedures and principles regarding removal centers and reception and accommodation centers shall be regulated within the framework of the Regulation on Establishment, Management, Operation, Running and Supervision of Reception and Accommodation Centers and Removal Centers published in the Official Gazette No. 28980 dated 22/4/2014.
