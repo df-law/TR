@@ -2078,3 +2078,84 @@ Permanent councils and commissions operating within the Directorate General are:
 #### Article 135 - Temporary commissions
 ##### 1
 The Directorate General may establish temporary commissions to conduct studies and contribute to its activities regarding matters within its area of duty.
+### Chapter 2 - Migration Advisory Council
+#### Article 136 - Establishment
+##### 1
+The Migration Advisory Council consists of the Ministry Undersecretary or deputy undersecretary appointed by him as chairman, representatives at minimum department head level from Turkey Human Rights Institution, European Union, Labor and Social Security and Foreign Affairs ministries, Director General, Deputy Directors General, heads of Foreigners Department, International Protection Department, Protection of Human Trafficking Victims Department, Integration and Communication Department and Migration Policy and Projects Department of the Directorate General, Turkey Representative of United Nations High Commissioner for Refugees, Turkey Representative of International Organization for Migration, five faculty members on migration issues and five representatives from non-governmental organizations working in the field of migration.  
+##### 2
+Experts in the field of migration from within Turkey and abroad may be invited by the chairman to Council meetings to obtain their opinions.
+#### Article 137 - Determination of faculty member Council members
+##### 1
+Ten faculty members, five principal and five alternate, who have at least doctoral degree, are selected for a three-year term upon proposal of the Director General and approval of the Ministry Undersecretary to serve as Council members.  
+##### 2
+Faculty members who will serve as Council members are determined through evaluation of applications received upon announcement made by the Directorate General.  
+Announcement for Council membership is made on the Directorate General's website.  
+Additionally, notice regarding applications may be communicated in writing to universities and migration research and application centers operating within universities.  
+Applications are accepted during the period specified in the announcement, not to exceed one month.  
+##### 3
+Faculty members may apply personally, and universities may also make faculty member proposals.
+#### Article 138 - Determination of non-governmental organization representative Council members
+##### 1
+Ten non-governmental organization representatives, five principal and five alternate, are selected for a three-year term upon proposal of the Director General and approval of the Ministry Undersecretary to serve as Council members.  
+##### 2
+Announcement for Council membership is made on the Directorate General's website.  
+Applications are accepted during the period specified in the announcement, not to exceed one month.  
+##### 3
+Applications are made by non-governmental organizations.  
+##### 4
+It is essential that those to be selected as Council members as non-governmental organization representatives be from among representatives of associations, foundations, professional and intellectual organizations and their upper structures operating in the field of duty of the Directorate General.  
+Those who have work programs on matters related to the Directorate General's field of duty and who have organized national or international conferences, panels, seminars and similar meetings on these matters may be given priority.  
+However, representatives of associations and foundations within the scope of Law No. 5072 dated 22/1/2004 on Relations of Associations and Foundations with Public Institutions and Organizations cannot be selected as Council members.  
+##### 5
+The non-governmental organization is represented by the chairman of the board of directors or person authorized by the organization's decision-making body.
+#### Article 139 - Other matters regarding Council members
+##### 1
+Faculty members and representatives of non-governmental organizations are determined within maximum one month after the application deadline and announced on the Directorate General's website.  
+##### 2
+An alternate member is assigned in place of a principal member from among faculty members and non-governmental organization representatives who notifies inability to attend the meeting or withdraws from membership.  
+##### 3
+Membership of a member who fails to attend two consecutive meetings without excuse is terminated by Council decision.
+#### Article 140 - Meeting procedure
+##### 1
+The Council meets regularly twice a year on dates to be determined by the chairman.  
+The Council may also meet extraordinarily at any time upon call of the chairman.  
+The Director General may make proposals to the chairman regarding extraordinary meeting of the Council.  
+##### 2
+Council meetings are held at the Directorate General or at a place deemed appropriate by the Chairman.
+#### Article 141 - Council meeting agenda
+##### 1
+Draft agenda for the meeting, prepared by the secretariat taking appropriate opinion of the Director General, is sent to members at least one month before the meeting date together with attachments if any.  
+Members submit matters they propose to be included in the agenda to the Directorate General no later than two weeks before the meeting date.  
+##### 2
+The meeting agenda is determined after being finalized by submission to Chairman's approval by the Director General and notified to members.
+#### Article 142 - Council decisions and their nature
+##### 1
+The Council convenes with absolute majority of total number of members and makes decisions with majority vote of those present.  
+In case of equality of votes, majority is deemed achieved in the direction of the Chairman's vote.  
+##### 2
+Decisions voted against are signed with dissenting opinion noted.  
+Dissenting opinion justifications are submitted in writing to the secretariat until the next council meeting to be kept in the file.  
+##### 3
+At commission meetings held under chairmanship of Directorate General representative, advisory decisions are made in evaluation of objections.  
+##### 4
+Decision on rejection, cancellation or non-extension of appeal application is notified to the foreigner or their legal representative or lawyer.
+#### Article 143 - Announcement of decisions
+##### 1
+Decisions taken by the Board shall be notified in writing by the Directorate General to board members and relevant institutions and organizations, and shall be announced on the Directorate General's website if there is no confidentiality decision.
+#### Article 144 - Monitoring and evaluation of Board decisions
+##### 1
+Public institutions and organizations shall prepare a monitoring report every three months from the date of the first meeting regarding their work carried out in accordance with Board decisions and submit it to the Directorate General.  
+The Directorate General shall evaluate these reports and present the results to the Board Chairman within one month.
+#### Article 145 - Secretariat and support services
+##### 1
+The Commission's secretariat and support services shall be provided by the Directorate General.
+### Chapter 3 - International Protection Assessment Commission
+#### Article 146 - Establishment
+##### 1
+The International Protection Assessment Commission shall be formed under the chairmanship of the Directorate General representative and shall consist of one representative each appointed by the Ministries of Justice and Foreign Affairs and one migration expert to perform the duties specified in the second paragraph of Article 115 of the Law.  
+A representative of the United Nations High Commissioner for Refugees Turkey Representative Office may be invited to participate in the Commission as an observer.
+#### Article 147 - Commission members
+##### 1
+The Directorate General representative who will chair the Commission and the migration expert, or in the absence of a migration expert, the assistant migration expert who will be appointed in their place, shall be appointed by the Director General as principal and alternate members for two years.  
+Other members shall be determined as principal and alternate members for at least one year.  
+No additional duties shall be assigned to the Commission chairman and members during their term of office.
