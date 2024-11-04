@@ -996,6 +996,58 @@ Failure to comply with imposed obligations.
 It is determined that the foreigner is not a victim.  
 ##### 2
 If it is established that the actions under points (a) and (b) of the first paragraph were committed due to coercion, intimidation, violence, or threat, the residence permit is not canceled.
+### Chapter 3 - Stateless Persons
+#### Article 47 - Application
+##### 1
+Persons who arrive in Turkey as stateless individuals or who lose their citizenship while in Turkey submit an application to the governorate to determine their status.  
+##### 2
+Applications are submitted in person.  
+Applications on behalf of minor children are submitted by the parents, or if they are absent, by an appointed guardian or trustee.  
+##### 3
+Applications submitted to law enforcement or other public institutions within the country or at border crossings are immediately reported to the governorate.  
+##### 4
+The applicant is given a reasonable time to present documents supporting their claim of statelessness.  
+If the applicant cannot provide any documents proving their identity, their statements may be accepted as evidence.  
+##### 5
+For those whose applications are accepted, a temporary document, exempt from fees, is issued, valid until a final decision is made.  
+The legal stay permitted based on this document is not included in the calculation of the total residence period.  
+##### 6
+Applications from individuals holding a stateless person identification document or stateless passport issued by another country are not processed.  
+##### 7
+For those holding a stateless person identification document from another country and applying for a residence permit in Turkey, their requests are evaluated under general provisions, and they are required to possess a passport or a valid equivalent document in all cases.
+#### Article 48 - Interview in stateless person applications
+##### 1
+After the completion of the application and registration procedures, an interview is conducted within **15 days**, except for mandatory reasons.  
+The report prepared as a result of the interview is sent to the Directorate General for a decision along with the opinion of the governorate.  
+##### 2
+During the interview, the following issues are clarified:  
+###### a
+The date and manner of entry into the country.  
+###### b
+Whether the applicant has relatives in the country and, if so, where they reside.  
+###### c
+The means by which the applicant sustains themselves.  
+###### ç
+The process leading to statelessness.  
+###### d
+Identification of the applicant's previous citizenship and related documents.  
+###### e
+Determining whether the applicant has applied for stateless person status in another country, and if the request was denied, the reasons for the denial and the relevant information and documents.  
+###### f
+The possibility of regaining the lost citizenship.
+#### Article 49 - Determination of statelessness
+##### 1
+The Directorate General, if necessary, consulting relevant institutions and organizations, completes the determination process regarding whether the person is stateless within **90 days**.  
+##### 2
+The following principles are followed in determining statelessness:  
+###### a
+The applicant is required to provide information and documents showing that they have no citizenship with any country.  
+###### b
+If information and documents cannot be obtained directly, provisions of the relevant country’s citizenship legislation may be accepted as evidence.  
+###### c
+The Directorate General may, if necessary, request information and documents from the country of the applicant's former citizenship.  
+##### 3
+For foreigners suspected of being hidden citizens, an initial examination is conducted with the provincial or district civil registration and citizenship directorates to determine their status.
 
 
 
