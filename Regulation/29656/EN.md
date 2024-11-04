@@ -1512,6 +1512,45 @@ Applicants for whom it is determined that the assessment will take longer than t
 The decision to conduct an accelerated assessment of international protection applications, regardless of the place and manner of application, is made by the provincial directorate.  
 ##### 5  
 At any stage of the evaluation, an international protection application may be included in the accelerated assessment by the decision of the General Directorate or the
+### Chapter 2 - Interview  
+#### Article 81 - General principles  
+##### 1  
+The interview is conducted within thirty days from the date of registration, and for applicants whose applications are assessed in an accelerated manner, it is conducted no later than three days from the date of application.  
+##### 2  
+The interview is conducted by personnel trained in areas such as interview techniques, refugee law, human rights law, and country of origin information.  
+##### 3  
+If the applicant is absent on each of the three scheduled interview dates without an acceptable excuse, their application is considered withdrawn, and the assessment is halted.  
+##### 4  
+If a disability or other compelling reasons exist, the interview may be conducted at the location where the foreign national is residing.  
+##### 5  
+The form and content of the interview form and interview report used in the interview process are determined by the General Directorate.
+#### Article 82 - Persons who may participate in the interview  
+##### 1  
+The interview is conducted individually. However, the following persons may participate in the interview when necessary:  
+###### a  
+Family members with the consent of the individual.  
+###### b  
+The applicant's lawyer as an observer, upon the applicant’s written request.  
+###### c  
+An interpreter.  
+###### ç  
+Where possible, a psychologist, pedagogue, child development specialist, social worker, or other relevant experts appointed by the administration.  
+###### d  
+A parent or legal representative in the case of interviews with children.  
+##### 2  
+When deemed necessary, individual interviews may be conducted with adult family members with their consent and with underage family members without the need for consent if the application was made on their behalf by family members.
+#### Article 83 - Preparation for the interview  
+##### 1  
+The interviewer gathers sufficient information prior to the interview to verify the accuracy of the applicant’s statements given during registration by investigating claims made in the application, country of origin information, and other necessary aspects.  
+##### 2  
+The interviewer may prepare additional questions beyond those listed on the interview form to clarify the applicant’s statements.  
+##### 3  
+Prior to the interview, the interviewer informs the interpreter and other personnel participating in the interview about the scope of the interview and the rules to be followed.
+#### Article 84 - Interview room  
+##### 1  
+The interview is conducted in an interview room equipped with the necessary technical equipment to ensure the interview proceeds without interruption.  
+##### 2  
+All measures are taken to ensure the privacy and security of the interview room so that the applicant can express themselves in the best possible manner.
 
 
 
