@@ -955,6 +955,47 @@ However, the requirement for **8 years** of continuous residence is not reevalua
 ##### 6
 The evaluation conducted by the governorates is submitted to the Ministry along with the governorate's opinion.  
 The reissuance of the long-term residence permit is subject to the Ministry's approval.
+#### Article 44 - Issuance, extension, or cancellation of the humanitarian residence permit
+##### 1
+Humanitarian residence permit procedures are initiated upon the request of the Directorate General or the governorate.  
+##### 2
+The governorate conducts an independent evaluation during the term of humanitarian residence permits to determine whether the conditions that served as the basis for issuing these permits still apply and informs the Ministry.  
+The humanitarian residence permit is canceled or not extended by the governorates with the Ministry’s approval if the conditions that necessitated its issuance no longer exist.  
+The governorate notifies the foreigner of the decision to cancel or not extend the humanitarian residence permit no later than **15 days** before the expiration of the permit, in line with the Ministry’s approval.  
+##### 3
+Persons holding a humanitarian residence permit may apply for other residence permits, except for a long-term residence permit, provided they meet the necessary conditions during the validity period of the humanitarian residence permit.  
+##### 4
+Periods spent with a humanitarian residence permit are not included in the calculation of residence permit periods specified in the Law.  
+##### 5
+Foreigners with a humanitarian residence permit must register in the address registration system within **20 business days** from the date the permit is issued.  
+##### 6
+Humanitarian residence permits are subject to the provisions of the Law on Fees.  
+Failure to pay a fee previously calculated due to a residence term violation does not prevent the issuance of a humanitarian residence permit if the necessary conditions for its issuance are met.  
+##### 7
+The decision to cancel or not extend the humanitarian residence permit is communicated to the foreigner, their legal representative, or attorney.
+#### Article 45 - Residence permit for victims of human trafficking, its extension, and support program
+##### 1
+A **30-day** residence permit, free of charge, is issued by the governorates to victims of human trafficking or those strongly suspected of being victims, to aid their recovery and cooperation with authorities.  
+During this period, the primary conditions include the voluntary residence of the victim in a shelter or support center and participation in a support program.  
+##### 2
+The victim support program, provided at a minimum level within the available resources, includes assistance in areas such as accommodation, healthcare, psychosocial support, interpreter assistance, and education.  
+##### 3
+Obligations may be imposed on the victim during the support program or independent residence.  
+##### 4
+When issuing a residence permit for victims of human trafficking, requirements such as a valid passport, visa, proof of income, address registration, health insurance, the absence of a deportation decision, or an entry ban, which are needed for other types of residence permits, are not required.  
+##### 5
+The residence permit for victims of human trafficking may be extended for a maximum period of **6 months** at a time and for a total duration not exceeding **3 years**, depending on the victim’s safety, health, or special circumstances.
+#### Article 46 - Termination of the support program for victims of human trafficking and cancellation of the residence permit
+##### 1
+The support program is terminated, and the residence permit for victims of human trafficking is canceled in the following cases:  
+###### a
+It is determined that the foreigner, on their own initiative, reestablished contact with the perpetrators.  
+###### b
+Failure to comply with imposed obligations.  
+###### c
+It is determined that the foreigner is not a victim.  
+##### 2
+If it is established that the actions under points (a) and (b) of the first paragraph were committed due to coercion, intimidation, violence, or threat, the residence permit is not canceled.
 
 
 
