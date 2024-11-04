@@ -246,4 +246,42 @@ Other visas: granted to foreigners coming to Turkey for purposes other than thos
 The purpose of the foreigner's visit is specified on the visa.  
 ##### 3
 The provisions regarding the free migrant visa, which is issued in accordance with the first paragraph of Article **5** of the Settlement Law numbered **5543**, are applied by the Ministry and the Ministry of Foreign Affairs with consideration of their specific conditions.
+#### Article 12 - Visa application, finalization, and cancellation
+##### 1
+Visa applications are submitted to the consulate in the country of which the foreigner is a citizen or where they are legally residing.  
+Applications can also be submitted electronically.  
+##### 2
+The Visa Application Form is filled out separately for each foreigner.  
+##### 3
+The foreigner is required to provide the authorized authority with the information and documents that may be requested according to the visa type.  
+Applications from foreigners who cannot complete the requested documents within the given time are not considered.  
+Processes and procedures related to visa applications may be carried out through service procurement.  
+##### 4
+Visa applications are finalized within a maximum of **90 days**.  
+This period starts from the time the foreigner completes the required documents.  
+##### 5
+Consulates forward visa applications to the Directorate General.  
+Embassies of the Republic of Turkey may independently issue visas to foreign diplomats and, in exceptional cases, to foreigners for whom a visa is considered beneficial in the country's interests.  
+Other categories of foreigners to whom visas may be issued independently are jointly determined by the Ministry and the Ministry of Foreign Affairs.  
+Visas issued independently are reported to the Directorate General and the Ministry of Foreign Affairs.  
+The Directorate General finalizes applications, if necessary, with the opinions of relevant institutions and organizations and informs the consulate or embassy.  
+Notifications can also be made electronically.  
+##### 6
+In cases stipulated by the law regarding visa cancellation, the visa is canceled by the authority that issued the visa or by the governorships, and if the visa is in the passport, the necessary records are made.
+#### Article 13 - Foreigners exempt from the visa requirement
+##### 1
+The following foreigners are not required to obtain a visa for entry into Turkey:  
+###### a
+Citizens of countries exempted from visa requirements under agreements to which the Republic of Turkey is a party or by a decision of the Council of Ministers.  
+###### b
+Foreigners who hold a valid residence permit, work permit, or Work Permit Exemption Certificate as of the date of entry into Turkey.  
+###### c
+Persons who possess a document that provides an exemption from a residence permit under the Law.  
+###### ç
+Holders of Passports for Foreigners issued under Article **18** of the Passport Law numbered **5682** and dated **15/7/1950** and valid for entry.  
+###### d
+Persons covered under Article **28** of the Turkish Citizenship Law.  
+###### e
+Holders of a Migrant Certificate in accordance with Law numbered **5543**.
+
 
