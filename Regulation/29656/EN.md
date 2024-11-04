@@ -726,3 +726,78 @@ A foreign spouse who is a victim of domestic violence may be granted a short-ter
 In the event of the sponsor's death, the family residence permit issued based on the sponsor is valid until the end of its duration.  
 A short-term residence permit may be granted without a time condition.  
 At the end of this period, the foreigner’s request for a residence permit is evaluated according to general provisions.
+#### Article 31 - Income standard of the sponsor for the issuance of a family residence permit
+##### 1
+In applications for family residence permits, subparagraph (b) of the fifth paragraph of Article **40** of the Law is applied to calculate the total monthly income of the sponsor.
+#### Article 32 - Submission of the sponsor's information and documents
+##### 1
+After an application for a family residence permit is submitted to the consulate, information and documents proving that the applicant meets the requirements of the first paragraph of Article **35** of the Law are provided by the sponsor to the governorship where they reside.  
+The application for the family residence permit is processed once the information and documents are submitted.
+#### Article 33 - Refusal, cancellation, or non-extension of a family residence permit
+##### 1
+A family residence permit is not issued, is canceled if issued, or is not extended in the following cases:  
+###### a
+Non-fulfillment or termination of the conditions stipulated in the first and third paragraphs of Article **35** of the Law.  
+###### b
+Non-issuance of a short-term residence permit after the conditions for a family residence permit cease to exist.  
+###### c
+Having a valid deportation decision or entry ban to Turkey.  
+###### ç
+Determination that the family residence permit is used for purposes other than those for which it was issued.  
+###### d
+Remaining outside the country for more than **180 days** within the last year, except for mandatory public service, duty, education, or health reasons.  
+###### e
+Determination that the marriage was conducted solely for the purpose of obtaining a residence permit.  
+##### 2
+The decision to refuse, cancel, or not extend the residence permit is communicated to the foreigner, their legal representative, or attorney.
+#### Article 34 - Family residence permit requested through a marriage of convenience
+##### 1
+If one or more of the following circumstances exist, it is considered reasonable suspicion that the marriage was conducted solely for the purpose of obtaining a residence permit, and an investigation is initiated:  
+###### a
+The spouses do not live in the same residence or there are complaints that the marriage is not maintained as a family unit.  
+###### b
+The spouses do not speak a common language.  
+###### c
+There is an unreasonable age difference between the spouses.  
+###### ç
+The foreigner has committed visa or residence permit violations.  
+###### d
+The spouses have declared that their marriage is one of convenience.  
+###### e
+One of the spouses has been found to have engaged in unlawful means of earning or working without permission.  
+###### f
+The family income is not suitable to meet the standard of living.  
+##### 2
+The investigation is carried out considering the following factors:  
+###### a
+Avoiding actions that disturb or offend individuals.  
+###### b
+Taking measures to ensure the confidentiality of private life and the inviolability of the home.  
+###### c
+Conducting interviews with the spouses separately and together.  
+The spouses are obliged to attend the interview upon invitation.  
+###### ç
+Determining whether shared responsibilities exist.  
+###### d
+Obtaining information from close neighbors, individuals living nearby, or family members.  
+###### e
+Obtaining information from local units.  
+These units are required to promptly fulfill requests for information and documents.  
+###### f
+Involvement of sociologists, social workers, psychologists, or other professionals during the investigation, if necessary.  
+###### g
+Requesting accompaniment from law enforcement personnel if needed.  
+###### ğ
+Compliance with other conditions determined by the Ministry.  
+##### 3
+Following the investigation specified in the first paragraph, a commission is formed to assess and determine whether the marriage was conducted solely for the purpose of obtaining a residence permit. The commission is chaired by a representative of the provincial directorate and includes one representative each from the provincial directorate of family and social policies, the provincial directorate of population and citizenship affairs, and the provincial security directorate, with at least one female member present.  
+The commission makes decisions by simple majority vote.  
+In case of a tie, the chairman's vote determines the outcome.  
+Representatives from other institutions may also be invited to the commission.  
+##### 4
+After the issuance of a family residence permit, governorships may continue to conduct checks to verify whether the marriage is one of convenience.  
+##### 5
+Residence permits obtained through a marriage of convenience and subsequently canceled are not included in the calculation of the residence permit duration stipulated by the Law.  
+##### 6
+If a marriage of convenience is established, the relevant law enforcement authorities are informed.
+
