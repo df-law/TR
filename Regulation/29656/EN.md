@@ -1612,5 +1612,23 @@ If a report of the previously conducted interview was not prepared, a new interv
 Except for persons falling under Articles 72 and 79 of the Law and their family members, applicants who have completed their interview and family members who came with them, if any, are issued an International Protection Applicant Identity Document by the Directorate General or, if authorized, by the provincial directorate, containing the foreigner identification number, not subject to any fees, whose form and content are determined by the Directorate General and which is valid until cancelled.  
 ##### 2
 This document provides the applicant the right to stay in Turkey without obtaining a residence permit during its validity period.
+#### Article 91 - Request for permission to leave the province of residence and abandonment of province of residence
+##### 1
+Applicants may be granted permission by the provincial directorate to leave the province for up to thirty days if needed.  
+The form and content of the permission document shall be determined by the Directorate General.  
+Necessary measures shall be taken to prevent the misuse of permissions to leave the province.  
+##### 2
+In case of a need to extend the permission period, the applicant may apply to the provincial directorate where they are located.  
+This request shall be evaluated together with the province of residence.  
+If the request is accepted, a notation shall be made on the permission document and the permission period may be extended once for up to thirty days.  
+##### 3
+Permission requests after the end of the total sixty-day period granted under paragraphs one and two shall be sent to the Directorate General together with the opinion of the provincial directorate where they are located, and actions shall be taken according to the Directorate General's decision.  
+##### 4
+For applicants who have not returned to their province of residence after the granted permission expires or who have left their province of residence without permission, data shall be entered into the institutional software system and necessary procedures shall be initiated to locate them nationwide, and procedures shall be established to consider their application withdrawn.  
+##### 5
+If foreigners with search records are found to be in another province, after consulting with their province of residence, any decisions made about them shall be notified if available.  
+The foreigner shall be transferred to their province of residence either by their own means or, if deemed necessary, under the escort of assigned law enforcement officers.  
+##### 6
+Regarding those who do not go to their designated provinces of residence or who leave these provinces contrary to the rules determined by governorships after arrival, restrictions may be imposed on benefiting from rights, except for education and basic healthcare rights.
 
 
