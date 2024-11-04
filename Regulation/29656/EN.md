@@ -1898,3 +1898,15 @@ In sharing information regarding children, the principle of the best interests o
 ##### 1
 When a copy of documents in the personal file of an applicant or international protection status holder is requested in writing, it shall be delivered with a receipt to the person themselves, their legal representative or lawyer who presents power of attorney, according to procedures and principles to be determined by the Directorate General.  
 The receipt shall also include warnings that the provided document copies may only be used for defense purposes in administrative appeal or judicial proceedings, and that their provision or disclosure to third parties will result in legal liability.
+## Part 4 - Directorate General Councils and Commissions and Various Provisions
+### Chapter 1 - Formation of Permanent Councils and Commissions and Temporary Commissions
+#### Article 118 - Integration
+##### 1
+The Directorate General cooperates with public institutions and organizations, local governments, non-governmental organizations, universities and international organizations in planning and implementing integration activities or establishing centers for this purpose to ensure mutual integration with society of foreigners who have legal stay rights, international protection applicants or status holders, or those under temporary protection.  
+##### 2
+The standards of centers to be established for carrying out integration work and services to be provided in these centers shall be determined by the Ministry after obtaining opinions of relevant institutions and organizations.  
+Cooperation and coordination between national and international institutions and organizations shall be ensured by the Directorate General.  
+##### 3
+In each province, provincial migration councils, where integration activities are planned and conducted at the provincial level with participation of public institutions and organizations, municipalities, chamber of commerce, non-governmental organizations, universities, meet once a month under chairmanship of the governor.  
+Decisions taken at each meeting are regularly sent to the Directorate General.
+  
