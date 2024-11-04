@@ -1187,6 +1187,55 @@ Domestic and international travel expenses for law enforcement personnel assigne
 The governorates take all necessary measures for determining and appointing the general law enforcement personnel required for deportation operations, with respect to public order or security.  
 Any disputes related to the designation of law enforcement personnel are resolved by the governorates.  
 If deemed necessary by the governorates, law enforcement units may be assigned regardless of jurisdiction.
+#### Article 56 - Issuance and notification of deportation decision
+##### 1
+The deportation decision is issued by the governorate of the province where the foreigner was apprehended, processed, or identified, either ex officio or upon the request of the Directorate General.  
+##### 2
+The deportation decision must specify whether the foreigner will be directly deported, invited to leave Turkey, or subjected to administrative detention.  
+##### 3
+The deportation decision is notified to the foreigner.  
+The notification must also state that, if the foreigner wishes to appeal the deportation decision to the administrative court, they must inform the authority that issued the decision.
+#### Article 57 - Non-enforcement or cancellation of deportation decision
+##### 1
+If, after a deportation decision has been made, it is determined that the foreigner falls under Article 55(1)(a) of the Law, the possibility of deportation to a third country is evaluated first.  
+If it is not possible to deport the foreigner to a third country, the deportation decision is not enforced, and the foreigner is granted a humanitarian residence permit.  
+During the humanitarian residence permit period, options for deportation to their home country or a third country are continuously evaluated.  
+If the obstacle to deportation is removed, the humanitarian residence permit is canceled, and the deportation process is completed without issuing a new decision.  
+##### 2
+If, after a deportation decision has been made, it is determined that the foreigner falls under Article 55(1)(b) or (c) of the Law, the deportation decision is not enforced, and the foreigner is granted a humanitarian residence permit.  
+During the humanitarian residence permit period, the foreigner’s health status is monitored.  
+If the obstacle to deportation is removed, the humanitarian residence permit is canceled, and the deportation process is completed without issuing a new decision.  
+##### 3
+Deportation and, if applicable, administrative detention decisions are terminated for foreigners whose deportation decisions have been canceled by judicial authorities.  
+Necessary actions are taken regarding their legal stay in Turkey.  
+##### 4
+Evaluations under the first and second paragraphs are conducted individually for each person.  
+Such persons may be required to reside at a specific address and report their status as specified.
+#### Article 58 - Invitation to leave Turkey
+##### 1
+Foreigners who do not fall under Article 54(1)(b) and (d) of the Law may be invited to leave Turkey, provided they meet the conditions specified in Article 56 of the Law.  
+##### 2
+Foreigners who are invited to leave Turkey are granted a period of between fifteen and thirty days, as indicated in the deportation decision, and are issued an exit permit. If they do not leave within this period without a valid excuse, an administrative detention decision is issued by the governorate.  
+##### 3
+Foreigners invited to leave cannot apply for residence or work permits within the granted period.  
+##### 4
+If a governorate or magistrate judge decides to terminate administrative detention, the foreigner’s detention is immediately lifted, and they are invited to leave Turkey, provided no court decision prevents their departure.  
+If the foreigner is deemed a public security risk, relevant security and intelligence units are informed by the provincial directorate to ensure necessary security measures, and the foreigner’s administrative detention is lifted with specific obligations imposed.  
+##### 5
+The provincial directorate handling the process records necessary data for foreigners who are invited to leave Turkey.  
+##### 6
+Foreigners invited to leave Turkey are allowed to exit at border gates regardless of the period granted to them to leave.  
+##### 7
+Foreigners who arrive at border gates within the leave period and pay fines related to visa or residence violations are not subject to entry bans.  
+##### 8
+Foreigners arriving at border gates after the leave period has expired are subject to entry bans based on the duration of their visa or residence violations.  
+##### 9
+Foreigners who fail to depart within the leave period are deported from a deportation center.  
+##### 10
+If a record indicating that the foreigner was invited to leave is found during entry processing at border gates, it is automatically removed by the border gate.  
+For other entry bans imposed for different reasons, procedures are followed in accordance with the specific regulation related to that record.  
+##### 11
+Foreigners who meet all the conditions of the leave invitation but are found to be without a passport when apprehended are also allowed to benefit from the leave invitation process.
 
 
 
