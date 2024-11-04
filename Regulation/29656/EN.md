@@ -2015,3 +2015,58 @@ The Council consists of the Minister of Interior as chairman, undersecretaries o
 ##### 2
 According to the meeting agenda, representatives of relevant ministry, other national or international institutions and organizations, and non-governmental organizations may be invited to the meeting.  
 Representatives of ministries, institutions and organizations to be invited to the meeting shall be determined with the approval of the Council Chairman.
+#### Article 127 - Duties
+##### 1
+The duties of the Council are as follows:  
+###### a
+To determine Turkey's migration policies and strategies, monitor their implementation.  
+###### b
+To prepare strategy documents, programs and implementation documents in the field of migration.  
+###### c
+To determine methods and measures to be applied in case of mass influx.  
+###### ç
+To determine procedures and principles regarding entry into and stay in the country of foreigners who will be admitted to Turkey collectively for humanitarian considerations.  
+###### d
+To determine principles regarding foreign workforce needed by Turkey within the framework of proposals by the Ministry of Labor and Social Security, and foreigners coming for seasonal work in agricultural areas in line with opinions of the Ministry of Food, Agriculture and Livestock.  
+###### e
+To determine other conditions for long-term residence permits to be issued to foreigners.  
+###### f
+To determine the framework of effective cooperation with foreign countries and international organizations in the field of migration and work in this area.  
+###### g
+To make decisions aimed at ensuring coordination between public institutions and organizations working in the field of migration.
+#### Article 128 - Meeting procedure
+##### 1
+The Council meets regularly each year on a date determined by the Council Chairman.  
+When deemed necessary, it may meet extraordinarily upon call of the Council Chairman.  
+The Director General may propose to the Council Chairman regarding extraordinary meeting of the Council.  
+##### 2
+Council meetings are held at a place deemed appropriate by the Council Chairman upon proposal of the Director General.
+#### Article 129 - Meeting agenda
+##### 1
+The meeting agenda is determined by the Council Chairman taking opinions of members.  
+The Director General, taking opinions of Council members regarding the agenda, submits the meeting agenda to the Council Chairman's approval before the meeting date.  
+##### 2
+The meeting agenda is sent to Council members by the Directorate General before the meeting date, together with attachments if any.  
+After sending the agenda, additions may also be made to the agenda when deemed necessary by the Chairman.
+#### Article 130 - Council decisions
+##### 1
+The Council convenes with absolute majority of total number of members and makes decisions with majority vote of those present.  
+In case of equality of votes, majority is deemed achieved in the direction of the Council Chairman's vote.  
+##### 2
+Council decisions are written during the meeting or within reasonable time afterwards, with each decision being numbered.  
+If there are plans, projects, maps and similar documents that will be attached to Migration Policy Council decisions, one set of these documents is initialed by the secretariat and kept in the decision file.  
+##### 3
+Council members who vote against decisions taken submit their written dissenting opinion justifications to the secretariat to be kept in the file.  
+##### 4
+Representatives who are not Council members but are invited to Council meeting cannot vote.
+#### Article 131 - Announcement of decisions
+##### 1
+Decisions taken at the Council are notified in writing by the Directorate General to Council members and relevant institutions and organizations.  
+Additionally, if there is no confidentiality decision, they are announced on the Directorate General's website.
+#### Article 132 - Monitoring and evaluation of decisions
+##### 1
+Institutions and organizations responsible for implementation of Council decisions prepare monitoring reports on their work towards implementing decisions and send them to the Directorate General in four-month periods from the meeting date.  
+Those who do not prepare monitoring reports or do not implement decisions are requested to send their justifications in writing until the next meeting for submission to the Council.
+#### Article 133 - Secretariat and support services
+##### 1
+The Council's secretariat and support services are carried out by the Directorate General.
