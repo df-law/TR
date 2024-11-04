@@ -904,5 +904,57 @@ The foreigner's income sources cannot rely on third-party commitments.
 The application is rejected if the foreigner does not have valid health insurance at the application date.  
 ##### 7
 If necessary, it is checked, in cooperation with relevant security units, whether the foreigner poses a threat to public order or security.
+#### Article 41 - Rights granted by the long-term residence permit
+##### 1
+Foreigners with a long-term residence permit are entitled to the same rights as Turkish citizens under the following provisions:  
+###### a
+They are exempt from military service obligations in Turkey.  
+###### b
+They are not entitled to voting, election, holding public office, or tax-exempt vehicle importation rights.  
+###### c
+Their acquired rights related to social security are preserved, but the use of these rights is subject to the provisions in the relevant laws.  
+###### ç
+Their transactions related to residence, travel, work, investment, commercial activities, inheritance, acquisition, and disposition of movable and immovable property in Turkey are conducted by the relevant institutions and organizations according to the legislation applied to Turkish citizens.  
+##### 2
+If a specific law requires Turkish citizenship for exercising any of the rights and obligations specified in the first paragraph, those with a long-term residence permit cannot claim these rights.  
+##### 3
+The rights granted to foreigners with a long-term residence permit may be partially or fully restricted by a decision of the Council of Ministers, either at the request of the Ministry or on its own initiative.
+#### Article 42 - Cancellation of the long-term residence permit
+##### 1
+The long-term residence permit is canceled if it is determined, based on an opinion from relevant security units, that the holder poses a serious threat to public order or security.  
+##### 2
+The long-term residence permit is canceled for those who remain outside Turkey for more than **1 year** continuously, except for reasons of health, education, mandatory public service, or assignment.  
+##### 3
+The cancellation of the long-term residence permit is carried out by the governorates with the approval of the Ministry.  
+##### 4
+Persons whose permit is canceled under the first paragraph cannot apply for one of the types of residence permits stipulated by the Law.  
+##### 5
+The decision to cancel the residence permit is communicated to the foreigner, their legal representative, or attorney.
+#### Article 43 - Reapplication by foreigners whose long-term residence permits have been canceled
+##### 1
+Foreigners whose long-term residence permits have been canceled due to staying outside Turkey for more than **1 year** continuously, except for reasons of health, education, mandatory public service, or assignment, may reapply to obtain this permit.  
+##### 2
+Applications are submitted to consulates abroad or to the governorate of the province where the foreigner resides in Turkey, either in person or in accordance with the application procedure determined by the Directorate General.  
+##### 3
+These applications are prioritized and finalized within **1 month** at the latest.  
+##### 4
+Evaluation is conducted based on the following factors:  
+###### a
+The foreigner's intent to reside permanently in Turkey,  
+###### b
+Whether they have relatives in Turkey,  
+###### c
+Ownership of movable or immovable property,  
+###### ç
+Active employment and work relationships,  
+###### d
+Social, economic, and cultural ties with Turkey.  
+##### 5
+In these applications, it is checked whether the conditions for obtaining a long-term residence permit are met.  
+However, the requirement for **8 years** of continuous residence is not reevaluated.  
+##### 6
+The evaluation conducted by the governorates is submitted to the Ministry along with the governorate's opinion.  
+The reissuance of the long-term residence permit is subject to the Ministry's approval.
+
 
 
