@@ -1414,6 +1414,54 @@ If the applicant has special needs, information regarding these needs is recorde
 At the end of registration, all information on the registration screen of the institutional software system is read to the applicant, and they are asked to confirm its accuracy and indicate any additional information they wish to provide.  
 ##### 7  
 A printed copy of the electronic registration form filled out during registration is signed by those present, and a copy is given to the applicant.
+#### Article 71 - Registration document  
+##### 1  
+After the completion of registration, the applicant is issued an international protection application registration document, the form and content of which are determined by the General Directorate, without any fees. This document is valid until it is canceled.  
+This document grants the applicant the right to remain in Turkey without a residence permit while it is valid.  
+##### 2  
+The registration document is issued as of the date of the international protection application, regardless of the expiration date of the visa or visa exemption period for applicants who entered Turkey through regular means, and regardless of the date of illegal entry for those who entered irregularly and directly.
+#### Article 72 - Determination of the applicant’s province of residence  
+##### 1  
+The province in which the applicant will reside is determined by the General Directorate or, if authorized, by the provincial directorate.  
+##### 2  
+If the applicant does not arrive in the designated province within the specified period, their application is considered withdrawn.
+#### Article 73 - Initial assessments  
+##### 1  
+The provincial directorate assesses whether the application is, first and foremost, inadmissible and subsequently whether it may be subject to accelerated processing.
+#### Article 74 - Inadmissible application  
+##### 1  
+Before deciding that an application for international protection is inadmissible, an interview is conducted with the applicant.  
+##### 2  
+Based on the evaluation conducted at the end of the interview, the governor’s office decides on the inadmissibility of the application.  
+##### 3  
+A decision of inadmissibility is also made if the grounds specified in the first paragraph of Article 72 of the Law emerge at any stage during the evaluation of the application.  
+##### 4  
+The General Directorate may also decide on the inadmissibility of the application based on the examination of the applicant’s registration, interview, and other relevant documents.  
+##### 5  
+The decision regarding the inadmissibility of the application is communicated to the applicant.
+#### Article 75 - First country of asylum  
+##### 1  
+The applicant is considered to have come from a first country of asylum in the following cases:  
+###### a  
+The applicant has been recognized as a refugee in another country and still has the opportunity to benefit from this protection.  
+###### b  
+The applicant is not recognized as a refugee but still benefits from adequate and effective protection in the third country, including the principle of non-refoulement.  
+##### 2  
+Whether a country is considered a first country of asylum for the applicant is assessed individually for each applicant.  
+##### 3  
+If the applicant is considered to have come from a first country of asylum, their application is assessed as inadmissible, and procedures are initiated for their return to the first country of asylum.  
+If it is not possible to send them to the first country of asylum, their international protection application procedures continue.
+#### Article 76 - Assessment of whether the applicant currently benefits from adequate and effective protection in a third country  
+##### 1  
+The applicant is considered to currently benefit from adequate and effective protection in a third country if one of the following conditions is met:  
+###### a  
+The applicant does not have a well-founded fear of persecution or risk of serious harm in the third country.  
+###### b  
+There is no risk of the applicant being sent from this country to another where they cannot benefit from effective and adequate protection.  
+###### c  
+The third country is a party to the Convention, and its practices are also in line with the provisions of the Convention.  
+###### ç  
+The adequate and effective protection provided by the third country will continue until a permanent solution is found for the applicant.
 
 
 
