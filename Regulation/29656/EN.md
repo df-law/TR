@@ -2008,3 +2008,10 @@ Fingerprints shall not be taken from heads of state or government and high-level
 #### Article 125 - Removal centers and reception and accommodation centers
 ##### 1
 Procedures and principles regarding removal centers and reception and accommodation centers shall be regulated within the framework of the Regulation on Establishment, Management, Operation, Running and Supervision of Reception and Accommodation Centers and Removal Centers published in the Official Gazette No. 28980 dated 22/4/2014.
+### Chapter 2 - Migration Policies Council and Its Duties
+#### Article 126 - Establishment
+##### 1
+The Council consists of the Minister of Interior as chairman, undersecretaries of the Ministries of Family and Social Policies, European Union, Labor and Social Security, Foreign Affairs, Interior, Culture and Tourism, Finance, National Education, Health and Transportation, Maritime Affairs and Communications, along with the President of the Presidency for Turks Abroad and Related Communities and the Director General.  
+##### 2
+According to the meeting agenda, representatives of relevant ministry, other national or international institutions and organizations, and non-governmental organizations may be invited to the meeting.  
+Representatives of ministries, institutions and organizations to be invited to the meeting shall be determined with the approval of the Council Chairman.
