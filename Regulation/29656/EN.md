@@ -1318,6 +1318,50 @@ Their deportation and administrative detention orders are terminated upon arriva
 #### Article 64 - Deportation Procedures for Foreign Nationals Admitted to Turkey Under Readmission Agreements  
 ##### 1  
 The procedures and principles related to the deportation of foreign nationals admitted to Turkey under readmission agreements are determined separately by the Ministry.
+## Part 3 - International Protection  
+### Chapter 1 - Application for International Protection  
+#### Article 65 - General Principles  
+##### 1  
+Each foreign national or stateless person may apply for international protection on their own behalf.  
+Applications for international protection cannot be submitted by a legal representative or lawyer, except as provided in Article 68.  
+##### 2  
+Applications for international protection are submitted in person to the governorates.  
+However, in cases where unaccompanied minors or other applicants cannot submit their applications in person, applications may be accepted by relevant units at their location.  
+##### 3  
+During the application process, the applicant's statement regarding their application for international protection is taken in a language in which they can express themselves.  
+This statement includes aspects such as reasons for entering the country and any special needs.  
+If the applicant cannot provide a Turkish translation of their statement, the administration may utilize the resources of public institutions, non-governmental organizations, and international organizations, including cooperation with NGOs.  
+##### 4  
+Those who apply for international protection on their own initiative within a reasonable time are exempt from criminal penalties for violating the conditions of legal entry into Turkey or legal residence, provided they explain the reasons for their illegal entry or residence.  
+However, if an assessment by the governor’s office finds that they cannot justify their illegal entry or residence with valid reasons, criminal penalties may apply.  
+##### 5  
+The assessment of whether the application was submitted within a reasonable time and the reasons for the illegal entry or residence are conducted separately for each applicant, considering their circumstances and reasons for coming to Turkey.  
+##### 6  
+Copies of information and documents regarding the applicant are kept in their personal file with respect to confidentiality, while originals are returned to the applicant.  
+##### 7  
+Individuals under processing within the framework of international protection are allowed to remain in Turkey until a final decision is made.  
+##### 8  
+When making decisions regarding applicants for international protection and individuals with international protection status, the authorities consider not only the information provided by the applicant but also information obtained from relevant public institutions, international organizations, and other sources.  
+##### 9  
+Necessary measures are taken by the governor’s office for applicants who are deemed to pose a threat to public health.  
+##### 10  
+All information and documents related to judicial and administrative procedures for individuals undergoing international protection procedures are requested from the relevant institutions.
+#### Article 66 - General Provisions Regarding the Receipt of Applications and Notification of Interview  
+##### 1  
+At the time of application, information related to the application for international protection is collected by the provincial directorate.  
+##### 2  
+The applicant is informed of their rights and obligations in Turkey, and, if possible, the time and place of the interview.  
+If the interview time and place cannot be determined, they may be communicated to the applicant at a later date.  
+##### 3  
+For applications submitted outside satellite provinces, the applicant is allowed to remain at a specified address in the province where the application was submitted until a decision is made by the General Directorate or the provincial directorate, if authorized.
+#### Article 67 - Applications Submitted to Other Authorities  
+##### 1  
+When an application for international protection is submitted at border gates or within the country to law enforcement units or other public institutions, these units immediately inform the provincial directorate of the matter.  
+##### 2  
+Applications for international protection from individuals deprived of their liberty are promptly reported to the provincial directorate.  
+The receipt and processing of applications do not prevent the implementation of other judicial and administrative procedures, as well as measures and sanctions.  
+##### 3  
+The General Directorate or provincial directorates conduct activities aimed at informing relevant public institutions, particularly law enforcement units, about the nature of international protection procedures and responsibilities regarding such applications.
 
 
 
