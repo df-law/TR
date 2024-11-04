@@ -1847,3 +1847,30 @@ If the violation of said obligations continues, the Directorate General or gover
 For applicants and international protection status holders who have been given negative decisions by the Directorate General or governorate regarding their applications or statuses, restrictions may be imposed on benefiting from rights other than education and basic health rights.  
 ##### 5
 Assessment regarding restrictions shall be made individually and the decision shall be notified to the person concerned.
+### Chapter 7 - Support for Voluntary Return
+#### Article 112 - Protocol and cooperation with international organizations
+##### 1
+The Ministry can make protocols and cooperation agreements with international organizations and non-governmental organizations within the scope of Article 92 of the Law.
+#### Article 113 - Persons with special needs
+##### 1
+It shall be determined first whether applicants are unaccompanied children, disabled, elderly, pregnant, single parents with children, or persons who have been subjected to torture, sexual assault or other serious psychological, physical or sexual violence.  
+##### 2
+Priority shall be given to persons with special needs in all procedures and transactions, every convenience shall be shown, and their situations shall be recorded.  
+##### 3
+For treatment of those processed under international protection who are assessed to have been subjected to torture, sexual assault or other serious psychological, physical or sexual violence, cooperation may be made with relevant public institutions and organizations, non-governmental organizations and international organizations.
+#### Article 114 - Human trafficking victims under international protection
+##### 1
+For applicants or international protection status holders who are suspected strongly to be or are victims of human trafficking, provisions regarding victims of human trafficking shall also be applied.
+#### Article 115 - Country of origin information
+##### 1
+In order to verify the accuracy of applicants' claims during the evaluation process of international protection applications, information shall be collected from multiple sources about countries of origin, residence and transit.  
+##### 2
+The Directorate General may establish a source country reporting system for collecting and updating country of origin information and may make this information available to relevant institutions and organizations.  
+##### 3
+The establishment and operation of the source country reporting system shall be carried out according to procedures and principles determined by the Directorate General.  
+##### 4
+The Directorate General may cooperate with relevant public institutions and organizations, universities, international organizations, non-governmental organizations and other organizations that can provide information from within or outside the country for collecting country of origin information.  
+##### 5
+The Directorate General may assign personnel in relevant countries for collecting country of origin information.  
+##### 6
+The Directorate General shall take necessary measures to update country of origin information.
