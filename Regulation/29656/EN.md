@@ -800,4 +800,52 @@ After the issuance of a family residence permit, governorships may continue to c
 Residence permits obtained through a marriage of convenience and subsequently canceled are not included in the calculation of the residence permit duration stipulated by the Law.  
 ##### 6
 If a marriage of convenience is established, the relevant law enforcement authorities are informed.
+#### Article 35 - Principles regarding student residence permits
+##### 1
+Foreigners who will pursue associate, undergraduate, graduate, or doctoral studies at a higher education institution in Turkey, as well as foreigners attending primary and secondary education without a family residence permit, are required to obtain a student residence permit.  
+This is subject to the provision regarding applicants for and holders of international protection status.  
+##### 2
+For applications from Turkey, foreigners intending to attend primary and secondary education must meet the visa requirements relevant to their purpose.  
+##### 3
+Students studying in Turkish schools or faculties are granted a residence permit without fees.  
+Students in non-Turkish schools, such as consulate, embassy, and international schools, are required to pay the residence permit fee.  
+##### 4
+The Directorate General, in cooperation with primary, secondary, and higher education institutions, as well as relevant institutions and organizations, takes necessary measures to facilitate students’ procedures.  
+##### 5
+Criteria for covering the care and expenses of foreigners attending primary and secondary education are determined by the Directorate General in consultation with relevant institutions.  
+##### 6
+Student residence permits grant students only the right to act as a sponsor in family residence permit applications for their spouse and children.  
+It does not provide any rights for obtaining residence permits for other relatives.  
+##### 7
+If the period of study at the institution where the student is enrolled is less than **1 year**, the duration of the student residence permit cannot exceed the study period.  
+##### 8
+Foreign students who apply to become general health insurance beneficiaries within **3 months** from their initial registration date, in accordance with the Social Insurance and General Health Insurance Law, are not required to obtain separate health insurance.  
+However, foreign students who fail to apply within **3 months** from their registration date and thereby lose the right to general health insurance must obtain private health insurance.  
+##### 9
+Foreign students brought to Turkey through public institutions and organizations are not required to declare their income if they submit a document indicating that their accommodation, health, and living expenses will be covered by the relevant institution during their stay.  
+##### 10
+Students who come to Turkey to enroll in universities and are directed to Turkish language preparatory courses by their schools are issued a student residence permit valid until the beginning of the next academic term, provided they document their status.  
+##### 11
+Students and relevant educational institutions must notify the provincial directorates within **20 days** of any changes related to the student’s status or enrollment.  
+##### 12
+In cases where higher education students change universities, faculties, or departments, the following procedures are applied:  
+###### a
+If the student changes faculties or departments within the same institution or transfers to a different institution in the same province without taking a break in their studies and notifies the authorities in time, the existing residence permit remains valid.  
+If the residence permit duration is shorter than the study period, it is extended for the study period from the permit's expiration date.  
+###### b
+If the student continues their studies in a different province, the governorship of the new province cancels the existing residence permit and issues a new residence permit for the duration of the new study period.  
+##### 13
+If the higher education student suspends their enrollment, the residence permit is canceled from the suspension date.  
+##### 14
+Student residence permits are not granted for reasons of special student status, open education, or distance education.
+#### Article 36 - Application for student residence permits
+##### 1
+The application for a student residence permit is made by the student or the educational institution after the student completes the pre-registration process, following the procedures and principles determined by the Directorate General.  
+Those placed by the decision of the International Students Evaluation Board are not required to complete pre-registration.  
+The procedures and principles regarding implementation are determined jointly by the Directorate General and the Secretariat of the International Students Evaluation Board.  
+##### 2
+Educational institutions may also apply for a student residence permit on behalf of students who wish to obtain it from consulates.  
+##### 3
+For applicants under **18 years** of age or those who are minors, the provisions of Article **122** are applied in their student residence permit procedures.
+
 
