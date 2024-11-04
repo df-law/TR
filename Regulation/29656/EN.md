@@ -1362,6 +1362,58 @@ Applications for international protection from individuals deprived of their lib
 The receipt and processing of applications do not prevent the implementation of other judicial and administrative procedures, as well as measures and sanctions.  
 ##### 3  
 The General Directorate or provincial directorates conduct activities aimed at informing relevant public institutions, particularly law enforcement units, about the nature of international protection procedures and responsibilities regarding such applications.
+#### Article 68 - Applications made on behalf of family members  
+##### 1  
+An applicant may also submit an application on behalf of family members who have accompanied them and are applying on the same grounds.  
+In this case, additional consent is not required from underage family members.  
+##### 2  
+Adult family members, before consenting to an application being made on their behalf, are informed about:  
+###### a  
+The rights of the applicant,  
+###### b  
+The procedures for applying for international protection,  
+###### c  
+The possibility of their application being considered individually,  
+###### ç  
+Their status as an applicant in any case,  
+###### d  
+Other issues deemed appropriate by the administration.  
+##### 3  
+Family members for whom an application has been submitted by consent or without requiring consent due to their being underage are also considered applicants.  
+Their applications are evaluated together with the person who submitted the application on their behalf.  
+Once family members reach adulthood, their applications continue to be evaluated with the accompanying family members unless they submit a written request for separate consideration.  
+##### 4  
+If, during the application, the administration determines that any family member requires independent consideration, their application is taken separately.
+#### Article 69 - Identification  
+##### 1  
+The applicant is obliged to provide accurate personal information and, if available, documents proving their identity and travel documents.  
+If there is suspicion that the submitted documents may be fraudulent, they are inspected by the relevant units.  
+##### 2  
+The personal data of the applicant are collected by the provincial directorate, recorded in the institutional software system, and compared with information in relevant databases.  
+The application is considered withdrawn if the applicant refuses to provide their personal data.  
+##### 3  
+If the applicant cannot present documents verifying their identity, data obtained from the comparison of personal data and conducted investigations are used for identification.  
+During identity verification, methods such as language analysis may also be utilized.  
+If the applicant’s identity cannot be determined as a result of the investigation, the applicant’s statement is taken as the basis.  
+##### 4  
+For identification purposes, inspections of the applicant’s clothing and belongings may be conducted in accordance with regulations.
+#### Article 70 - Points of attention during registration  
+##### 1  
+Confidentiality is essential during registration.  
+Necessary measures are taken to ensure this.  
+##### 2  
+Registration is conducted in a separate area equipped to complete the registration process without interruption.  
+No one other than those required to be present during registration is allowed in the registration area.  
+##### 3  
+Registration personnel avoid any behavior or actions that may prevent the applicant from providing information.  
+##### 4  
+Applications for international protection are recorded in the institutional software system as quickly as possible.  
+##### 5  
+If the applicant has special needs, information regarding these needs is recorded.  
+##### 6  
+At the end of registration, all information on the registration screen of the institutional software system is read to the applicant, and they are asked to confirm its accuracy and indicate any additional information they wish to provide.  
+##### 7  
+A printed copy of the electronic registration form filled out during registration is signed by those present, and a copy is given to the applicant.
 
 
 
