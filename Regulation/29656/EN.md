@@ -407,3 +407,63 @@ Foreigners listed in paragraphs (ç), (d), and (f) of the first paragraph may re
 Foreigners listed in paragraphs (ç), (d), (e), and (f) of the first paragraph, who wish to remain in Turkey after the expiration of their exemption from a residence permit or upon the conclusion of their duties, are required to apply for one of the residence permits regulated by the Law at the governorship of their residence within **10 days**.  
 ##### 4
 Except for stateless persons and holders of international protection status, periods spent in Turkey by foreigners listed in the first paragraph, based on documents and permits exempting them from the residence permit, are not included in the total duration of their residence permits.
+
+#### Article 21 - Principles regarding residence permit applications
+##### 1
+Foreigners applying for a residence permit provide the requested information and documents to the governorships for domestic applications and to the consulates for foreign applications within the specified period.  
+The documents required for the application are determined by the Directorate General and published on the official website.  
+##### 2
+Residence permit applications that can be submitted to governorships within Turkey must be made before the expiration of the legal period required for the application.  
+Applications are also accepted from those who have exceeded the residence permit duration, visa period, or visa exemption by up to **10 days**.  
+The **10-day** condition may be waived if necessary due to the foreigner’s circumstances and administrative needs.  
+The procedures and principles related to this are separately determined by the Directorate General.  
+##### 3
+For those whose applications are accepted and approved without adherence to the **10-day** condition due to the foreigner’s circumstances and administrative needs, the new residence permit period begins from the application date.  
+Fees accrued for the period until the application date are calculated in accordance with the Fees Law numbered **492** dated **2/7/1964**.  
+##### 4
+It is essential for the residence permit application to be submitted personally by the foreigner.  
+These applications may also be submitted through the foreigner's legal representative or an attorney holding power of attorney.  
+##### 5
+Extension applications are submitted to the governorships beginning **60 days** before the expiration of the residence permit and, in any case, before the permit expires.  
+##### 6
+Residence permit applications submitted within **10 days** by those whose work permits have been canceled or expired are finalized in accordance with Article **22** of the Law.  
+##### 7
+For those whose work permit extension applications are denied, the mandatory **10-day** period for residence permit applications begins on the date of notification of the negative decision regarding the work permit extension application.  
+##### 8
+Those who complete the residence permit application in accordance with the provisions of the Law regarding residence permit applications made within Turkey or the extension of residence permits are issued a residence permit application document.  
+##### 9
+The principles regarding the issuance of the residence permit application document and the rights it grants to foreigners are as follows:  
+###### a
+The form and content of the document are determined by the Directorate General.  
+###### b
+The document indicates the status of foreigners exempt from residence permit fees.  
+###### c
+The document itself is not subject to any fees, charges, or other payments.  
+###### ç
+This document grants the right to stay in Turkey until the application is finalized.  
+###### d
+Except for those exempt from fees as indicated on the document, foreigners may exit and re-enter Turkey multiple times at border gates with their application documents, provided they have paid the residence fees, prove their residence permit application status, and stay within the requested residence permit period.  
+If they return within **15 days** each time, they are exempt from the visa requirement upon re-entry to the country.  
+If the **15-day** period is exceeded, general visa provisions apply.  
+The provision regarding staying **90 days** within **180 days** per Article **10** remains in effect.  
+##### 10
+Those whose residence permit applications are rejected or whose residence permits are canceled are required to provide a new justification for their residence permit request if they reapply within **6 months**.  
+##### 11
+Foreigners whose short-term residence permits have been canceled due to staying outside the country for more than **120 days** in the last year, whose family residence permits were canceled due to staying outside the country for more than **180 days** in the last year, or whose long-term residence permits were canceled due to staying outside Turkey for more than one continuous year are not required to provide a new justification when reapplying to obtain these permits.  
+##### 12
+Foreigners within the scope of the eleventh paragraph who are present in Turkey may apply for a residence permit within **10 days** of receiving the cancellation notification.  
+In this case, a single-entry visa fee and the residence permit fee for the period from the cancellation date to the application date are collected at double the rate.  
+Periods spent outside the country are not taken into account in this calculation.  
+##### 13
+Foreign children born in Turkey may remain in the country with their birth certificates based on the valid residence permit period of the mother or father until a travel document is issued and a residence permit application is made.  
+A birth certificate alone does not grant the right to enter or exit Turkey.  
+It is mandatory to obtain an appropriate residence permit for these children within **180 days**.  
+The residence permit is issued effective from the date of birth of the child.  
+Those who have not applied for a residence permit within **180 days** and have resided based on their birth certificates are charged a fee calculated in accordance with the Fees Law for the time exceeded without a residence permit upon exit from the country, at double the rate.  
+If this fee is paid, a temporary entry ban is not applied.  
+##### 14
+In residence permit applications, necessary arrangements are made by the governorships considering the circumstances of disabled and ill applicants.  
+##### 15
+The Directorate General may regulate the provinces where residence permits can be issued due to public order or public security.  
+##### 16
+Special provisions in bilateral or multilateral agreements remain reserved.
