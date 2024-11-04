@@ -1909,4 +1909,61 @@ Cooperation and coordination between national and international institutions and
 ##### 3
 In each province, provincial migration councils, where integration activities are planned and conducted at the provincial level with participation of public institutions and organizations, municipalities, chamber of commerce, non-governmental organizations, universities, meet once a month under chairmanship of the governor.  
 Decisions taken at each meeting are regularly sent to the Directorate General.
-  
+#### Article 119 - Statistical data
+##### 1
+Statistics regarding foreigners and applicants or international protection status holders shall be kept and shared by the Directorate General or governorships according to procedures and principles to be determined by the Directorate General.  
+##### 2
+Regarding procedures and actions within the scope of the Law, the Directorate General publishes statistics in cooperation with the Turkish Statistical Institute.
+#### Article 120 - Procedures and principles regarding notifications
+##### 1
+The provisions of the Notification Law No. 7201 dated 11/2/1959 shall apply to all notification procedures specified in this Regulation.  
+##### 2
+Actions subject to notification shall be carried out as follows:  
+###### a
+The form and content of notification shall be determined by the Directorate General or governorship.  
+###### b
+All types of notifications shall be made in languages to be determined by the Directorate General.  
+###### c
+When proper notification cannot be made in the determined languages, the governorship shall determine the most appropriate language for notification.  
+###### ç
+The situation of persons with special needs shall also be considered in notification procedures.  
+###### d
+Notifications shall be made to the person concerned or their legal representative or lawyer.  
+###### e
+If the person concerned is not represented by a lawyer, they or their legal representative shall be informed about the result of the decision, appeal procedures and periods.  
+##### 3
+Notifications may also be made through registered electronic mail.  
+Procedures and principles regarding the allocation of registered electronic mail addresses to foreigners and use of this system shall be carried out within the framework of the Electronic Notification Regulation published in the Official Gazette No. 28533 dated 19/1/2013.
+#### Article 121 - Support for voluntary return
+##### 1
+Foreigners within the scope of the Law who wish to voluntarily return to their country of origin or a third country may be provided voluntary return support within the framework of the following procedures to facilitate their return and contribute to their adaptation:  
+###### a
+The decision regarding support to be provided to the person making voluntary return shall be made by the Directorate General upon proposal of the governorship.  
+###### b
+Support may be in kind or in cash, as well as in the form of vocational training, and may be provided in Turkey or in the foreigner's country of origin.  
+###### c
+An entry ban decision may not be issued for foreigners who return to their countries of origin by benefiting from the support.  
+##### 2
+Those under administrative detention who apply for voluntary return support may be taken to a separate center or a decision may be made to terminate their administrative detention for the purpose of facilitating and monitoring return procedures.  
+##### 3
+The Directorate General may cooperate with public institutions and organizations, international organizations, relevant country authorities and non-governmental organizations regarding the provision and implementation of voluntary return support and may benefit from funds of international organizations.  
+##### 4
+The status of international protection status holders who apply for voluntary return but withdraw their request shall be maintained.  
+Procedures for applicants shall continue from where they left off.  
+##### 5
+The status of international protection status holders who make voluntary return shall be terminated.
+#### Article 122 - Matters requiring attention in procedures regarding children
+##### 1
+Except for provisions in special laws, the following matters shall be considered in procedures regarding foreign children:  
+###### a
+In case of joint custody, joint consent of mother and father shall be sought.  
+Consent may also be given before administrative authorities where the application will be made.  
+If one spouse and child are in different countries, consent of the other spouse regarding this request shall be sought from the mother or father making the application for the child.  
+###### b
+Mother or father who documents having custody may carry out procedures alone.  
+###### c
+In cases where legal representative and child are in different countries, the person to whose care the child is entrusted shall be granted the right to carry out procedures regarding the child, provided that there is approval of the legal representative given before competent authority and commitment of the accompanying person to undertake care of the child.  
+###### ç
+When the best interest of the child is in question, the administration shall initiate and decide on procedures within the scope of the Law regarding the child without any consent, request or application.  
+###### d
+Matters related to international protection are reserved in provisions concerning children.  
