@@ -847,5 +847,62 @@ The procedures and principles regarding implementation are determined jointly by
 Educational institutions may also apply for a student residence permit on behalf of students who wish to obtain it from consulates.  
 ##### 3
 For applicants under **18 years** of age or those who are minors, the provisions of Article **122** are applied in their student residence permit procedures.
+#### Article 37 - Issuance of student residence permits
+##### 1
+For foreigners attending primary and secondary schools, a residence permit is issued for a maximum period of **1 year**, valid from the start of studies until the beginning of the following academic year.  
+##### 2
+Foreigners enrolled in associate, undergraduate, graduate, or doctoral programs at higher education institutions in Turkey may be issued a residence permit covering the full duration of the study program from the date of application.  
+If the student does not graduate within the standard duration, the residence permit may be extended for additional periods of up to **1 year** each, not exceeding the maximum study period.  
+Residence permits of students who graduate terminate on the graduation date, and the **10-day** period stated in the first paragraph of Article **26** starts from the date of graduation.  
+#### Article 38 - Right to work for graduate and doctoral students
+##### 1
+Graduate and doctoral students studying in Turkey may work if they obtain a work permit.  
+##### 2
+The full duration of a student’s work permit is counted towards the total residence permit duration.  
+The period covered by the student residence permit for the same timeframe is not included in this calculation.  
+##### 3
+Students with a work permit are exempt from the obligation to obtain a student residence permit during the validity of the work permit.  
+However, if the work permit expires or is not renewed, the foreign student must obtain a student residence permit.  
+#### Article 39 - Refusal, cancellation, or non-extension of a student residence permit
+##### 1
+A student residence permit is not issued, or if issued, it is canceled or not extended if conditions required for obtaining it are not met or no longer apply, if there is evidence that the student cannot continue studies, if the permit is used for purposes other than those for which it was issued, or if the foreign student has a valid deportation decision or entry ban to Turkey.  
+##### 2
+If the student residence permits of students who are Turkey scholarship recipients are refused, not extended, or canceled, the scholarship provider institution is notified.  
+##### 3
+The decision to refuse, cancel, or not extend the residence permit is communicated to the foreigner, their legal representative, or attorney.  
+#### Article 40 - Long-term residence permit
+##### 1
+Foreigners who meet the conditions stipulated by the Law for a long-term residence permit or those set by the Migration Policy Board are granted an indefinite long-term residence permit issued by the governorates with the approval of the Ministry.  
+##### 2
+Foreigners may apply for a long-term residence permit if they meet the conditions.  
+When checking the condition of continuous residence for **8 years**, any interruptions are determined as follows:  
+###### a
+The calculation is based on the application date.  
+Periods spent abroad and periods spent in Turkey without a residence permit are considered interruptions.  
+###### b
+If there are no interruptions exceeding **180 days** in any of the **1-year** periods counted backward from the application date, the check proceeds to the next year until **8 years** are completed.  
+###### c
+If there are no interruptions exceeding **180 days** in each of the **1-year** periods, it is checked whether the total interruption exceeds **365 days** in the last **5 years**.  
+###### ç
+If the foreigner has a single or consecutive interruption, either abroad or in Turkey without a residence permit, exceeding **6 months** within **8 years**, the application is rejected without proceeding to the **1-year** period calculation.  
+###### d
+Periods of previous residence permits are not counted towards the total residence permit duration for foreigners subject to deportation.  
+##### 3
+For meeting the requirement of uninterrupted **8-year** residence with a residence permit in Turkey, residence permits obtained before the Law's enactment are also included in the calculation under the second paragraph.  
+##### 4
+It is checked whether the foreigner has received social assistance in the last **3 years** from the application date.  
+If it is determined that they have received social assistance, the application is rejected.  
+##### 5
+The following criteria apply to the requirement of having sufficient and regular income sources:  
+###### a
+The foreigner must have financial resources sufficient to cover their monthly expenses at the level of the net minimum wage effective in the year of application.  
+###### b
+The foreigner must have financial resources sufficient to cover expenses for themselves, totaling no less than the minimum wage, and for each family member, totaling one-third of the minimum wage.  
+###### c
+The foreigner's income sources cannot rely on third-party commitments.  
+##### 6
+The application is rejected if the foreigner does not have valid health insurance at the application date.  
+##### 7
+If necessary, it is checked, in cooperation with relevant security units, whether the foreigner poses a threat to public order or security.
 
 
