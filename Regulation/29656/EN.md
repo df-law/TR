@@ -364,3 +364,46 @@ In the evaluation within the framework of paragraph (g) of the first paragraph o
 #### Article 18 - Notification of visa procedures
 ##### 1
 Decisions on visa refusal and cancellation are notified to the foreigner.
+### Chapter 2 - Residence Permit
+#### Article 19 - Residence permit
+##### 1
+Except for those exempt from the requirement to obtain a residence permit, foreigners staying in Turkey beyond the period granted by the visa or visa exemption, or beyond **90 days**, are required to obtain a residence permit.  
+##### 2
+Foreigners intending to stay for a shorter period than that specified in the first paragraph may also apply for a residence permit.  
+##### 3
+Residence permit applications that can be made within Turkey are submitted to the governorships, while in other cases, applications are submitted to the consulates in the foreigner’s country of citizenship or in the country where they are legally residing.  
+##### 4
+Residence permit applications may also be submitted electronically within the framework of the established procedures and principles.  
+##### 5
+Residence permits obtained abroad lose their validity if they are not activated within **6 months**.
+#### Article 20 - Foreigners exempt from the residence permit requirement
+##### 1
+The following foreigners are exempt from the requirement to obtain a residence permit:  
+###### a
+Those staying in Turkey within the duration of their visa or visa exemption.  
+###### b
+Persons covered under Article **28** of the Turkish Citizenship Law.  
+###### c
+Holders of the Stateless Person Identity Document.  
+###### ç
+Persons exempt from the residence permit requirement under agreements to which the Republic of Turkey is a party.  
+###### d
+Diplomatic and consular officials assigned in Turkey, as well as family members reported by the Ministry of Foreign Affairs.  
+###### e
+Those assigned for a temporary period in foreign missions based in Turkey, with a temporary duty annotation granting exemption from a residence permit for up to **6 months** applied to their passport by the Ministry of Foreign Affairs.  
+###### f
+Persons working in the representations of international organizations in Turkey whose status is defined by agreements.  
+###### g
+Persons holding a valid Registration Certificate, International Protection Applicant Identity Document, or International Protection Status Holder Identity Document within the framework of an international protection application.  
+###### ğ
+Those holding a work permit or Work Permit Exemption Certificate.  
+###### h
+Holders of a Migrant Certificate under the Settlement Law.  
+###### ı
+Holders of a Temporary Protection Identity Document.  
+##### 2
+Foreigners listed in paragraphs (ç), (d), and (f) of the first paragraph may remain in Turkey for the duration of their duties based on a document, the format and content of which are jointly determined by the Ministry and the Ministry of Foreign Affairs.  
+##### 3
+Foreigners listed in paragraphs (ç), (d), (e), and (f) of the first paragraph, who wish to remain in Turkey after the expiration of their exemption from a residence permit or upon the conclusion of their duties, are required to apply for one of the residence permits regulated by the Law at the governorship of their residence within **10 days**.  
+##### 4
+Except for stateless persons and holders of international protection status, periods spent in Turkey by foreigners listed in the first paragraph, based on documents and permits exempting them from the residence permit, are not included in the total duration of their residence permits.
