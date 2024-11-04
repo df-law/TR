@@ -1048,6 +1048,32 @@ If information and documents cannot be obtained directly, provisions of the rele
 The Directorate General may, if necessary, request information and documents from the country of the applicant's former citizenship.  
 ##### 3
 For foreigners suspected of being hidden citizens, an initial examination is conducted with the provincial or district civil registration and citizenship directorates to determine their status.
+#### Article 50 - Issuance, rights, guarantees, and cancellation of the Stateless Person Identity Document
+##### 1
+An Identity Document for Stateless Persons, exempt from fees, is issued by the governorates to individuals determined to be stateless.  
+This document is renewed every two years as long as the individual remains stateless.  
+##### 2
+The form and content of the Stateless Person Identity Document are determined by the Directorate General.  
+##### 3
+The Stateless Person Identity Document grants the following rights:  
+###### a
+They may apply for one of the residence permits they are eligible for.  
+###### b
+They are not subject to deportation unless they pose a serious threat to public order and public security.  
+###### c
+They are exempt from the condition of reciprocity.  
+###### ç
+In matters related to work permits, they are subject to the provisions of the Law on Work Permits for Foreigners.  
+###### d
+They may obtain a passport for foreigners under the provisions of Article 18 of the Passport Law.  
+##### 4
+The Stateless Person Identity Document is canceled if the person acquires citizenship, if it is found that false information or documents were submitted in the application, or if a deportation order is issued on the grounds of a serious threat to public order or public security.
+### Chapter 4 - Deportation
+#### Article 51 - Deportation
+##### 1
+Foreigners may be deported to their country of origin, a transit country, a country through which they passed en route to Turkey, or a third country based on a deportation decision.  
+##### 2
+When determining the country for deportation, the individual’s citizenship status, whether they will be accepted by the planned destination country, and any request to be sent to a third country, if applicable, are considered.
 
 
 
