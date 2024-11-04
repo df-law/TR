@@ -1074,6 +1074,59 @@ The Stateless Person Identity Document is canceled if the person acquires citize
 Foreigners may be deported to their country of origin, a transit country, a country through which they passed en route to Turkey, or a third country based on a deportation decision.  
 ##### 2
 When determining the country for deportation, the individual’s citizenship status, whether they will be accepted by the planned destination country, and any request to be sent to a third country, if applicable, are considered.
+#### Article 52 - Deportation decision
+##### 1
+In addition to the foreigners specified in Article 55 of the Law, a deportation decision is not taken for the following categories of foreigners:  
+###### a
+Those whose visa or residence permits have been canceled and who voluntarily arrive at border gates within **10 days** to leave the country.  
+###### b
+Those who have overstayed their visa or visa exemption period by more than **10 days** and voluntarily arrive at border gates to leave.  
+###### c
+Those who have come with a visa or under a visa exemption and whose residence permit applications have been rejected but whose visa or visa exemption period has not yet expired.  
+###### ç
+Those with residence permits who have overstayed their residence period by more than **10 days** without acceptable justification and voluntarily arrive at border gates to leave.  
+###### d
+Those whose residence permit extension applications have been rejected and who voluntarily arrive at border gates to leave without leaving Turkey within **10 days**.  
+###### e
+Foreigners who have withdrawn or are deemed to have withdrawn their international protection application and have voluntarily declared in writing that they waive their right to appeal and wish to return to their country.  
+###### f
+Foreigners who have withdrawn or are deemed to have withdrawn their international protection application and have declared in writing that they waive their right to appeal and are permitted to remain in Turkey under other provisions of the Law.  
+###### g
+Applicants for international protection who have appealed under inadmissible applications and accelerated assessments until a final court decision is made.  
+##### 2
+In relation to deportation decisions taken under Article 54 of the Law, the following considerations are also taken into account:  
+###### a
+Opinions of public institutions and organizations may be obtained to determine foreigners who pose a threat to public order or public security.  
+###### b
+A health report is considered to determine foreigners who pose a threat to public health.  
+##### 3
+The situations of foreigners whose work permits have been canceled are reported by the relevant institution to the Directorate General for evaluation under Article 54 of the Law.  
+##### 4
+The provision of subparagraph (ğ) of the first paragraph of Article 54 of the Law applies to those found to be using their work permit for purposes other than intended.  
+##### 5
+If, after assessment, it is determined that a deportation decision is not necessary, a decision is issued by the governorate stating that deportation is not required, and the foreigner is notified accordingly.
+#### Article 53 - Time limits for deportation, invitation to leave Turkey, and administrative detention decision, and the detention of the foreigner within this period
+##### 1
+A decision for deportation, an invitation to leave Turkey, and administrative detention is made within **48 hours** at the latest.  
+##### 2
+In cases where foreigners are apprehended by law enforcement:  
+###### a
+The **48-hour** period begins from the moment the foreigner is transferred to the deportation center in provinces with such centers.  
+###### b
+If the province where the foreigner is apprehended does not have a deportation center or the center is full, the **48-hour** period begins from the moment law enforcement transmits the documents related to the foreigner to the provincial directorate.  
+###### c
+Law enforcement transmits the foreigner’s information and documents to the provincial directorate as soon as possible.  
+If no information or documents are available to verify the foreigner’s identity, their statements may be accepted.  
+##### 3
+In cases where foreigners are identified by the provincial directorate:  
+###### a
+The **48-hour** period begins from the time the foreigner is present at the provincial directorate.  
+###### b
+Law enforcement personnel are requested to ensure the detention of the foreigner until the deportation process is completed or until they are transferred to the deportation center.  
+##### 4
+The costs of food and other needs of foreigners detained by law enforcement under paragraphs 2 and 3 are covered by the provincial directorate.  
+##### 5
+Deportation decisions may also be made for foreigners identified as subject to deportation in absentia.
 
 
 
