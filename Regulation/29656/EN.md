@@ -467,3 +467,60 @@ In residence permit applications, necessary arrangements are made by the governo
 The Directorate General may regulate the provinces where residence permits can be issued due to public order or public security.  
 ##### 16
 Special provisions in bilateral or multilateral agreements remain reserved.
+#### Article 22 - Review and finalization of residence permit applications
+##### 1
+Any missing or additional information and documents required are communicated to the foreigner at the time of application.  
+If the information and documents are not completed within **30 days** from the date of notification, the application is withdrawn from processing.  
+##### 2
+Residence permit applications are finalized within **90 days** at the latest from the date the application is processed.  
+The **90-day** period begins on the date the complete information and documents are submitted to the authorized authority.  
+If the period is extended, the foreigner is informed.  
+##### 3
+An interview may be conducted with the foreigner during the evaluation process of the residence permit application.  
+##### 4
+If necessary, an investigation may be conducted to determine whether there is a situation that poses a threat to public order or public security.  
+##### 5
+A health report is requested from those previously processed due to a disease threatening public health.  
+##### 6
+In applications for residence permits, except for family and long-term residence permits, the foreigner's statement is essential to determine whether they have sufficient and regular financial means for their stay in the country.  
+If the statement is not found convincing, information and documents that provide concrete proof of the foreigner’s financial means may be requested, and the following criteria are considered in assessing the adequacy of financial means:  
+###### a
+Having sufficient financial resources to cover monthly expenses equal to the net minimum wage valid for the year of application.  
+###### b
+Having a total income of at least the minimum wage, with financial resources for each family member, including the applicant, amounting to one-third of the minimum wage.  
+###### c
+Financial means should not rely solely on third-party commitments.  
+##### 7
+The foreigner's statement is essential in determining accommodation conditions that meet general health and safety standards.  
+If necessary, verification is made through the address registration system or on-site investigation.  
+##### 8
+The foreigner’s address in Turkey may be a fixed address or an address belonging to an accommodation facility.  
+In any case, the foreigner fully declares their address information.  
+If necessary, additional information or documents are requested to complete the address information.  
+##### 9
+Foreigners arriving under yacht tourism may designate the yacht marinas where their yachts are moored as their residence address.  
+##### 10
+Applications for residence permits are rejected for those who have outstanding debts arising from visa violations or a previous residence permit, as well as court costs, attorney fees, or other debts required to be collected and followed up under the Law on Collection Procedure of Public Receivables numbered **6183** dated **21/7/1953** or the Turkish Penal Code numbered **5237** dated **26/9/2004**.  
+##### 11
+In cases where the expired residence permit is not extended or the residence permit request is denied, the foreigner is issued a document, not subject to fees, determined in form and content by the Directorate General, allowing them to stay in Turkey for only **10 days**.  
+##### 12
+Foreigners who obtained a residence permit, work permit, or work permit exemption certificate from consulates are required to register with the address registration system within **20 business days** from the date they entered the country. Foreigners who received these permits within Turkey are required to register from the date they receive the permit documents.  
+##### 13
+Foreigners are required to have valid health insurance covering the duration of the requested residence permit.  
+Those within the general health insurance system in Turkey are considered to have valid health insurance.  
+The insurance policies provided for valid health insurance must meet the terms and conditions specified in the relevant institutions' regulations.  
+For applications submitted within Turkey, private health insurance issued by foreign companies is accepted, provided it is contracted within Turkey.  
+Persons eligible for healthcare services in Turkey under bilateral social security agreements are not required to have private or public health insurance if they can document this status.  
+##### 14
+For those who are not covered by general health insurance or who have not applied to the Social Security Institution, a private health insurance policy covering at least one year, renewable at the end of the year, is required for residence permit requests of one year or more.  
+##### 15
+In cases where the Treasury reports that private health insurance cannot be arranged, residence permit applications are accepted without the health insurance requirement.  
+##### 16
+Foreigners who receive free treatment in Turkey or are brought for treatment under agreements, protocols, and relevant legislation made by the Ministry of Foreign Affairs and the Ministry of Health are not required to have health insurance, provided they document their status.  
+##### 17
+For citizens of foreign states whose healthcare expenses are covered directly by their countries or through their representations, the health insurance requirement may be waived.  
+##### 18
+During the rejection of the residence permit application, the non-extension or cancellation of the residence permit, the foreigner's family ties in Turkey, length of stay, situation in the country of origin, and the best interest of the child are taken into consideration, and enforcement of the decision may be deferred.  
+A document not subject to fees and providing the right to stay in Turkey for **one month** is issued to the foreigner in this situation.  
+At the end of the one-month period, the governorship conducts a re-evaluation, and if it is determined that the foreigner's situation requiring their stay in the country continues, the validity of the document may be extended monthly.  
+In this case, the foreigner is charged a fee for the stay in accordance with the provisions of the Fees Law.
