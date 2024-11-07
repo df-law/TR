@@ -2159,3 +2159,55 @@ A representative of the United Nations High Commissioner for Refugees Turkey Rep
 The Directorate General representative who will chair the Commission and the migration expert, or in the absence of a migration expert, the assistant migration expert who will be appointed in their place, shall be appointed by the Director General as principal and alternate members for two years.  
 Other members shall be determined as principal and alternate members for at least one year.  
 No additional duties shall be assigned to the Commission chairman and members during their term of office.
+#### Article 148 - Working procedures of the Commission
+##### 1
+The Commission meets on dates deemed appropriate by the Commission Chairman to evaluate appeals of those whose international protection applications have been rejected.  
+##### 2
+The Commission meets with full participation of members and makes decisions by absolute majority.  
+In case of a tie vote, the majority is considered achieved in the direction of the vote cast by the Commission Chairman.  
+##### 3
+Commissions may be established in central and provincial organizations.  
+The establishment and working procedures of commissions to be established in provinces shall be determined by the Directorate General.  
+##### 4
+Members cannot abstain in decisions.  
+Decisions with dissenting votes are signed with "dissenting vote" noted.  
+Dissenting vote justifications are submitted in writing to the secretariat to be kept in the file.  
+##### 5
+The Commission conducts its work at the Directorate General service building; commissions established in provinces conduct work at the provincial directorate or other locations deemed appropriate by the commission.  
+##### 6
+Commissions established in the central organization of the Directorate General may also be assigned as provincial commissions in provinces where needed.  
+The assignment period is maximum fifteen days.  
+If the evaluations made by the Commission cannot be completed, this period may be extended once for another fifteen days.
+#### Article 149 - Decisions and characteristics of the Commission
+##### 1
+When evaluating appeals, the Commission also considers the following matters:  
+###### a
+Examines the administration's decision in terms of procedure and merits.  
+###### b
+May request information from the Directorate General, Directorate General representative or provincial directorate.  
+###### c
+May meet with the appellant or their legal representative or lawyer directly or through the provincial directorate.  
+##### 2
+At the end of its evaluation, the Commission makes decisions in two ways:  
+###### a
+May reject the applicant's appeal.  
+###### b
+May request the administration to review its decision in terms of procedure or merits.  
+##### 3
+The Commission renders its decision within maximum fifteen days from the date the appeal reaches it.  
+This period may be extended for up to five more days.  
+##### 4
+The Commission's decision is notified to the foreigner or their lawyer or legal representative.
+#### Article 150 - Secretariat and support services  
+##### 1
+The Commission's secretariat and support services are provided by the Directorate General.
+### Chapter 4 - Coordination Council for Combating Irregular Migration
+#### Article 151 - Establishment  
+##### 1
+The Coordination Council for Combating Irregular Migration is established to perform the duties specified in the third paragraph of Article 116 of the Law, under the chairmanship of the Deputy Minister or the appointed Assistant Deputy Minister, consisting of representatives at the department head level from the General Staff, Ministry of Labor and Social Security, Ministry of Foreign Affairs, National Intelligence Organization, relevant law enforcement units and the Directorate General.  
+##### 2
+Representatives of ministries and institutions who will be members of the Coordination Council are also appointed from among persons at least at the level of department head or equivalent level. The appointment is made by the relevant ministries and institutions within fifteen days following the written notification of the Directorate General.  
+##### 3
+The law enforcement units that will appoint representatives to the Coordination Council are the Gendarmerie General Command, General Directorate of Security, Coast Guard Command, and General Directorate of Customs Protection.  
+##### 4
+Central and local units of relevant public institutions and organizations, non-governmental organizations, representatives of international organizations, and experts on relevant matters may be invited to the Coordination Council meetings upon the approval of the council chairman.
