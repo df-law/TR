@@ -2211,3 +2211,38 @@ Representatives of ministries and institutions who will be members of the Coordi
 The law enforcement units that will appoint representatives to the Coordination Council are the Gendarmerie General Command, General Directorate of Security, Coast Guard Command, and General Directorate of Customs Protection.  
 ##### 4
 Central and local units of relevant public institutions and organizations, non-governmental organizations, representatives of international organizations, and experts on relevant matters may be invited to the Coordination Council meetings upon the approval of the council chairman.
+#### Article 152 - Council meeting procedure  
+##### 1
+The Coordination Council holds regular meetings twice a year, in January and July.  
+The Council may also convene extraordinary meetings at any time upon the call of the coordination council chairman.  
+The Director General may propose to the coordination council chairman to convene an extraordinary meeting of the council.  
+##### 2
+Coordination Council meetings are held at the Directorate General premises or at a different location that the Council Chairman deems appropriate and will be notified to members in advance in writing.
+#### Article 153 - Council meeting agenda  
+##### 1
+The draft agenda for the meeting, prepared with the approval of the Council Chairman, is sent by the Directorate General to council members at least one month before the meeting date, together with any attachments if available.  
+Council members notify the Directorate General of the matters they propose to be included in the agenda no later than one week before the meeting date.  
+##### 2
+The meeting agenda is finalized, submitted by the Director General for the Chairman's approval, and communicated to the members.
+#### Article 154 - Council decisions and their nature  
+##### 1
+The Council convenes with the absolute majority of the total number of members and makes decisions by majority vote of those present.  
+In case of a tie vote, the majority is considered to have been achieved in favor of the side for which the Council Chairman voted.  
+##### 2
+Council decisions must be written in the meeting hall with a number assigned to each decision and signed by the chairman and members.  
+In cases where decisions will be written and signed after the meeting, a decision protocol about this is prepared and signed by the members.  
+If decisions are more than one page, other pages are also written on decision papers with headers, the end of the page with the end of decisions is signed by the Chairman and members, while other pages are initialed.  
+In case of plans, projects, maps, and similar documents that will be attached to council decisions, one set of these documents is initialed by the secretariat and kept in the decision file.  
+##### 3
+Decisions with dissenting votes are signed with the note "dissenting vote".  
+The reasons for dissenting votes are stated in writing and submitted to the secretariat to be kept in the file.
+#### Article 155 - Announcement of decisions  
+##### 1
+Decisions taken at the council are notified in writing by the Directorate General to council members and relevant institutions and organizations, and are announced on the Directorate General's website if there is no confidentiality decision.
+#### Article 156 - Monitoring and evaluation of council decisions  
+##### 1
+Public institutions and organizations submit monitoring reports to the Directorate General every three months, starting from the date of the first meeting, about the work carried out in accordance with council decisions.  
+The Directorate General evaluates these reports and presents the results to the Council Chairman within one month.
+#### Article 157 - Secretariat and support services  
+##### 1
+The commission's secretariat and support services are provided by the Directorate General.
