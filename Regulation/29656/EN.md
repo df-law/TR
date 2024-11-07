@@ -2274,3 +2274,36 @@ The secretariat and support services of the commissions are provided by the rele
 #### Article 161 - Repealed regulation  
 ##### 1
 The Refugee Guesthouses Regulation dated 29/4/1983 and numbered 18032 has been repealed.
+#### TEMPORARY ARTICLE 1 - Transitional provisions
+##### 1
+Until residence permit applications that should be made from abroad start to be accepted at consulates, they will continue to be accepted by governorships.  
+##### 2
+The Directorate General will determine which type of residence permit regulated by the Law corresponds to residence permits obtained before 11.4.2014.  
+##### 3
+Until residence permit applications start to be accepted at consulates, foreigners who have completed the 90-day stay period within 180 days specified in paragraph 1 of Article 10 will be allowed to enter the country if they obtain a visa and arrive at border gates, provided that they agree to apply for a residence permit within 10 days.  
+##### 4
+For foreigners who do not apply for a residence permit within the 10-day period specified in paragraph 3, the period between their entry date and exit date will be considered as visa violation period, and provisions of the Law regarding deportation will be applied.  
+These foreigners will be charged the fee amount corresponding to their violation period, calculated from their country entry date.  
+##### 5
+For those who voluntarily come to border gates to exit the country without applying for a residence permit within 10 days, the period between their entry date and exit date will be considered as visa violation period.  
+These foreigners will be charged the fee amount corresponding to their violation period, calculated from their country entry date.
+#### TEMPORARY ARTICLE 2 - Work permit exemption
+##### 1
+Until the Ministry of Labor and Social Security starts issuing work permit exemption confirmation documents according to Article 10 of the Law on Work Permits for Foreigners, foreigners listed in Article 55 of the Implementation Regulation of the Law on Work Permits for Foreigners who have arrived with an appropriate visa obtained from foreign missions are not required to obtain a residence permit for up to 90 days if their visa duration is sufficient.  
+At the end of this period, they will be issued a short-term residence permit not exceeding the right to work granted to them according to Article 32 of the Law.  
+##### 2
+Foreigners who have arrived in Turkey without an appropriate visa and are determined to fall within the scope of Article 55 of the Implementation Regulation of the Law on Work Permits for Foreigners will be issued a short-term residence permit upon request, with entry visa fee being charged, regardless of whether they arrived with a visa or under visa exemption.  
+##### 3
+From those falling under paragraphs 1 and 2, in addition to the documents required for short-term residence permit, documents from relevant institutions proving that they are among the persons listed in Article 55 of the Implementation Regulation of the Law on Work Permits for Foreigners are requested.  
+##### 4
+Until the Ministry of Labor and Social Security starts issuing work permit exemption confirmation documents according to Article 10 of the Law on Work Permits for Foreigners, tour operator representatives falling under paragraph (h) of paragraph 1 of Article 55 of the Implementation Regulation of the Law on Work Permits for Foreigners, from among foreigners who have a valid residence permit obtained in Turkey for any purpose, may work with a document showing the foreigner's status.  
+The form and content of this document are determined by the Directorate General and issued by governorships.  
+During these procedures, the following points are considered:  
+###### a
+The validity period of the document is limited to the validity period of the residence permit.  
+###### b
+A document allowing work as a tour operator representative may also be issued to those who present their residence permit extension application certificate.  
+###### c
+The document is issued free of charge to those who have a tour operator visa that has not expired for 1 year from the date of receipt.  
+###### ç
+Tour operator representatives who have not received a tour operator visa within the previous 1 year are issued the document with an entry visa fee being charged.
