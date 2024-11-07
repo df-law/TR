@@ -2307,3 +2307,9 @@ A document allowing work as a tour operator representative may also be issued to
 The document is issued free of charge to those who have a tour operator visa that has not expired for 1 year from the date of receipt.  
 ###### ç
 Tour operator representatives who have not received a tour operator visa within the previous 1 year are issued the document with an entry visa fee being charged.
+#### Article 162 - Entry into force
+##### 1
+This Regulation enters into force on the date of its publication.
+#### Article 163 - Execution
+##### 1
+The Minister of Interior executes the provisions of this Regulation.
