@@ -2246,3 +2246,27 @@ The Directorate General evaluates these reports and presents the results to the 
 #### Article 157 - Secretariat and support services  
 ##### 1
 The commission's secretariat and support services are provided by the Directorate General.
+### Chapter 5 - Temporary Commissions
+#### Article 158 - Establishment  
+##### 1
+Temporary commissions are established upon the proposal of the Director General with the approval of the Minister, with the participation of public institutions and organizations, non-governmental organizations, representatives of international organizations and experts on relevant subjects within the scope of duties of the Directorate General.  
+##### 2
+The form of establishment of temporary commissions, working period, number, qualifications, areas of expertise, selection and appointment of persons who will serve as members in commissions are determined by the Directorate General considering the characteristics of the subjects to be studied.
+#### Article 159 - Commission working procedure  
+##### 1
+At the first meeting, principles and rules that the commission will follow regarding working and decision-making procedures are determined and submitted for the Director General's approval.  
+##### 2
+Regular and extraordinary meetings of temporary commissions are held at the place and time deemed appropriate by the Director General upon the proposal of the commission chairman.  
+##### 3
+The chairmanship of temporary commissions is carried out by the representative of the Directorate General.  
+##### 4
+The commission makes decisions by absolute majority.  
+In case of a tie vote, the majority is considered to have been achieved in favor of the side for which the Council Chairman voted.  
+##### 5
+Decisions with dissenting votes are signed with the note "dissenting vote".  
+The reasons for dissenting votes are stated in writing by their owners and submitted to the secretariat to be kept in the file.  
+##### 6
+Commission meetings are held at the Directorate General or at a place deemed appropriate by the Commission Chairman.
+#### Article 160 - Secretariat and support services  
+##### 1
+The secretariat and support services of the commissions are provided by the relevant department of the Directorate General depending on the purpose of establishment and working area of the commission.
