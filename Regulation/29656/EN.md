@@ -2270,3 +2270,7 @@ Commission meetings are held at the Directorate General or at a place deemed app
 #### Article 160 - Secretariat and support services  
 ##### 1
 The secretariat and support services of the commissions are provided by the relevant department of the Directorate General depending on the purpose of establishment and working area of the commission.
+### Chapter 6 - Miscellaneous and Final Provisions
+#### Article 161 - Repealed regulation  
+##### 1
+The Refugee Guesthouses Regulation dated 29/4/1983 and numbered 18032 has been repealed.
