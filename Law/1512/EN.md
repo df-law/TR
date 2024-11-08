@@ -69,3 +69,15 @@ To be eligible for notary internship, one must:
 Persons with convictions preventing notary internship and those affiliated or connected with terrorist organizations cannot be admitted to notary profession.  
 If an investigation or prosecution is conducted regarding a person requesting internship for a crime that prevents notary work, the decision regarding the internship request may be postponed until the end of such investigation and prosecution.  
 However, in cases where the internship admission request must be rejected, the request shall be decided without waiting for the outcome of the criminal prosecution, whatever it may be.
+#### Article 8 - Activities incompatible with traineeship
+The provisions of paragraphs 1 and 2 of Article 50 of this law, and the provision regarding the prohibition of trading contained in paragraph 3 of the same article, shall also apply to trainees.
+#### Article 9 - Application for traineeship
+Application for traineeship shall be made through a petition submitted to the notary chamber to which the notaries at the place of traineeship are affiliated.  
+The following documents shall be attached to the petition:  
+a) 2 certified copies of documents related to traineeship conditions specified in Article 7,  
+b) A declaration stating that the applicant does not have any impediments specified in paragraphs 5, 8, 10 and 11 of Article 7,  
+c) A letter of introduction regarding the moral character of the person applying for traineeship, to be prepared by a notary who is a member of that notary chamber,  
+d) Address suitable for notifications.  
+Copies of these documents shall be certified by the chamber president and sent to the Union of Turkish Notaries.  
+Other copies or originals shall be kept in the file at the chamber.  
+If the declaration submitted by the traineeship applicant is found to be contrary to truth, criminal prosecution shall be initiated against this person for making false statements to official authorities.
