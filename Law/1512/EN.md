@@ -96,3 +96,37 @@ The traineeship applicant or the Union of Turkish Notaries may appeal to the Cou
 #### Article 13 - Beginning of traineeship
 Notary traineeship begins from the date of registration in the list.  
 An objection suspends the registration.
+#### Article 14 - Determination of the number of trainees and the notary for traineeship
+The Ministry of Justice shall, during December of each year, determine how many people can be admitted to traineeship in the following year, taking into account the number of vacant or vacated notary offices and those to be opened or vacated, and after obtaining the opinion of the Union of Turkish Notaries, and shall publish this decision in the Official Gazette and once in newspapers published in places where traineeship can be conducted, until the end of the year.  
+The Union of Turkish Notaries may appeal this decision of the Ministry to the Council of State.  
+The decision to be made by the chamber board according to Article 12 shall specify which notary the traineeship will be conducted with.  
+In case of vacancy in the notary office or the notary's departure from duty due to an impediment lasting more than 2 months, the chamber board shall immediately decide on the trainee's completion of traineeship with another notary.  
+However, this provision shall not apply to a trainee who has completed 6 months of traineeship, in cases other than the closure of the notary office.
+#### Article 15 - Duration of traineeship and duties of trainee
+The duration of traineeship is 1 year.  
+The traineeship shall be conducted continuously.  
+The days when the trainee could not attend due to justified reasons shall be completed by decision of the chamber board if they apply within 1 month after the removal of the impediment.  
+The chamber president may grant the trainee leave not exceeding 15 days in case of justified impediments.  
+The trainee is obliged to perform the work specified by this law and regulation in the notary office where they are conducting their traineeship.
+#### Article 16 - Reports on traineeship
+The report on the trainee's moral conduct and professional competence, to be provided every 3 months by the notary with whom the traineeship is being conducted, shall be sent to the chamber to which the notary is affiliated.  
+The last of these reports shall also include the final opinion on whether the trainee can become a notary or whether the traineeship needs to be extended by 6 months.  
+In case of change of notary office pursuant to the last paragraph of Article 14, the missing 3-month report shall be prepared together with the report for the first 3-month period with the new notary.  
+In cases where the place of traineeship is not changed pursuant to the same paragraph of Article 14, or the trainee is assigned to act as deputy in another notary office pursuant to Articles 33, 34 and 35, or the notary office is changed during the last 3-month period of traineeship, the 3-month reports and the final report, if the notary cannot return to duty until the end of traineeship, shall be prepared by the chamber president or deputy taking into account previous reports and collecting necessary information.  
+The president of the notary chamber shall send the trainee's file, along with their opinion and residential address, to the Presidency of the Union of Turkish Notaries.  
+The Presidency of the Union of Turkish Notaries shall forward the file to the Ministry of Justice, adding its objections if any.
+#### Article 17 - Decision of the Ministry of Justice
+The Ministry of Justice shall make a decision within 15 days from the receipt of the file on whether the expected purpose of the traineeship has been achieved.  
+If the expected purpose of the traineeship has not been achieved, this decision may be in the form of extending the traineeship with the notary by 6 months or removal from traineeship.  
+If the expected purpose of the traineeship has been achieved, the Ministry of Justice shall issue a notary certificate to the trainee.  
+This certificate gives the right to be appointed to one of the vacant 3rd class notary offices.  
+The concerned trainee, the notary with whom the traineeship was conducted, and the Union of Turkish Notaries may appeal to the Council of State against decisions made by the Ministry of Justice according to this article.
+#### Article 18 - Registry of notary certificate holders
+In a registry to be kept at the Ministry of Justice, holders of notary certificates shall be registered according to certificate serial numbers.  
+Re-registration of those whose registry entries have been deleted shall be made according to application dates to be determined pursuant to paragraph 2 of Article 25.  
+Among multiple applicants applying on the same day, ordering shall be made according to certificate serial numbers.  
+If among those whose registrations are to be made on the same day there are those requiring registration according to paragraph 1, registration according to paragraph 1 takes priority.  
+Other matters indicating the status of the interested party and to be specified in the regulation shall also be written in the registry.  
+The manner of deletion of registry entries in cases of appointment of the interested party as notary, death, permanent loss of notary appointment conditions and other cases specified in this law shall be shown in the regulation.
+#### Article 19 - Address notification obligation
+Those who hold a notary certificate and are registered in the registry shown in Article 18 are obliged to notify the Ministry of Justice of changes in their addresses suitable for notification given to the notary chamber according to Article 9, within 15 days from the date of change.
