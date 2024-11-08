@@ -151,3 +151,11 @@ They must also attach documents proving they have completed their military servi
 Applications of persons who do not complete their missing documents within the period granted by the Ministry of Justice shall not be considered.  
 The provisions of the above paragraphs do not apply to those who are notaries at the time of application.  
 The provision of the final paragraph of Article 9 also applies in this case.
+
+### Chapter 2 - Appointment to third-class notary position
+#### Article 24 - Appointment upon announcement  
+Only a person who has obtained a notary certificate may be appointed to a third-class notary position announced in accordance with Article 22.  
+The Ministry of Justice shall appoint to the notary position the person who ranks first in the list specified in Article 18 among the applicants after one month from the date of publication of the announcement in the Official Gazette and in any case after the expiration of the period established in accordance with paragraph 2 of Article 23, provided there are no hindering circumstances.  
+The identity card issued to notaries by the Union of Notaries of Turkey has the status of an official identity document that must be recognized by all public and private organizations.
+#### Article 25 - Appointment upon proposal  
+*Article repealed: Law No. 3588 dated 16.11.1989, Art.17*
