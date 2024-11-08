@@ -37,3 +37,16 @@ New notary offices opened during the 4-year period specified in the previous par
 The provision of Article 31 regarding downgrading to 4th class remains reserved.  
 However, notary offices to be transferred from 4th class to 3rd class are determined and announced at the beginning of April each year.  
 Until the new classification is announced, the previous classification applies.
+#### Article 4/A - Notary's class and minimum length of service
+Notaries are divided into 3 classes.  
+For persons first entering service through appointment as a 3rd class notary, the 3rd class service begins from the date of their assuming office.  
+The minimum length of service for a notary in the 2nd and 3rd class is 4 years for each class.  
+At the end of this period, advancement in class is possible provided that the latest service record prepared by the justice inspector contains a positive opinion regarding them.  
+Upgrading the class of a notary office does not affect the class of the notary.  
+If a notary serving in an upgraded notary office has not completed their service period in the previous class, they begin service in the higher class from the date this period is completed; however, if their latest service record prepared by the justice inspector before this date indicates inability for class advancement, they begin service in the higher class at the same notary office from the date of preparation of the next first service record containing a positive opinion.
+## Part 2 - Admission to notary profession
+#### Article 5 - Requirements for admission to notary profession  
+To become a notary, one must complete a notary internship in accordance with the provisions of this section and obtain a notary certificate.
+#### Article 6 - Exceptional cases
+Persons appointed as judges or prosecutors of general or military jurisdiction, or persons with a law degree appointed as judges or prosecutors of administrative jurisdiction, or who have obtained the title of attorney, or who have earned the right to be admitted to the bar without internship and bar examination requirements according to the Law on Attorneys, are not subject to notary internship.  
+Upon application of such persons to the Ministry of Justice with a petition attaching the documents specified in clauses (a), (b) and (d) of Article 9, after obtaining other necessary documents deemed required by the Ministry and upon examination, if it is determined that they have no circumstances preventing them from becoming a notary, they shall be issued the document specified in paragraph 3 of Article 17 and registered in the register specified in Article 18.
