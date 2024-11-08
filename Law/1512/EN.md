@@ -65,6 +65,7 @@ To be eligible for notary internship, one must:
 11. If issued a certificate of insolvency, have canceled it,  
 12. Not have physical or mental disabilities preventing continuous and proper performance of notary duties,  
 13. Have residence in the place where the internship will be performed.  
+
 Persons with convictions preventing notary internship and those affiliated or connected with terrorist organizations cannot be admitted to notary profession.  
 If an investigation or prosecution is conducted regarding a person requesting internship for a crime that prevents notary work, the decision regarding the internship request may be postponed until the end of such investigation and prosecution.  
 However, in cases where the internship admission request must be rejected, the request shall be decided without waiting for the outcome of the criminal prosecution, whatever it may be.
