@@ -50,3 +50,21 @@ To become a notary, one must complete a notary internship in accordance with the
 #### Article 6 - Exceptional cases
 Persons appointed as judges or prosecutors of general or military jurisdiction, or persons with a law degree appointed as judges or prosecutors of administrative jurisdiction, or who have obtained the title of attorney, or who have earned the right to be admitted to the bar without internship and bar examination requirements according to the Law on Attorneys, are not subject to notary internship.  
 Upon application of such persons to the Ministry of Justice with a petition attaching the documents specified in clauses (a), (b) and (d) of Article 9, after obtaining other necessary documents deemed required by the Ministry and upon examination, if it is determined that they have no circumstances preventing them from becoming a notary, they shall be issued the document specified in paragraph 3 of Article 17 and registered in the register specified in Article 18.
+#### Article 7 - Internship requirements
+To be eligible for notary internship, one must:  
+1. Be a citizen of the Republic of Turkey,  
+2. Be at least 21 years old and not have reached 40 years of age,  
+3. Graduate from one of the Turkish law faculties or graduate from a foreign country's law faculty and pass successful examinations in courses missing from Turkish law faculty programs,  
+4. Pass the Legal Professions Entrance Examination,  
+5. Have no conviction preventing appointment as a civil servant according to Article 48 of Civil Servants Law No. 657 dated 14.7.1965,  
+6. Not have lost the qualification to be a judge, prosecutor, civil servant or attorney as a result of a final criminal or disciplinary decision,  
+7. Not be known in their environment for conduct and behavior unbecoming to the notary profession,  
+8. Not be engaged in work incompatible with notary work and notary internship,  
+9. Not be restricted by court decision,  
+10. If bankrupt, have been rehabilitated (fraudulent and negligent bankrupts shall not be accepted even if rehabilitated),  
+11. If issued a certificate of insolvency, have canceled it,  
+12. Not have physical or mental disabilities preventing continuous and proper performance of notary duties,  
+13. Have residence in the place where the internship will be performed.  
+Persons with convictions preventing notary internship and those affiliated or connected with terrorist organizations cannot be admitted to notary profession.  
+If an investigation or prosecution is conducted regarding a person requesting internship for a crime that prevents notary work, the decision regarding the internship request may be postponed until the end of such investigation and prosecution.  
+However, in cases where the internship admission request must be rejected, the request shall be decided without waiting for the outcome of the criminal prosecution, whatever it may be.
