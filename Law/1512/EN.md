@@ -159,3 +159,13 @@ The Ministry of Justice shall appoint to the notary position the person who rank
 The identity card issued to notaries by the Union of Notaries of Turkey has the status of an official identity document that must be recognized by all public and private organizations.
 #### Article 25 - Appointment upon proposal  
 *Article repealed: Law No. 3588 dated 16.11.1989, Art.17*
+#### Article 26 - Consequences of proposal rejection
+Article repealed: Law No. 3588 dated 16.11.1989, article 17
+### Chapter 3 - Appointment to first, second and third class notary positions
+#### Article 27 - Appointment procedure
+A 1st class notary position shall be filled by a 1st class notary, a 2nd class notary position by a 1st or 2nd class notary, and a 3rd class notary position by a 1st, 2nd or 3rd class notary among the candidates who apply within 1 month following the announcements made according to article 22, appointed by the Minister of Justice.  
+Holders of notary certificates may be appointed to a 3rd class notary position only if there are no applicants from 3rd or higher class notaries.  
+In appointments to 2nd and 3rd class notary positions, appointment requests from notaries of a higher class shall be given preference over other applicants.  
+Appointment requests from notaries who have not completed 2 years in their current notary office shall not be considered.  
+When making appointments, professional seniority among notaries of the same class shall be taken as basis.  
+In case of equal seniority, preference shall be given to the candidate with an earlier notary certificate serial number issued by the Ministry of Justice.
