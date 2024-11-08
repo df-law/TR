@@ -138,11 +138,8 @@ Stajiyerler, staj süresi içinde bu kanun ve yönetmelik hükümleri uyarınca 
 Boşalan, açılan veya 4 sınıftan 3 sınıfa geçirilen noterlikler Resmî Gazete'de ilan olunur.  
 Şu kadar ki, yaş tahdidi sebebiyle boşalacak noterliklerin, noterin yaş tahdidine tabi tutulmasından önce ilânı zorunludur.  
 Yapılacak ilânda, boşalan ve 3 sınıfa geçirilen noterliğin bir evvelki yıla ait gayrisafî geliri, açılan noterliğin ise emsallerine göre Adalet Bakanlığınca tahmin edilecek gayrisafî geliri ve isteklilerin hangi belgelerle birlikte başvurmaları gerektiği gösterilir.  
-#### Madde 23 - Başvurma usulü
-İlân edilen noterliğe başvuranlar, 7 nci maddenin (1), (5) ve sonraki bentlerinde yazılı nitelikleri kaybetmediklerini gösterir belgeleri ile askerlik hizmetini yaptıklarına veya askerlik hizmetine elverişli olmadıklarına ilişkin belgeyi Adalet Bakanlığına veya Bakanlığa gönderilmek üzere bulundukları yer Cumhuriyet Savcılığına verecekleri dilekçelerine iliştirmek zorundadırlar.  
-Adalet Bakanlığınca verilen süre içerisinde noksan belgelerini tamamlamıyan kişilerin istemi nazara alınmaz.  
-Başvurma tarihinde noter bulunanlar hakkında yukarıki fıkralar hükmü uygulanmaz.  
-9 uncu maddenin son fıkrası hükmü bu halde de uygulanır.
+
+
 
 
 

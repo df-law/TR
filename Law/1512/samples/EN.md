@@ -145,9 +145,3 @@ Trainees are responsible for all actions they perform during the traineeship per
 Vacant, newly opened or notary offices being transferred from 4th class to 3rd class shall be announced in the Official Gazette.  
 However, notary offices that will become vacant due to age limit must be announced before the notary becomes subject to age limitation.  
 The announcement shall indicate the gross income of the vacant and transferred to 3rd class notary office from the previous year, and for newly opened notary office - the estimated gross income to be determined by the Ministry of Justice based on similar offices, as well as the documents that applicants must submit with their applications. 
-#### Article 23 - Application procedure
-Applicants for the announced notary position must attach to their petitions submitted to the Ministry of Justice or to the Office of the Chief Public Prosecutor in their location for forwarding to the Ministry documents showing they have not lost the qualifications specified in Article 7 paragraphs (1), (5) and subsequent paragraphs.  
-They must also attach documents proving they have completed their military service or are unfit for military service.  
-Applications of persons who do not complete their missing documents within the period granted by the Ministry of Justice shall not be considered.  
-The provisions of the above paragraphs do not apply to those who are notaries at the time of application.  
-The provision of the final paragraph of Article 9 also applies in this case.
