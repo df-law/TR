@@ -169,3 +169,18 @@ In appointments to 2nd and 3rd class notary positions, appointment requests from
 Appointment requests from notaries who have not completed 2 years in their current notary office shall not be considered.  
 When making appointments, professional seniority among notaries of the same class shall be taken as basis.  
 In case of equal seniority, preference shall be given to the candidate with an earlier notary certificate serial number issued by the Ministry of Justice.
+If after 2 announcements an appointment cannot be made according to the 1st paragraph, notaries of a higher class or the same class may be appointed to the notary position, and in the absence of applicants from these classes, from notaries of a lower class.  
+For appointments under this paragraph, the 2-year period specified in the last sentence of the 1st paragraph shall be applied as 1 year.
+### Chapter 4 - Common provisions
+#### Article 28 - Withdrawal before appointment
+Withdrawal requests from applicants who have applied for appointment or transfer shall be considered in the appointment process provided that they are physically submitted or electronically transmitted to the Ministry of Justice within 1 month from the announcement date made according to Article 22; otherwise, the withdrawal request shall not be taken into consideration.
+#### Article 29 - Request for appointment in case of closure of notary office or resignation
+In case of cancellation of an appointment decision to a vacant or newly opened notary position by the judicial authority, the notary who is left without a position returns to their previous notary position; if someone else has been appointed to the previous position, they shall be appointed to the 1st vacant or newly opening notary position of their class with preference over all other applicants.  
+In such cases, the service period in the previous notary position shall be counted as service period in the newly appointed position.  
+A notary who has resigned after completing 2 years of service in their notary office may be appointed to a notary position of their class at the time of resignation or of a lower class in accordance with the principles and order specified in Article 27, provided that they apply following an announcement and document that they have not lost their notary qualifications.  
+The appointment of a notary who has resigned before completing 2 years of service in their notary office to a notary position of their class at the time of resignation depends on the absence of other applicants specified in Articles 24 and 27, provided that they document that they have not lost their notary qualifications.  
+However, the resigned notary may, if they wish, be appointed to a notary position of a class below their own in accordance with the principles set forth in the 1st paragraph of Article 27.  
+In both cases, if there are multiple applicants, the selection shall be made in accordance with the provisions of the 2nd paragraph of Article 27.  
+A notary who has resigned may not apply for appointment within 6 months from the date of resignation.  
+Those who have resigned for the 2nd time may not be appointed as notaries again.  
+Those who were appointed as notary assistants before this Law came into force cannot benefit from the provisions of the 2nd and 3rd paragraphs of this article;
