@@ -183,4 +183,13 @@ However, the resigned notary may, if they wish, be appointed to a notary positio
 In both cases, if there are multiple applicants, the selection shall be made in accordance with the provisions of the 2nd paragraph of Article 27.  
 A notary who has resigned may not apply for appointment within 6 months from the date of resignation.  
 Those who have resigned for the 2nd time may not be appointed as notaries again.  
-Those who were appointed as notary assistants before this Law came into force cannot benefit from the provisions of the 2nd and 3rd paragraphs of this article;
+Those who were appointed as notary assistants before this Law came into force cannot benefit from the provisions of the 2nd and 3rd paragraphs of this article; these persons, after resigning from the notary profession, cannot be reappointed as notaries until they acquire the qualifications and competencies specified in Article 7.
+#### Article 30 - Assuming office and being deemed resigned
+The title of notary is acquired on the date of actually assuming the notary position.  
+For a notary appointed or transferred to another notary position in their own class or higher class, their notary title in the previous location ends upon completion of the handover procedure in the presence of the Republic prosecutor; the notary title for the new location is acquired on the date of actually assuming office in that location.  
+The notary title continues during the interim period.  
+The decision regarding appointment or transfer shall be announced on the official website of the Ministry of Justice.  
+The notary must assume their new duties within 1 month from the date of announcement.  
+A notary who fails to assume their duties within the specified period without just cause shall be deemed to have resigned from the notary profession.  
+Notaries who open their notary office outside the location determined by the Ministry of Justice or who relocate their existing notary office outside this location shall be given a period of 1 month by the Ministry of Justice to move their notary office within the boundaries of the designated location.  
+A notary who fails to relocate their office within the boundaries of the designated location during this period shall be deemed to have resigned, and the notary office shall be relocated within the boundaries of the designated location under the supervision of the Union of Turkish Notaries.
