@@ -2219,26 +2219,6 @@
 #### Статья 161 - Отменяемое положение  
 ##### 1
 Положение о центрах размещения беженцев № 18032 от 29/4/1983 утратило силу.
-# Переформатирование на турецком:
-
-## Altıncı bölüm - Çeşitli ve Son Hükümler
-#### GEÇİCİ MADDE 1 - Geçiş hükümleri
-##### 1
-Yurt dışından yapılması gereken ikamet izni başvuruları konsolosluklardan alınmaya başlanıncaya kadar valiliklerce alınmaya devam edilir.  
-##### 2
-11/4/2014 tarihinden önce alınan ikamet tezkerelerinin Kanunda düzenlenen ikamet izni türlerinden hangisine karşılık geldiği Genel Müdürlükçe belirlenir.  
-##### 3
-İkamet izni başvuruları konsolosluklardan alınmaya başlanıncaya kadar 10'uncu maddenin 1'inci fıkrasında belirtilen her 180 günde 90 gün kalış süresini tamamlayan yabancıların, vize alarak sınır kapılarına gelmeleri durumunda, en geç 10 gün içerisinde ikamet izni başvurusunda bulunmayı kabul etmeleri kaydıyla ülkeye girişlerine izin verilir.  
-##### 4
-3'üncü fıkra kapsamındaki 10 günlük süre içinde ikamet izni başvurusunda bulunmayan yabancılar hakkında giriş yaptıkları tarih ile çıkış yapacakları tarih aralığındaki süre vize ihlali süresi olarak kabul edilir ve Kanunun sınır dışı etmeye ilişkin hükümleri kapsamında işlem yapılır.  
-Bu yabancılardan ihlal ettikleri süreye karşılık gelen harç miktarı ülkeye giriş tarihinden itibaren hesaplanarak alınır.  
-##### 5
-10 gün içinde ikamet iznine başvurmadan ülkeden çıkış yapmak için kendiliğinden kapıya gelenler hakkında ise giriş yaptıkları tarih ile çıkış yapacakları tarih aralığındaki süre vize ihlali süresi olarak kabul edilir.  
-Bu yabancılardan ihlal ettikleri süreye karşılık gelen harç miktarı ülkeye giriş tarihinden itibaren hesaplanarak alınır.
-
-# Перевод на русский:
-
-## Глава шестая - Прочие и заключительные положения
 #### ВРЕМЕННАЯ СТАТЬЯ 1 - Переходные положения
 ##### 1
 До начала приема заявлений на вид на жительство в консульствах, которые должны подаваться из-за рубежа, они продолжают приниматься губернаторствами.  
