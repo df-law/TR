@@ -81,3 +81,18 @@ d) Address suitable for notifications.
 Copies of these documents shall be certified by the chamber president and sent to the Union of Turkish Notaries.  
 Other copies or originals shall be kept in the file at the chamber.  
 If the declaration submitted by the traineeship applicant is found to be contrary to truth, criminal prosecution shall be initiated against this person for making false statements to official authorities.
+#### Article 10 - Announcement of traineeship
+The application for traineeship along with the matters specified in the previous article shall be announced within 10 days from the date of application by posting for 15 days in a suitable place in the municipal and judicial office building.  
+Anyone may object to the chamber against the registration during this period, provided they present clear evidence or facts.
+#### Article 11 - Report
+Before the announcement of the application, the chamber president shall assign one of the notaries affiliated with the chamber to prepare a report by investigating whether the applicant possesses moral qualities and whether they are engaged in any work incompatible with notary traineeship.
+#### Article 12 - Decision on admission to traineeship, rejection or waiting until the end of investigation
+The chamber board of directors shall, within 1 month after the expiration of the objection period, make a reasoned decision on whether to accept or not accept the candidate to the trainee list or to wait until the end of the investigation, taking into account the report written in Article 11.  
+Chamber board members, the Republic prosecutor of the place where the decision was made, and interested parties may file an objection to the Union of Turkish Notaries within 15 days from the date of notification.  
+If no decision is made within the period specified in the first paragraph, the application shall be deemed rejected.  
+In this case, the traineeship applicant may appeal to the Union of Turkish Notaries within 15 days from the end of the 1-month period.  
+The chamber board's acceptance decision and the decision of the Board of the Union of Turkish Notaries on appeal become final upon approval by the Ministry of Justice.  
+The traineeship applicant or the Union of Turkish Notaries may appeal to the Council of State against the Ministry of Justice's decision.
+#### Article 13 - Beginning of traineeship
+Notary traineeship begins from the date of registration in the list.  
+An objection suspends the registration.
